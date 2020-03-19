@@ -1,0 +1,16 @@
+{
+    "hfov": 100.0,
+    "type": "multires",
+    "hotSpotDebug": false,
+    "compass": true,
+    "northOffset": 276,
+    "multiRes": {
+        "basePath": "img/panos/NQuad",
+        "path": "/%l/%s%y_%x",
+        "fallbackPath": "/fallback/%s",
+        "extension": "jpg",
+        "tileResolution": 512,
+        "maxLevel": 6,
+        "cubeResolution": 8600
+    }
+}
