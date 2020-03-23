@@ -2,7 +2,7 @@
     "hfov": 100.0,
     "type": "multires",
     "multiRes": {
-        "basePath": "img/panos/ODonnell",
+        "basePath": "../img/panos/ODonnell",
         "path": "/%l/%s%y_%x",
         "fallbackPath": "/fallback/%s",
         "extension": "jpg",

@@ -7,7 +7,7 @@
     "compass": true,
     "northOffset": 276,
     "multiRes": {
-        "basePath": "img/panos/GRoom",
+        "basePath": "../img/panos/GRoom",
         "path": "/%l/%s%y_%x",
         "fallbackPath": "/fallback/%s",
         "extension": "jpg",
