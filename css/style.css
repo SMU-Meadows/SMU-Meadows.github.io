@@ -37,12 +37,12 @@ body {
 .btn.btn-default {
   padding: 1rem 0;
   font-size: 1.7rem;
-  background-color: #147979;
+  background-color: #ebeced;
   border-color: #373739;
   border-radius: 0;
 }
 .btn.btn-default:hover, .btn.btn-default:active, .btn.btn-default:focus, .btn.btn-default.is-checked {
-  background-color: #093737;
+  background-color: #798086;
   color: white;
   border: none;
   outline: none;
