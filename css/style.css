@@ -49,8 +49,8 @@ body {
   background-color: #ebeced;
   color: #1a1a1a;
     font-weight: bold;
-  border: none;
-  outline: none;
+  border-color: #ebeced;
+
 }
 
 .thumbnail {
