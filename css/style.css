@@ -32,6 +32,9 @@ body {
 
 .filter-button-group {
   padding: 15px;
+    -webkit-box-shadow: 0px 10px 21px 0px rgba(50, 50, 50, 0.25);
+  -moz-box-shadow:    0px 10px 21px 0px rgba(50, 50, 50, 0.25);
+  box-shadow:         0px 10px 21px 0px rgba(50, 50, 50, 0.25);
 }
 
 .btn.btn-default {
@@ -41,9 +44,7 @@ body {
     color: #e6e6e6;
   border-color: #373739;
   border-radius: 0;
-  -webkit-box-shadow: 0px 10px 21px 0px rgba(50, 50, 50, 0.25);
-  -moz-box-shadow:    0px 10px 21px 0px rgba(50, 50, 50, 0.25);
-  box-shadow:         0px 10px 21px 0px rgba(50, 50, 50, 0.25);
+
 }
 .btn.btn-default:hover, .btn.btn-default:active, .btn.btn-default:focus, .btn.btn-default.is-checked {
   background-color: #ebeced;
