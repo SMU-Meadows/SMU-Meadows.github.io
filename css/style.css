@@ -40,6 +40,9 @@ body {
   background-color: #ebeced;
   border-color: #373739;
   border-radius: 0;
+  -webkit-box-shadow: 0px 10px 21px 0px rgba(50, 50, 50, 0.25);
+  -moz-box-shadow:    0px 10px 21px 0px rgba(50, 50, 50, 0.25);
+  box-shadow:         0px 10px 21px 0px rgba(50, 50, 50, 0.25);
 }
 .btn.btn-default:hover, .btn.btn-default:active, .btn.btn-default:focus, .btn.btn-default.is-checked {
   background-color: #798086;
