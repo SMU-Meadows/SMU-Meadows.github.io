@@ -1,4 +1,6 @@
 {
+    "title": "Green Room",
+    "author": "This is a description of the Green Room. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
     "hfov": 100.0,
     "type": "multires",
     "hotSpotDebug": false,
