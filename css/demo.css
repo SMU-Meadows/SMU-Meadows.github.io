@@ -73,7 +73,8 @@ section {
 .codrops-header h1 span {
 	display: block;
 	padding: 0 0 0.6em 0.1em;
-	color: #caccce;
+	color: white;
+	  opacity: .5;
 	font-weight: 300;
 	font-size: 45%;
 }
