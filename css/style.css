@@ -38,7 +38,7 @@ body {
   padding: 1rem 0;
   font-size: 1.7rem;
   background-color: #798086;
-    color: white;
+    color: #e6e6e6;
   border-color: #373739;
   border-radius: 0;
   -webkit-box-shadow: 0px 10px 21px 0px rgba(50, 50, 50, 0.25);
@@ -48,6 +48,7 @@ body {
 .btn.btn-default:hover, .btn.btn-default:active, .btn.btn-default:focus, .btn.btn-default.is-checked {
   background-color: #ebeced;
   color: #1a1a1a;
+    font-weight: bold;
   border: none;
   outline: none;
 }
