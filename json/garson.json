@@ -1,8 +1,9 @@
 {
-    "hfov": 100.0,
-    "type": "multires",
     "title": "Greer Garson Theatre",
     "author": "The 261-seat Greer Garson Theatre is a classical thrust stage with inner-below, balcony and circular configuration. Numerous entrances, ramps, stairs and trapdoors make for exciting settings for classic and modern theatre!",
+    "autoLoad": true,
+    "hfov": 100.0,
+    "type": "multires",
     "multiRes": {
         "basePath": "../img/panos/garson",
         "path": "/%l/%s%y_%x",

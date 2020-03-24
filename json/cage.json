@@ -1,7 +1,9 @@
 {
+    "title": "Equipment Cage",
+    "author": "This is where the description of the space being displayed would be entered.",
+    "autoLoad": true,
     "hfov": 100.0,
     "type": "multires",
-    "autoLoad": true,
     "multiRes": {
         "basePath": "../img/panos/cage",
         "path": "/%l/%s%y_%x",

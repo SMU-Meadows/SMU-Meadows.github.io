@@ -1,9 +1,9 @@
 {
+    "title": "Creative Studio",
+    "author": "Both classroom and creative space, the modular Creative Studio also showcases the many industry awards won by our students.",
+    "autoLoad": true,
     "hfov": 100.0,
     "type": "multires",
-    "title": "Creative Studio",
-    "autoLoad": true,
-    "author": "Both classroom and creative space, the modular Creative Studio also showcases the many industry awards won by our students.",
     "multiRes": {
         "basePath": "../img/panos/portfolio",
         "path": "/%l/%s%y_%x",

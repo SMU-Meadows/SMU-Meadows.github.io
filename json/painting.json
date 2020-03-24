@@ -1,4 +1,7 @@
 {
+    "title": "Painting Studio",
+    "author": "This is where the description of the space being displayed would be entered.",
+    "autoLoad": true,
     "hfov": 100.0,
     "type": "multires",
     "multiRes": {

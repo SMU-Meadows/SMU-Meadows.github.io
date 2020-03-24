@@ -1,6 +1,7 @@
 {
     "title": "Green Room",
     "author": "The Green Room is where our actors and dancers relax between scenes and classes.",
+    "autoLoad": true,
     "hfov": 100.0,
     "type": "multires",
     "hotSpotDebug": true,

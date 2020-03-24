@@ -1,8 +1,9 @@
 {
-    "hfov": 100.0,
-    "type": "multires",
     "title": "Caruth Auditorium",
     "author": "The walls of the 490-seat Caruth Auditorium can be tuned for recitals, symphonic and choral concerts and more. Note the magnificent C.B. Fisk Opus 101 organ, featuring 3,681 pipes and 51 stops.",
+    "autoLoad": true,
+    "hfov": 100.0,
+    "type": "multires",
     "multiRes": {
         "basePath": "../img/panos/caruth",
         "path": "/%l/%s%y_%x",

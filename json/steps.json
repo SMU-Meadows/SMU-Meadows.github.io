@@ -1,0 +1,16 @@
+{
+    "title": "Owen Arts Center Entrance",
+    "author": "This is where the description of the space being displayed would be entered.",
+    "autoLoad": true,
+    "hfov": 100.0,
+    "type": "multires",
+    "multiRes": {
+        "basePath": "../img/panos/steps",
+        "path": "/%l/%s%y_%x",
+        "fallbackPath": "/fallback/%s",
+        "extension": "jpg",
+        "tileResolution": 512,
+        "maxLevel": 4,
+        "cubeResolution": 3904
+    }
+}
