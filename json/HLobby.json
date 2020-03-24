@@ -102,10 +102,10 @@
                                     ]
                           },
                           
-              "steps": {
+             "steps": {
                         "title": "Owen Arts Center Entrance",
                         "author": "This is where the description of the space being displayed would be entered.",
-                        "northOffset": 276,
+                        "northOffset": -93,
                         "multiRes": {
                                     "basePath": "../img/panos/steps",
                                     "path": "/%l/%s%y_%x",
@@ -117,14 +117,14 @@
                                      },
                         "hotSpots": [
                                      {
-                                      "pitch": 9,
-                                      "yaw": 27,
+                                      "pitch": 0.6,
+                                      "yaw": 5.5,
                                       "type": "info",
                                       "text": "This is where the description of a point of interest would be entered."
                                      },
                                      {
-                                      "pitch": 4.75,
-                                      "yaw": 6.5,
+                                      "pitch": 2.6,
+                                      "yaw": 175.7,
                                       "type": "scene",
                                       "text": "Hope lobby",
                                       "sceneId": "HLobby",
@@ -137,10 +137,6 @@
             "caruth": {
                         "title": "Caruth Auditorium",
                         "author": "This is where the description of the space being displayed would be entered.",
-                        "hfov": 100.0,
-                        "type": "multires",
-                        "hotSpotDebug": false,
-                        "compass": true,
                         "northOffset": 276,
                         "multiRes": {
                                     "basePath": "../img/panos/caruth",
@@ -173,10 +169,6 @@
             "taubman": {
                         "title": "Taubman Atrium",
                         "author": "This is where the description of the space being displayed would be entered.",
-                        "hfov": 100.0,
-                        "type": "multires",
-                        "hotSpotDebug": false,
-                        "compass": true,
                         "northOffset": 276,
                         "multiRes": {
                                     "basePath": "../img/panos/taubman",
@@ -218,10 +210,6 @@
             "ODonnell": {
                           "title": "O'Donnell Hall",
                           "author": "This is where the description of the space being displayed would be entered.",
-                          "hfov": 100.0,
-                          "type": "multires",
-                          "hotSpotDebug": false,
-                          "compass": true,
                           "northOffset": 276,
                           "multiRes": {
                                       "basePath": "../img/panos/ODonnell",
@@ -254,10 +242,6 @@
                "doolin": {
                           "title": "Doolin Gallery",
                           "author": "This is where the description of the space being displayed would be entered.",
-                          "hfov": 100.0,
-                          "type": "multires",
-                          "hotSpotDebug": false,
-                          "compass": true,
                           "northOffset": 276,
                           "multiRes": {
                                       "basePath": "../img/panos/doolin",
@@ -299,10 +283,6 @@
             "woodshop": {
                           "title": "Woodshop",
                           "author": "This is where the description of the space being displayed would be entered.",
-                          "hfov": 100.0,
-                          "type": "multires",
-                          "hotSpotDebug": false,
-                          "compass": true,
                           "northOffset": 276,
                           "multiRes": {
                                       "basePath": "../img/panos/woodshop",
@@ -344,10 +324,6 @@
             "foundry": {
                           "title": "Foundry",
                           "author": "This is where the description of the space being displayed would be entered.",
-                          "hfov": 100.0,
-                          "type": "multires",
-                          "hotSpotDebug": false,
-                          "compass": true,
                           "northOffset": 276,
                           "multiRes": {
                                       "basePath": "../img/panos/foundry",
@@ -389,10 +365,6 @@
             "ceramics": {
                           "title": "Ceramics Studio",
                           "author": "This is where the description of the space being displayed would be entered.",
-                          "hfov": 100.0,
-                          "type": "multires",
-                          "hotSpotDebug": false,
-                          "compass": true,
                           "northOffset": 276,
                           "multiRes": {
                                       "basePath": "../img/panos/ceramics",
