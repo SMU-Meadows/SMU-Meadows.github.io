@@ -1,6 +1,8 @@
 {
     "hfov": 100.0,
     "type": "multires",
+    "title": "Bob Hope Theatre",
+    "author": "The 392-seat Bob Hope Theatre is an ideal venue for grand-scale productions, and features a proscenium stage, clear sightline seating and a hydraulic orchestra pit.",
     "multiRes": {
         "basePath": "../img/panos/hope",
         "path": "/%l/%s%y_%x",
