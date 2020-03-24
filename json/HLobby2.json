@@ -1,0 +1,224 @@
+{
+  "default": {
+              "firstScene": "HLobby",
+              "sceneFadeDuration": 750,
+              "autoLoad": true
+              },
+  
+  "scenes": {
+    
+            "HLobby": {
+                          "title": "Bob Hope Lobby",
+                          "author": "This is where the description of the space being displayed would be entered.",
+                          "hfov": 100.0,
+                          "type": "multires",
+                          "hotSpotDebug": false,
+                          "compass": false,
+                          "northOffset": 276,
+                          "multiRes": {
+                                      "basePath": "../img/panos/HLobby",
+                                      "path": "/%l/%s%y_%x",
+                                      "fallbackPath": "/fallback/%s",
+                                      "extension": "jpg",
+                                      "tileResolution": 512,
+                                      "maxLevel": 5,
+                                      "cubeResolution": 8048
+                                       },
+                          "hotSpots": [
+                                       {
+                                        "type": "info",
+                                        "text": "This is where the description of a point of interest would be entered.",
+                                        "pitch": 9,
+                                        "yaw": 27
+                                       },
+                                       {
+                                        "type": "scene",
+                                        "text": "Bob Hope Theatre",
+                                        "sceneId": "HopeSMU",
+                                        "targetPitch": "same",
+                                        "targetYaw": "sameAzimuth",
+                                        "pitch": 4.75,
+                                        "yaw": 6.5
+                                        },
+                                       {
+                                        "type": "scene",
+                                        "text": "Owen Arts Center Entrance",
+                                        "sceneId": "steps",
+                                        "targetPitch": "same",
+                                        "targetYaw": "sameAzimuth",
+                                        "pitch": 13.75,
+                                        "yaw": 10.5
+                                        },
+                                       {
+                                        "type": "scene",
+                                        "text": "Caruth Auditorium",
+                                        "sceneId": "caruth",
+                                        "targetPitch": "same",
+                                        "targetYaw": "sameAzimuth",
+                                        "pitch": 24.75,
+                                        "yaw": 6.5
+                                        },
+                                       {
+                                        "type": "scene",
+                                        "text": "Taubman Atrium",
+                                        "sceneId": "taubman",
+                                        "targetPitch": "same",
+                                        "targetYaw": "sameAzimuth",
+                                        "pitch": 34.75,
+                                        "yaw": 6.5
+                                        }
+                                      ]
+                          },
+                          
+            "HopeSMU": {
+                          "title": "Bob Hope Theatre",
+                          "author": "This is where the description of the space being displayed would be entered.",
+                          "hfov": 100.0,
+                          "type": "multires",
+                          "hotSpotDebug": false,
+                          "compass": false,
+                          "northOffset": 276,
+                          "multiRes": {
+                                      "basePath": "../img/panos/HopeSMU",
+                                      "path": "/%l/%s%y_%x",
+                                      "fallbackPath": "/fallback/%s",
+                                      "extension": "jpg",
+                                      "tileResolution": 512,
+                                      "maxLevel": 4,
+                                      "cubeResolution": 3904
+                                       },
+                          "hotSpots": [
+                                       {
+                                        "pitch": 9,
+                                        "yaw": 27,
+                                        "type": "info",
+                                        "text": "This is where the description of a point of interest would be entered."
+                                       },
+                                       {
+                                        "pitch": 4.75,
+                                        "yaw": 6.5,
+                                        "type": "scene",
+                                        "text": "Hope lobby",
+                                        "sceneId": "HLobby",
+                                        "targetPitch": "same",
+                                        "targetYaw": "sameAzimuth"
+                                        }
+                                      ]
+                          },
+                          
+            "steps": {
+                          "title": "Caruth Auditorium",
+                          "author": "This is where the description of the space being displayed would be entered.",
+                          "hfov": 100.0,
+                          "type": "multires",
+                          "hotSpotDebug": false,
+                          "compass": false,
+                          "northOffset": 276,
+                          "multiRes": {
+                                      "basePath": "../img/panos/steps",
+                                      "path": "/%l/%s%y_%x",
+                                      "fallbackPath": "/fallback/%s",
+                                      "extension": "jpg",
+                                      "tileResolution": 512,
+                                      "maxLevel": 4,
+                                      "cubeResolution": 3904
+                                       },
+                          "hotSpots": [
+                                       {
+                                        "pitch": 9,
+                                        "yaw": 27,
+                                        "type": "info",
+                                        "text": "This is where the description of a point of interest would be entered."
+                                       },
+                                       {
+                                        "pitch": 4.75,
+                                        "yaw": 6.5,
+                                        "type": "scene",
+                                        "text": "Hope lobby",
+                                        "sceneId": "HLobby",
+                                        "targetPitch": "same",
+                                        "targetYaw": "sameAzimuth"
+                                        }
+                                      ]
+                          },
+                          
+            "caruth": {
+                          "title": "Hope courtyard",
+                          "hfov": 100.0,
+                          "type": "multires",
+                          "hotSpotDebug": false,
+                          "compass": true,
+                          "northOffset": 276,
+                          "multiRes": {
+                                      "basePath": "../img/panos/caruth",
+                                      "path": "/%l/%s%y_%x",
+                                      "fallbackPath": "/fallback/%s",
+                                      "extension": "jpg",
+                                      "tileResolution": 512,
+                                      "maxLevel": 5,
+                                      "cubeResolution": 8048
+                                      },
+                          "hotSpots": [
+                                        {
+                                          "pitch": -9,
+                                          "yaw": -150,
+                                          "type": "scene",
+                                          "text": "Meadows steps",
+                                          "sceneId": "sculpture",
+                                          "targetPitch": "same",
+                                          "targetYaw": "sameAzimuth"
+                                        },
+                                        {
+                                          "pitch": -2.35,
+                                          "yaw": 0.04,
+                                          "type": "scene",
+                                          "text": "Hope lobby",
+                                          "sceneId": "HLobby",
+                                          "targetPitch": "same",
+                                          "targetYaw": "sameAzimuth"
+                                        }
+                                      ]
+                          },
+                          
+            "taubman": {
+                          "title": "Hope courtyard",
+                          "hfov": 100.0,
+                          "type": "multires",
+                          "hotSpotDebug": false,
+                          "compass": true,
+                          "northOffset": 276,
+                          "multiRes": {
+                                      "basePath": "../img/panos/courtyard",
+                                      "path": "/%l/%s%y_%x",
+                                      "fallbackPath": "/fallback/%s",
+                                      "extension": "jpg",
+                                      "tileResolution": 512,
+                                      "maxLevel": 5,
+                                      "cubeResolution": 8048
+                                      },
+                          "hotSpots": [
+                                        {
+                                          "pitch": -9,
+                                          "yaw": -150,
+                                          "type": "scene",
+                                          "text": "Meadows steps",
+                                          "sceneId": "sculpture",
+                                          "targetPitch": "same",
+                                          "targetYaw": "sameAzimuth"
+                                        },
+                                        {
+                                          "pitch": -2.35,
+                                          "yaw": 0.04,
+                                          "type": "scene",
+                                          "text": "Hope lobby",
+                                          "sceneId": "HLobby",
+                                          "targetPitch": "same",
+                                          "targetYaw": "sameAzimuth"
+                                        }
+                                      ]
+                          }
+
+                     
+            }
+            
+}
