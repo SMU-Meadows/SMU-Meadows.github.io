@@ -1,9 +1,9 @@
 {
     "title": "Green Room",
-    "author": "The Green Room is where our actors, dancers and students relax between scenes and classes. Spin left or right to see the spiral staircases that lead to the backstage areas of the Hope Theatre and the Margo Jones black box.",
+    "author": "The Green Room is where our actors, dancers, and students relax between scenes and classes. Spin left or right to see the spiral staircases that lead to the backstage areas of the Hope Theatre and the Margo Jones black box.",
     "hfov": 100.0,
     "type": "multires",
-    "hotSpotDebug": false,
+    "hotSpotDebug": true,
     "compass": true,
     "northOffset": 276,
     "multiRes": {
