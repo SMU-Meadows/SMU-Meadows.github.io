@@ -105,7 +105,7 @@
              "steps": {
                         "title": "Owen Arts Center Entrance",
                         "author": "This is where the description of the space being displayed would be entered.",
-                        "northOffset": -93,
+                        "northOffset": -266.68,
                         "multiRes": {
                                     "basePath": "../img/panos/steps",
                                     "path": "/%l/%s%y_%x",
@@ -137,7 +137,7 @@
             "caruth": {
                         "title": "Caruth Auditorium",
                         "author": "This is where the description of the space being displayed would be entered.",
-                        "northOffset": 276,
+                        "northOffset": 181.23,
                         "multiRes": {
                                     "basePath": "../img/panos/caruth",
                                     "path": "/%l/%s%y_%x",
