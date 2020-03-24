@@ -12,7 +12,7 @@
                           "author": "This is where the description of the space being displayed would be entered.",
                           "hfov": 100.0,
                           "type": "multires",
-                          "hotSpotDebug": false,
+                          "hotSpotDebug": true,
                           "compass": false,
                           "northOffset": 276,
                           "multiRes": {
@@ -208,6 +208,15 @@
                                           "type": "scene",
                                           "text": "O'Donnell Hall",
                                           "sceneId": "ODonnell",
+                                          "targetPitch": "same",
+                                          "targetYaw": "sameAzimuth"
+                                        },
+                                        {
+                                          "pitch": -10.35,
+                                          "yaw": 0.04,
+                                          "type": "scene",
+                                          "text": "Bob Hope Lobby",
+                                          "sceneId": "HLobby",
                                           "targetPitch": "same",
                                           "targetYaw": "sameAzimuth"
                                         }
