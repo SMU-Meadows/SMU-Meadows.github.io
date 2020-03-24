@@ -14,7 +14,7 @@
             "HLobby": {
                         "title": "Bob Hope Lobby",
                         "author": "This is where the description of the space being displayed would be entered.",
-                        "northOffset": 89.9,
+                        "northOffset": -89.9,
                         "multiRes": {
                                     "basePath": "../img/panos/HLobby",
                                     "path": "/%l/%s%y_%x",
@@ -73,7 +73,7 @@
             "HopeSMU": {
                         "title": "Bob Hope Theatre",
                         "author": "This is where the description of the space being displayed would be entered.",
-                        "northOffset": 116.7,
+                        "northOffset": -119,
                         "multiRes": {
                                     "basePath": "../img/panos/HopeSMU",
                                     "path": "/%l/%s%y_%x",
