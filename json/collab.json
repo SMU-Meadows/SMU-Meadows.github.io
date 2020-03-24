@@ -1,6 +1,8 @@
 {
     "hfov": 100.0,
     "type": "multires",
+    "title": "Ad Lounge",
+    "author": "The open atmosphere of the Ad Lounge is perfect for working independently or in a team.",
     "multiRes": {
         "basePath": "../img/panos/collab",
         "path": "/%l/%s%y_%x",
