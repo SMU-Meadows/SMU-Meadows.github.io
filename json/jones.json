@@ -1,6 +1,7 @@
 {
     "hfov": 100.0,
     "type": "multires",
+    "autoLoad": true,
     "title": "Margo Jones Theatre",
     "author": "The intimate, 125-seat black box Margo Jones Theatre has four versatile seating platforms that allow directors and designers the flexibility to choose between multiple configurations.",
     "multiRes": {
