@@ -14,7 +14,7 @@
             "HLobby": {
                         "title": "Bob Hope Lobby",
                         "author": "This is where the description of the space being displayed would be entered.",
-                        "northOffset": 90,
+                        "northOffset": 89.9,
                         "multiRes": {
                                     "basePath": "../img/panos/HLobby",
                                     "path": "/%l/%s%y_%x",
@@ -28,8 +28,8 @@
                                      {
                                       "type": "info",
                                       "text": "This is where the description of a point of interest would be entered.",
-                                      "pitch": 9,
-                                      "yaw": 27
+                                      "pitch": 0.4,
+                                      "yaw": -0.1
                                      },
                                      {
                                       "type": "scene",
@@ -73,7 +73,7 @@
             "HopeSMU": {
                         "title": "Bob Hope Theatre",
                         "author": "This is where the description of the space being displayed would be entered.",
-                        "northOffset": 276,
+                        "northOffset": 116.7,
                         "multiRes": {
                                     "basePath": "../img/panos/HopeSMU",
                                     "path": "/%l/%s%y_%x",
@@ -85,14 +85,14 @@
                                      },
                         "hotSpots": [
                                      {
-                                      "pitch": 9,
-                                      "yaw": 27,
+                                      "pitch": -26.7,
+                                      "yaw": 33.1,
                                       "type": "info",
                                       "text": "This is where the description of a point of interest would be entered."
                                      },
                                      {
-                                      "pitch": 4.75,
-                                      "yaw": 6.5,
+                                      "pitch": 3.5,
+                                      "yaw": -129.5,
                                       "type": "scene",
                                       "text": "Hope lobby",
                                       "sceneId": "HLobby",
