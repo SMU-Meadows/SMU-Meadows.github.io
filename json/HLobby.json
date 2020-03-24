@@ -13,8 +13,8 @@
                           "hfov": 100.0,
                           "type": "multires",
                           "hotSpotDebug": true,
-                          "compass": false,
-                          "northOffset": 276,
+                          "compass": true,
+                          "northOffset": 90,
                           "multiRes": {
                                       "basePath": "../img/panos/HLobby",
                                       "path": "/%l/%s%y_%x",
@@ -37,8 +37,8 @@
                                         "sceneId": "HopeSMU",
                                         "targetPitch": "same",
                                         "targetYaw": "sameAzimuth",
-                                        "pitch": 4.75,
-                                        "yaw": 6.5
+                                        "pitch": -1.5,
+                                        "yaw": -29
                                         },
                                        {
                                         "type": "scene",
@@ -46,8 +46,8 @@
                                         "sceneId": "steps",
                                         "targetPitch": "same",
                                         "targetYaw": "sameAzimuth",
-                                        "pitch": 13.75,
-                                        "yaw": 10.5
+                                        "pitch": -1,
+                                        "yaw": 177.7
                                         },
                                        {
                                         "type": "scene",
@@ -55,8 +55,8 @@
                                         "sceneId": "caruth",
                                         "targetPitch": "same",
                                         "targetYaw": "sameAzimuth",
-                                        "pitch": 24.75,
-                                        "yaw": 6.5
+                                        "pitch": -0.5,
+                                        "yaw": -94.6
                                         },
                                        {
                                         "type": "scene",
@@ -64,8 +64,8 @@
                                         "sceneId": "taubman",
                                         "targetPitch": "same",
                                         "targetYaw": "sameAzimuth",
-                                        "pitch": 34.75,
-                                        "yaw": 6.5
+                                        "pitch": -0.5,
+                                        "yaw": -54
                                         }
                                       ]
                           },
