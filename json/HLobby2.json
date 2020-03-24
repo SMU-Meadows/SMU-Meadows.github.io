@@ -107,7 +107,7 @@
                           },
                           
             "steps": {
-                          "title": "Caruth Auditorium",
+                          "title": "Owen Arts Center Entrance",
                           "author": "This is where the description of the space being displayed would be entered.",
                           "hfov": 100.0,
                           "type": "multires",
@@ -143,7 +143,8 @@
                           },
                           
             "caruth": {
-                          "title": "Hope courtyard",
+                          "title": "Caruth Auditorium",
+                          "author": "This is where the description of the space being displayed would be entered.",
                           "hfov": 100.0,
                           "type": "multires",
                           "hotSpotDebug": false,
@@ -160,19 +161,16 @@
                                       },
                           "hotSpots": [
                                         {
+                                          "pitch": 9,
+                                          "yaw": 27,
+                                          "type": "info",
+                                          "text": "This is where the description of a point of interest would be entered."
+                                        },
+                                        {
                                           "pitch": -9,
                                           "yaw": -150,
                                           "type": "scene",
-                                          "text": "Meadows steps",
-                                          "sceneId": "sculpture",
-                                          "targetPitch": "same",
-                                          "targetYaw": "sameAzimuth"
-                                        },
-                                        {
-                                          "pitch": -2.35,
-                                          "yaw": 0.04,
-                                          "type": "scene",
-                                          "text": "Hope lobby",
+                                          "text": "Hope Lobby",
                                           "sceneId": "HLobby",
                                           "targetPitch": "same",
                                           "targetYaw": "sameAzimuth"
@@ -181,14 +179,15 @@
                           },
                           
             "taubman": {
-                          "title": "Hope courtyard",
+                          "title": "Taubman Atrium",
+                          "author": "This is where the description of the space being displayed would be entered.",
                           "hfov": 100.0,
                           "type": "multires",
                           "hotSpotDebug": false,
                           "compass": true,
                           "northOffset": 276,
                           "multiRes": {
-                                      "basePath": "../img/panos/courtyard",
+                                      "basePath": "../img/panos/taubman",
                                       "path": "/%l/%s%y_%x",
                                       "fallbackPath": "/fallback/%s",
                                       "extension": "jpg",
@@ -198,25 +197,239 @@
                                       },
                           "hotSpots": [
                                         {
-                                          "pitch": -9,
-                                          "yaw": -150,
-                                          "type": "scene",
-                                          "text": "Meadows steps",
-                                          "sceneId": "sculpture",
-                                          "targetPitch": "same",
-                                          "targetYaw": "sameAzimuth"
+                                          "pitch": 9,
+                                          "yaw": 27,
+                                          "type": "info",
+                                          "text": "This is where the description of a point of interest would be entered."
                                         },
                                         {
                                           "pitch": -2.35,
                                           "yaw": 0.04,
                                           "type": "scene",
-                                          "text": "Hope lobby",
+                                          "text": "O'Donnell Hall",
+                                          "sceneId": "ODonnell",
+                                          "targetPitch": "same",
+                                          "targetYaw": "sameAzimuth"
+                                        }
+                                      ]
+                          },
+                          
+            "ODonnell": {
+                          "title": "O'Donnell Hall",
+                          "author": "This is where the description of the space being displayed would be entered.",
+                          "hfov": 100.0,
+                          "type": "multires",
+                          "hotSpotDebug": false,
+                          "compass": true,
+                          "northOffset": 276,
+                          "multiRes": {
+                                      "basePath": "../img/panos/ODonnell",
+                                      "path": "/%l/%s%y_%x",
+                                      "fallbackPath": "/fallback/%s",
+                                      "extension": "jpg",
+                                      "tileResolution": 512,
+                                      "maxLevel": 5,
+                                      "cubeResolution": 8048
+                                      },
+                          "hotSpots": [
+                                        {
+                                          "pitch": 9,
+                                          "yaw": 27,
+                                          "type": "info",
+                                          "text": "This is where the description of a point of interest would be entered."
+                                        },
+                                        {
+                                          "pitch": -2.35,
+                                          "yaw": 0.04,
+                                          "type": "scene",
+                                          "text": "Taubman Atrium",
+                                          "sceneId": "taubman",
+                                          "targetPitch": "same",
+                                          "targetYaw": "sameAzimuth"
+                                        }
+                                      ]
+                          },
+                          
+            "doolin": {
+                          "title": "Doolin Gallery",
+                          "author": "This is where the description of the space being displayed would be entered.",
+                          "hfov": 100.0,
+                          "type": "multires",
+                          "hotSpotDebug": false,
+                          "compass": true,
+                          "northOffset": 276,
+                          "multiRes": {
+                                      "basePath": "../img/panos/doolin",
+                                      "path": "/%l/%s%y_%x",
+                                      "fallbackPath": "/fallback/%s",
+                                      "extension": "jpg",
+                                      "tileResolution": 512,
+                                      "maxLevel": 5,
+                                      "cubeResolution": 8048
+                                      },
+                          "hotSpots": [
+                                        {
+                                          "pitch": 9,
+                                          "yaw": 27,
+                                          "type": "info",
+                                          "text": "This is where the description of a point of interest would be entered."
+                                        },
+                                        {
+                                          "pitch": -2.35,
+                                          "yaw": 0.04,
+                                          "type": "scene",
+                                          "text": "Hope Lobby",
                                           "sceneId": "HLobby",
+                                          "targetPitch": "same",
+                                          "targetYaw": "sameAzimuth"
+                                        },
+                                        {
+                                          "pitch": -12.35,
+                                          "yaw": 0.04,
+                                          "type": "scene",
+                                          "text": "Woodshop",
+                                          "sceneId": "woodshop",
+                                          "targetPitch": "same",
+                                          "targetYaw": "sameAzimuth"
+                                        }
+                                      ]
+                          },
+                          
+            "woodshop": {
+                          "title": "Woodshop",
+                          "author": "This is where the description of the space being displayed would be entered.",
+                          "hfov": 100.0,
+                          "type": "multires",
+                          "hotSpotDebug": false,
+                          "compass": true,
+                          "northOffset": 276,
+                          "multiRes": {
+                                      "basePath": "../img/panos/woodshop",
+                                      "path": "/%l/%s%y_%x",
+                                      "fallbackPath": "/fallback/%s",
+                                      "extension": "jpg",
+                                      "tileResolution": 512,
+                                      "maxLevel": 5,
+                                      "cubeResolution": 8048
+                                      },
+                          "hotSpots": [
+                                        {
+                                          "pitch": 9,
+                                          "yaw": 27,
+                                          "type": "info",
+                                          "text": "This is where the description of a point of interest would be entered."
+                                        },
+                                        {
+                                          "pitch": -2.35,
+                                          "yaw": 0.04,
+                                          "type": "scene",
+                                          "text": "Foundry",
+                                          "sceneId": "foundry",
+                                          "targetPitch": "same",
+                                          "targetYaw": "sameAzimuth"
+                                        },
+                                        {
+                                          "pitch": -12.35,
+                                          "yaw": 0.04,
+                                          "type": "scene",
+                                          "text": "Doolin Fabrication Lab",
+                                          "sceneId": "DFLab",
+                                          "targetPitch": "same",
+                                          "targetYaw": "sameAzimuth"
+                                        }
+                                      ]
+                          },
+                          
+            "foundry": {
+                          "title": "Foundry",
+                          "author": "This is where the description of the space being displayed would be entered.",
+                          "hfov": 100.0,
+                          "type": "multires",
+                          "hotSpotDebug": false,
+                          "compass": true,
+                          "northOffset": 276,
+                          "multiRes": {
+                                      "basePath": "../img/panos/foundry",
+                                      "path": "/%l/%s%y_%x",
+                                      "fallbackPath": "/fallback/%s",
+                                      "extension": "jpg",
+                                      "tileResolution": 512,
+                                      "maxLevel": 5,
+                                      "cubeResolution": 8048
+                                      },
+                          "hotSpots": [
+                                        {
+                                          "pitch": 9,
+                                          "yaw": 27,
+                                          "type": "info",
+                                          "text": "This is where the description of a point of interest would be entered."
+                                        },
+                                        {
+                                          "pitch": -2.35,
+                                          "yaw": 0.04,
+                                          "type": "scene",
+                                          "text": "Woodshop",
+                                          "sceneId": "woodshop",
+                                          "targetPitch": "same",
+                                          "targetYaw": "sameAzimuth"
+                                        },
+                                        {
+                                          "pitch": -12.35,
+                                          "yaw": 0.04,
+                                          "type": "scene",
+                                          "text": "Ceramics Studio",
+                                          "sceneId": "ceramics",
+                                          "targetPitch": "same",
+                                          "targetYaw": "sameAzimuth"
+                                        }
+                                      ]
+                          },
+                          
+            "ceramics": {
+                          "title": "Ceramics Studio",
+                          "author": "This is where the description of the space being displayed would be entered.",
+                          "hfov": 100.0,
+                          "type": "multires",
+                          "hotSpotDebug": false,
+                          "compass": true,
+                          "northOffset": 276,
+                          "multiRes": {
+                                      "basePath": "../img/panos/ceramics",
+                                      "path": "/%l/%s%y_%x",
+                                      "fallbackPath": "/fallback/%s",
+                                      "extension": "jpg",
+                                      "tileResolution": 512,
+                                      "maxLevel": 5,
+                                      "cubeResolution": 8048
+                                      },
+                          "hotSpots": [
+                                        {
+                                          "pitch": 9,
+                                          "yaw": 27,
+                                          "type": "info",
+                                          "text": "This is where the description of a point of interest would be entered."
+                                        },
+                                        {
+                                          "pitch": -2.35,
+                                          "yaw": 0.04,
+                                          "type": "scene",
+                                          "text": "Foundry",
+                                          "sceneId": "woodop",
+                                          "targetPitch": "same",
+                                          "targetYaw": "sameAzimuth"
+                                        },
+                                        {
+                                          "pitch": -12.35,
+                                          "yaw": 0.04,
+                                          "type": "scene",
+                                          "text": "Ceramics Studio",
+                                          "sceneId": "ceramics",
                                           "targetPitch": "same",
                                           "targetYaw": "sameAzimuth"
                                         }
                                       ]
                           }
+
 
                      
             }
