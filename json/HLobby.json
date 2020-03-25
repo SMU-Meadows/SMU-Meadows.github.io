@@ -260,7 +260,7 @@
                "doolin": {
                           "title": "Doolin Gallery",
                           "author": "This is where the description of the space being displayed would be entered.",
-                          "northOffset": 276,
+                          "northOffset": 89.29,
                           "multiRes": {
                                       "basePath": "../img/panos/doolin",
                                       "path": "/%l/%s%y_%x",
@@ -272,14 +272,14 @@
                                       },
                           "hotSpots": [
                                         {
-                                          "pitch": 9,
-                                          "yaw": 27,
+                                          "pitch": -8.83,
+                                          "yaw": 133.99,
                                           "type": "info",
                                           "text": "This is where the description of a point of interest would be entered."
                                         },
                                         {
-                                          "pitch": -2.35,
-                                          "yaw": 0.04,
+                                          "pitch": 2.12,
+                                          "yaw": 488.17,
                                           "type": "scene",
                                           "text": "Hope Lobby",
                                           "sceneId": "HLobby",
@@ -287,8 +287,8 @@
                                           "targetYaw": "sameAzimuth"
                                         },
                                         {
-                                          "pitch": -12.35,
-                                          "yaw": 0.04,
+                                          "pitch": -4.91,
+                                          "yaw": 33.09,
                                           "type": "scene",
                                           "text": "Woodshop",
                                           "sceneId": "woodshop",
