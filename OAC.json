@@ -292,7 +292,7 @@
                           
                "doolin": {
                           "title": "Doolin Gallery",
-                          "author": "This is where the description of the space being displayed would be entered.",
+                          "author": "This space is predominantly used as a critique gallery where students install their work then discuss as a class. Students can also reserve the space for finals and to put on their own exhibitions.",
                           "northOffset": 89.29,
                           "multiRes": {
                                       "basePath": "img/panos/doolin",
@@ -419,7 +419,7 @@
                           
               "foundry": {
                           "title": "Foundry",
-                          "author": "This is where the description of the space being displayed would be entered.",
+                          "author": "This is where we cast bronze through a lost wax process: Wax objects are made, covered in a ceramic slurry over a series of dips that build up a shell, these are placed in the burnout furnace where they are heated and the wax is melted out of them and recovered. These empty shells are then placed in a furnace, while the furnace next to it melts bronze or aluminum to a liquid that is then poured into the empty shell.",
                           "northOffset": 0.0,
                           "multiRes": {
                                       "basePath": "img/panos/foundry",
@@ -790,7 +790,7 @@
                           
           "printmaking": {
                           "title": "Printmaking Studio",
-                          "author": "This is where the description of the space being displayed would be entered.",
+                          "author": "We teach both aquatint and intaglio printing techniques, both use etched copper plates to transfer ink to paper.",
                           "northOffset": -180,
                           "multiRes": {
                                       "basePath": "img/panos/printmaking",
