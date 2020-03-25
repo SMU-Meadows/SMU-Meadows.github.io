@@ -491,7 +491,7 @@
                                           "targetYaw": "sameAzimuth"
                                         },
                                         {
-                                          "pitch": -.093,
+                                          "pitch": -0.093,
                                           "yaw": 73.01,
                                           "type": "scene",
                                           "text": "Doolin Fabrication Lab",
