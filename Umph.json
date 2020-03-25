@@ -426,14 +426,14 @@
                                       },
                           "hotSpots": [
                                         {
-                                          "pitch": -1.21,
-                                          "yaw": 196.08,
+                                          "pitch": -7.26,
+                                          "yaw": 0.0,
                                           "type": "info",
                                           "text": "This is where the description of a point of interest would be entered."
                                         },
                                         {
-                                          "pitch": 8.65,
-                                          "yaw": -123.68,
+                                          "pitch": -1.89,
+                                          "yaw": -282.13,
                                           "type": "scene",
                                           "text": "Broadcast Studio",
                                           "sceneId": "studio",
@@ -441,8 +441,8 @@
                                           "targetYaw": "sameAzimuth"
                                         },
                                         {
-                                          "pitch": 5.71,
-                                          "yaw": 125.02,
+                                          "pitch": -2.77,
+                                          "yaw": -216.60,
                                           "type": "scene",
                                           "text": "Newsroom",
                                           "sceneId": "newsroom",
