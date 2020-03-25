@@ -134,6 +134,15 @@
                                       "sceneId": "jones",
                                       "targetPitch": "same",
                                       "targetYaw": "sameAzimuth"
+                                      },
+                                      {
+                                      "pitch": -1.41,
+                                      "yaw": -66.06,
+                                      "type": "scene",
+                                      "text": "Taubman Atrium",
+                                      "sceneId": "taubman",
+                                      "targetPitch": "same",
+                                      "targetYaw": "sameAzimuth"
                                       }
                                     ]
                           },
@@ -255,6 +264,15 @@
                                         "type": "scene",
                                         "text": "Sharp Studio",
                                         "sceneId": "sharp",
+                                        "targetPitch": "same",
+                                        "targetYaw": "sameAzimuth"
+                                      },
+                                      {
+                                        "pitch": -0.34,
+                                        "yaw": 32.81,
+                                        "type": "scene",
+                                        "text": "Bob Hope Theatre",
+                                        "sceneId": "HopeSMU",
                                         "targetPitch": "same",
                                         "targetYaw": "sameAzimuth"
                                       }
@@ -743,7 +761,7 @@
                 "printmaking": {
                           "title": "Printmaking Studio",
                           "author": "This is where the description of the space being displayed would be entered.",
-                          "northOffset": -90,
+                          "northOffset": -180,
                           "multiRes": {
                                       "basePath": "../img/panos/printmaking",
                                       "path": "/%l/%s%y_%x",
@@ -755,14 +773,14 @@
                                       },
                           "hotSpots": [
                                         {
-                                          "pitch": -1,
-                                          "yaw": 196,
+                                          "pitch": -23.21,
+                                          "yaw": -27.30,
                                           "type": "info",
                                           "text": "This is where the description of a point of interest would be entered."
                                         },
                                         {
-                                          "pitch": 6.13,
-                                          "yaw": 236.32,
+                                          "pitch": -1.10,
+                                          "yaw": 116.97,
                                           "type": "scene",
                                           "text": "Woodshop",
                                           "sceneId": "woodshop",
@@ -770,20 +788,11 @@
                                           "targetYaw": "sameAzimuth"
                                         },
                                         {
-                                          "pitch": 10,
-                                          "yaw": 125,
+                                          "pitch": -5.76,
+                                          "yaw": 229.10,
                                           "type": "scene",
                                           "text": "Doolin Fabrication Lab",
                                           "sceneId": "DFLab",
-                                          "targetPitch": "same",
-                                          "targetYaw": "sameAzimuth"
-                                        },
-                                        {
-                                          "pitch": 5,
-                                          "yaw": 125,
-                                          "type": "scene",
-                                          "text": "Bob Hope Theatre",
-                                          "sceneId": "woodshop",
                                           "targetPitch": "same",
                                           "targetYaw": "sameAzimuth"
                                         }
@@ -805,14 +814,14 @@
                                       },
                           "hotSpots": [
                                         {
-                                          "pitch": -1,
-                                          "yaw": 196,
+                                          "pitch": -3.29,
+                                          "yaw": -6.15,
                                           "type": "info",
                                           "text": "This is where the description of a point of interest would be entered."
                                         },
                                         {
-                                          "pitch": 6.13,
-                                          "yaw": 236.32,
+                                          "pitch": 5.04,
+                                          "yaw": -35.98,
                                           "type": "scene",
                                           "text": "Studio 1430",
                                           "sceneId": "dance",
@@ -820,8 +829,8 @@
                                           "targetYaw": "sameAzimuth"
                                         },
                                         {
-                                          "pitch": 10,
-                                          "yaw": 125,
+                                          "pitch": 5.73,
+                                          "yaw": -26.27,
                                           "type": "scene",
                                           "text": "Margo Jones Theatre",
                                           "sceneId": "jones",
