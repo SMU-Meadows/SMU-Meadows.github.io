@@ -6,7 +6,7 @@
               "hfov": 105.0,
               "type": "multires",
               "compass": true,
-              "hotSpotDebug": false
+              "hotSpotDebug": true
               },
   
   "scenes": {
@@ -791,8 +791,8 @@
                                           "pitch": -3.94,
                                           "yaw": 235.75,
                                           "type": "scene",
-                                          "text": "Doolin Fabrication Lab",
-                                          "sceneId": "DFLab",
+                                          "text": "Ceramics Studio",
+                                          "sceneId": "ceramics",
                                           "targetPitch": "same",
                                           "targetYaw": "sameAzimuth"
                                         },
@@ -800,8 +800,8 @@
                                           "pitch": -6.36,
                                           "yaw": 221.29,
                                           "type": "scene",
-                                          "text": "Ceramics Studio",
-                                          "sceneId": "ceramics",
+                                          "text": "Doolin Fabrication Lab",
+                                          "sceneId": "DFLab",
                                           "targetPitch": "same",
                                           "targetYaw": "sameAzimuth"
                                         }
