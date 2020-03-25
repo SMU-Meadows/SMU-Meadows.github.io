@@ -73,8 +73,8 @@
                                       "sceneId": "doolin",
                                       "targetPitch": "same",
                                       "targetYaw": "sameAzimuth",
-                                      "pitch": -2.28,
-                                      "yaw": 52.03
+                                      "pitch": -2.24,
+                                      "yaw": 53.93
                                       }
                                     ]
                           },
@@ -724,7 +724,7 @@
                                           "targetYaw": "sameAzimuth"
                                         },
                                         {
-                                          "pitch": 7.70,
+                                          "pitch": 5.03,
                                           "yaw": -127.92,
                                           "type": "scene",
                                           "text": "Doolin Gallery",
@@ -832,8 +832,8 @@
                                       },
                           "hotSpots": [
                                         {
-                                          "pitch": -3.29,
-                                          "yaw": -6.15,
+                                          "pitch": -2.44,
+                                          "yaw": -6.50,
                                           "type": "info",
                                           "text": "This is where the description of a point of interest would be entered."
                                         },
