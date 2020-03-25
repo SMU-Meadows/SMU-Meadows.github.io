@@ -353,14 +353,14 @@
                                       },
                           "hotSpots": [
                                         {
-                                          "pitch": -3.48,
-                                          "yaw": -320.04,
+                                          "pitch": -12.50,
+                                          "yaw": -0.46,
                                           "type": "info",
                                           "text": "This is where the description of a point of interest would be entered."
                                         },
                                         {
-                                          "pitch": -1.63,
-                                          "yaw": -86.50,
+                                          "pitch": -11.40,
+                                          "yaw": 177.82,
                                           "type": "scene",
                                           "text": "Audio Suite",
                                           "sceneId": "soundPre",
