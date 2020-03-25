@@ -271,14 +271,14 @@
                                       },
                           "hotSpots": [
                                         {
-                                          "pitch": -8.83,
-                                          "yaw": 133.99,
+                                          "pitch": -5.69,
+                                          "yaw": -91.27,
                                           "type": "info",
                                           "text": "This is where the description of a point of interest would be entered."
                                         },
                                         {
-                                          "pitch": -0.32,
-                                          "yaw": -318.06,
+                                          "pitch": -11.88,
+                                          "yaw": -164.70,
                                           "type": "scene",
                                           "text": "Editing Lab",
                                           "sceneId": "eClass",
@@ -286,8 +286,8 @@
                                           "targetYaw": "sameAzimuth"
                                         },
                                         {
-                                          "pitch": -4.91,
-                                          "yaw": 33.09,
+                                          "pitch": -4.33,
+                                          "yaw": -15.96,
                                           "type": "scene",
                                           "text": "Sound Mixing Studio",
                                           "sceneId": "sound",
@@ -295,8 +295,8 @@
                                           "targetYaw": "sameAzimuth"
                                         },
                                         {
-                                          "pitch": 3.17,
-                                          "yaw": 137.61,
+                                          "pitch": -10.97,
+                                          "yaw": -143.56,
                                           "type": "scene",
                                           "text": "Advanced Editing Booth",
                                           "sceneId": "eBooth",
