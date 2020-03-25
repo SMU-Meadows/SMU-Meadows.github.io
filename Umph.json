@@ -25,71 +25,53 @@
                                      },
                         "hotSpots": [
                                      {
+                                      "pitch": 14.49,
+                                      "yaw": 37.02,
                                       "type": "info",
-                                      "text": "This is where the description of a point of interest would be entered.",
-                                      "pitch": -1.26,
-                                      "yaw": -0.1
+                                      "text": "This is where the description of a point of interest would be entered."
                                      },
                                      {
+                                      "pitch": -3.89,
+                                      "yaw": -51.68,
                                       "type": "scene",
-                                      "text": "Bob Hope Theatre",
-                                      "sceneId": "HopeSMU",
+                                      "text": "Focus Group Room",
+                                      "sceneId": "observation",
                                       "targetPitch": "same",
-                                      "targetYaw": "sameAzimuth",
-                                      "pitch": -1.5,
-                                      "yaw": -29
+                                      "targetYaw": "sameAzimuth"
                                       },
                                      {
+                                      "pitch": -6.58,
+                                      "yaw": -45.57,
                                       "type": "scene",
-                                      "text": "Owen Arts Center Entrance",
-                                      "sceneId": "steps",
+                                      "text": "Equipment Cage",
+                                      "sceneId": "cage",
                                       "targetPitch": "same",
-                                      "targetYaw": "sameAzimuth",
-                                      "pitch": -1,
-                                      "yaw": 177.7
+                                      "targetYaw": "sameAzimuth"
                                       },
                                      {
+                                      "pitch": -5.50,
+                                      "yaw": -35.84,
                                       "type": "scene",
-                                      "text": "Caruth Auditorium",
-                                      "sceneId": "caruth",
+                                      "text": "Broadcast Studio",
+                                      "sceneId": "studio",
                                       "targetPitch": "same",
-                                      "targetYaw": "sameAzimuth",
-                                      "pitch": -0.5,
-                                      "yaw": -94.6
-                                      },
-                                     {
-                                      "type": "scene",
-                                      "text": "Taubman Atrium",
-                                      "sceneId": "taubman",
-                                      "targetPitch": "same",
-                                      "targetYaw": "sameAzimuth",
-                                      "pitch": -0.5,
-                                      "yaw": -54
-                                      },
-                                     {
-                                      "type": "scene",
-                                      "text": "Doolin Gallery",
-                                      "sceneId": "doolin",
-                                      "targetPitch": "same",
-                                      "targetYaw": "sameAzimuth",
-                                      "pitch": -2.24,
-                                      "yaw": 53.93
+                                      "targetYaw": "sameAzimuth"
                                       }
                                     ]
                           },
                           
-            "HopeSMU": {
-                        "title": "Bob Hope Theatre",
+            "observation": {
+                        "title": "Focus Group Room",
                         "author": "This is where the description of the space being displayed would be entered.",
-                        "northOffset": -119,
+                        "northOffset": 90,
                         "multiRes": {
-                                    "basePath": "../img/panos/HopeSMU",
+                                    "basePath": "img/panos/observation",
                                     "path": "/%l/%s%y_%x",
                                     "fallbackPath": "/fallback/%s",
                                     "extension": "jpg",
                                     "tileResolution": 512,
-                                    "maxLevel": 4,
-                                    "cubeResolution": 3904
+                                    "maxLevel": 5,
+                                    "cubeResolution": 8048
                                      },
                         "hotSpots": [
                                      {
