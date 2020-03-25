@@ -307,7 +307,7 @@
                                       ]
                           },
                           
-            "woodshop": {
+             "woodshop": {
                           "title": "Woodshop",
                           "author": "This is where the description of the space being displayed would be entered.",
                           "northOffset": 276,
@@ -337,8 +337,8 @@
                                           "targetYaw": "sameAzimuth"
                                         },
                                         {
-                                          "pitch": -12.35,
-                                          "yaw": 0.04,
+                                          "pitch": -2.12,
+                                          "yaw": 80.77,
                                           "type": "scene",
                                           "text": "Doolin Fabrication Lab",
                                           "sceneId": "DFLab",
@@ -348,7 +348,7 @@
                                       ]
                           },
                           
-            "foundry": {
+              "foundry": {
                           "title": "Foundry",
                           "author": "This is where the description of the space being displayed would be entered.",
                           "northOffset": 276,
@@ -389,7 +389,7 @@
                                       ]
                           },
                           
-            "ceramics": {
+              "ceramics": {
                           "title": "Ceramics Studio",
                           "author": "This is where the description of the space being displayed would be entered.",
                           "northOffset": 276,
@@ -430,7 +430,7 @@
                                       ]
                           },
                           
-               "sharp": {
+                "sharp": {
                           "title": "Sharp Studio",
                           "author": "This is where the description of the space being displayed would be entered.",
                           "northOffset": 0.0,
@@ -471,7 +471,7 @@
                                       ]
                           },
                           
-               "GRoom": {
+                 "GRoom": {
                           "title": "Green Room",
                           "author": "This is where the description of the space being displayed would be entered.",
                           "northOffset": 90,
@@ -530,7 +530,7 @@
                                       ]
                           },
                           
-               "jones": {
+                "jones": {
                           "title": "Margo Jones Theatre",
                           "author": "This is where the description of the space being displayed would be entered.",
                           "northOffset": 0.0,
@@ -580,10 +580,60 @@
                                       ]
                           },
                           
-               "dance": {
+                "dance": {
                           "title": "Studio 1430",
                           "author": "This is where the description of the space being displayed would be entered.",
                           "northOffset": 0.0,
+                          "multiRes": {
+                                      "basePath": "../img/panos/jones",
+                                      "path": "/%l/%s%y_%x",
+                                      "fallbackPath": "/fallback/%s",
+                                      "extension": "jpg",
+                                      "tileResolution": 512,
+                                      "maxLevel": 5,
+                                      "cubeResolution": 8048
+                                      },
+                          "hotSpots": [
+                                        {
+                                          "pitch": -1,
+                                          "yaw": 196,
+                                          "type": "info",
+                                          "text": "This is where the description of a point of interest would be entered."
+                                        },
+                                        {
+                                          "pitch": 6.13,
+                                          "yaw": 236.32,
+                                          "type": "scene",
+                                          "text": "Studio 1430",
+                                          "sceneId": "dance",
+                                          "targetPitch": "same",
+                                          "targetYaw": "sameAzimuth"
+                                        },
+                                        {
+                                          "pitch": 10,
+                                          "yaw": 125,
+                                          "type": "scene",
+                                          "text": "Wood Shop",
+                                          "sceneId": "woodshop",
+                                          "targetPitch": "same",
+                                          "targetYaw": "sameAzimuth"
+                                        },
+                                        {
+                                          "pitch": 5,
+                                          "yaw": 125,
+                                          "type": "scene",
+                                          "text": "Bob Hope Theatre",
+                                          "sceneId": "woodshop",
+                                          "targetPitch": "same",
+                                          "targetYaw": "sameAzimuth"
+                                        }
+                                      ]
+                          },
+                          
+                "DFLab": {
+                          "title": "Doolin Fabrication Lab",
+                          "author": "This is where the description of the space being displayed would be entered.",
+                          "northOffset": -90,
                           "multiRes": {
                                       "basePath": "../img/panos/jones",
                                       "path": "/%l/%s%y_%x",
