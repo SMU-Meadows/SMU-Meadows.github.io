@@ -171,6 +171,15 @@
                                         "sceneId": "HLobby",
                                         "targetPitch": "same",
                                         "targetYaw": "sameAzimuth"
+                                      },
+                                      {
+                                        "pitch": -5.83,
+                                        "yaw": 57.56,
+                                        "type": "scene",
+                                        "text": "Sharp Studio",
+                                        "sceneId": "sharp",
+                                        "targetPitch": "same",
+                                        "targetYaw": "sameAzimuth"
                                       }
                                     ]
                           },
@@ -377,6 +386,47 @@
                           "northOffset": 276,
                           "multiRes": {
                                       "basePath": "../img/panos/ceramics",
+                                      "path": "/%l/%s%y_%x",
+                                      "fallbackPath": "/fallback/%s",
+                                      "extension": "jpg",
+                                      "tileResolution": 512,
+                                      "maxLevel": 5,
+                                      "cubeResolution": 8048
+                                      },
+                          "hotSpots": [
+                                        {
+                                          "pitch": 9,
+                                          "yaw": 27,
+                                          "type": "info",
+                                          "text": "This is where the description of a point of interest would be entered."
+                                        },
+                                        {
+                                          "pitch": -2.35,
+                                          "yaw": 0.04,
+                                          "type": "scene",
+                                          "text": "Foundry",
+                                          "sceneId": "woodop",
+                                          "targetPitch": "same",
+                                          "targetYaw": "sameAzimuth"
+                                        },
+                                        {
+                                          "pitch": -12.35,
+                                          "yaw": 0.04,
+                                          "type": "scene",
+                                          "text": "Ceramics Studio",
+                                          "sceneId": "ceramics",
+                                          "targetPitch": "same",
+                                          "targetYaw": "sameAzimuth"
+                                        }
+                                      ]
+                          },
+                          
+               "sharp": {
+                          "title": "Sharp Studio",
+                          "author": "This is where the description of the space being displayed would be entered.",
+                          "northOffset": 90,
+                          "multiRes": {
+                                      "basePath": "../img/panos/sharp",
                                       "path": "/%l/%s%y_%x",
                                       "fallbackPath": "/fallback/%s",
                                       "extension": "jpg",
