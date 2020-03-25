@@ -5,12 +5,12 @@
               "hfov": 105.0,
               "type": "multires",
               "compass": true,
-              "hotSpotDebug": false
+              "hotSpotDebug": true
               },
   
   "scenes": {
     
-            "HLobby": {
+            "1stA": {
                         "title": "Umphrey Lee Entrance",
                         "author": "This is where the description of the space being displayed would be entered.",
                         "northOffset": 0.0,
