@@ -545,14 +545,14 @@
                                       },
                           "hotSpots": [
                                         {
-                                          "pitch": -1,
-                                          "yaw": 196,
+                                          "pitch": -0.54,
+                                          "yaw": -188.26,
                                           "type": "info",
                                           "text": "This is where the description of a point of interest would be entered."
                                         },
                                         {
-                                          "pitch": 6.13,
-                                          "yaw": 236.32,
+                                          "pitch": 10.25,
+                                          "yaw": 0.0,
                                           "type": "scene",
                                           "text": "Studio 1430",
                                           "sceneId": "dance",
@@ -560,17 +560,17 @@
                                           "targetYaw": "sameAzimuth"
                                         },
                                         {
-                                          "pitch": 10,
-                                          "yaw": 125,
+                                          "pitch": 0.0,
+                                          "yaw": 33.85,
                                           "type": "scene",
-                                          "text": "Wood Shop",
-                                          "sceneId": "woodshop",
+                                          "text": "Green Room",
+                                          "sceneId": "GRoom",
                                           "targetPitch": "same",
                                           "targetYaw": "sameAzimuth"
                                         },
                                         {
-                                          "pitch": 5,
-                                          "yaw": 125,
+                                          "pitch": 7.74,
+                                          "yaw": -269.86,
                                           "type": "scene",
                                           "text": "Bob Hope Theatre",
                                           "sceneId": "woodshop",
@@ -635,7 +635,7 @@
                           "author": "This is where the description of the space being displayed would be entered.",
                           "northOffset": -90,
                           "multiRes": {
-                                      "basePath": "../img/panos/jones",
+                                      "basePath": "../img/panos/DFLab",
                                       "path": "/%l/%s%y_%x",
                                       "fallbackPath": "/fallback/%s",
                                       "extension": "jpg",
