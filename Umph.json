@@ -15,7 +15,7 @@
                         "author": "This is where the description of the space being displayed would be entered.",
                         "northOffset": 0.0,
                         "multiRes": {
-                                    "basePath": "../img/panos/1stA",
+                                    "basePath": "img/panos/1stA",
                                     "path": "/%l/%s%y_%x",
                                     "fallbackPath": "/fallback/%s",
                                     "extension": "jpg",
