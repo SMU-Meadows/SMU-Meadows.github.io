@@ -823,17 +823,8 @@
                                           "pitch": 10,
                                           "yaw": 125,
                                           "type": "scene",
-                                          "text": "Wood Shop",
-                                          "sceneId": "woodshop",
-                                          "targetPitch": "same",
-                                          "targetYaw": "sameAzimuth"
-                                        },
-                                        {
-                                          "pitch": 5,
-                                          "yaw": 125,
-                                          "type": "scene",
-                                          "text": "Bob Hope Theatre",
-                                          "sceneId": "woodshop",
+                                          "text": "Margo Jones Theatre",
+                                          "sceneId": "jones",
                                           "targetPitch": "same",
                                           "targetYaw": "sameAzimuth"
                                         }
