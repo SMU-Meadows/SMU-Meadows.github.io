@@ -317,7 +317,7 @@
                                           "pitch": -0.32,
                                           "yaw": -318.06,
                                           "type": "scene",
-                                          "text": "Hope Lobby",
+                                          "text": "Bob Hope Lobby",
                                           "sceneId": "HLobby",
                                           "targetPitch": "same",
                                           "targetYaw": "sameAzimuth"
@@ -328,6 +328,15 @@
                                           "type": "scene",
                                           "text": "Woodshop",
                                           "sceneId": "woodshop",
+                                          "targetPitch": "same",
+                                          "targetYaw": "sameAzimuth"
+                                        },
+                                        {
+                                          "pitch": -0.32,
+                                          "yaw": 50.60,
+                                          "type": "scene",
+                                          "text": "Bob Hope Theatre",
+                                          "sceneId": "HopeSMU",
                                           "targetPitch": "same",
                                           "targetYaw": "sameAzimuth"
                                         }
@@ -373,7 +382,7 @@
                                           "targetYaw": "sameAzimuth"
                                         },
                                         {
-                                          "pitch": -6.16,
+                                          "pitch": -5.34,
                                           "yaw": -158.18,
                                           "type": "scene",
                                           "text": "Green Room",
@@ -499,8 +508,8 @@
                                           "pitch": 6.13,
                                           "yaw": 236.32,
                                           "type": "scene",
-                                          "text": "Green Room",
-                                          "sceneId": "GRoom",
+                                          "text": "Taubman Atrium",
+                                          "sceneId": "taubman",
                                           "targetPitch": "same",
                                           "targetYaw": "sameAzimuth"
                                         },
@@ -510,6 +519,15 @@
                                           "type": "scene",
                                           "text": "Caruth Auditorium",
                                           "sceneId": "caruth",
+                                          "targetPitch": "same",
+                                          "targetYaw": "sameAzimuth"
+                                        },
+                                        {
+                                          "pitch": 1.59,
+                                          "yaw": -56.49,
+                                          "type": "scene",
+                                          "text": "Green Room",
+                                          "sceneId": "GRoom",
                                           "targetPitch": "same",
                                           "targetYaw": "sameAzimuth"
                                         }
@@ -636,7 +654,7 @@
                           "author": "This is where the description of the space being displayed would be entered.",
                           "northOffset": 0.0,
                           "multiRes": {
-                                      "basePath": "../img/panos/jones",
+                                      "basePath": "../img/panos/dance",
                                       "path": "/%l/%s%y_%x",
                                       "fallbackPath": "/fallback/%s",
                                       "extension": "jpg",
