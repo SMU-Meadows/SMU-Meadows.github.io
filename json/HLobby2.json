@@ -118,11 +118,29 @@
                                       "targetYaw": "sameAzimuth"
                                       },
                                       {
+                                      "pitch": 0.21,
+                                      "yaw": 130.49,
+                                      "type": "scene",
+                                      "text": "Doolin Gallery",
+                                      "sceneId": "doolin",
+                                      "targetPitch": "same",
+                                      "targetYaw": "sameAzimuth"
+                                      },
+                                      {
                                       "pitch": 7.63,
                                       "yaw": 60.43,
                                       "type": "scene",
                                       "text": "Margo Jones Theatre",
                                       "sceneId": "jones",
+                                      "targetPitch": "same",
+                                      "targetYaw": "sameAzimuth"
+                                      },
+                                      {
+                                      "pitch": -1.41,
+                                      "yaw": -66.06,
+                                      "type": "scene",
+                                      "text": "Taubman Atrium",
+                                      "sceneId": "taubman",
                                       "targetPitch": "same",
                                       "targetYaw": "sameAzimuth"
                                       }
@@ -248,6 +266,15 @@
                                         "sceneId": "sharp",
                                         "targetPitch": "same",
                                         "targetYaw": "sameAzimuth"
+                                      },
+                                      {
+                                        "pitch": -0.34,
+                                        "yaw": 32.81,
+                                        "type": "scene",
+                                        "text": "Bob Hope Theatre",
+                                        "sceneId": "HopeSMU",
+                                        "targetPitch": "same",
+                                        "targetYaw": "sameAzimuth"
                                       }
                                     ]
                           },
@@ -319,6 +346,15 @@
                                           "type": "scene",
                                           "text": "Woodshop",
                                           "sceneId": "woodshop",
+                                          "targetPitch": "same",
+                                          "targetYaw": "sameAzimuth"
+                                        },
+                                        {
+                                          "pitch": -0.32,
+                                          "yaw": 50.60,
+                                          "type": "scene",
+                                          "text": "Bob Hope Theatre",
+                                          "sceneId": "HopeSMU",
                                           "targetPitch": "same",
                                           "targetYaw": "sameAzimuth"
                                         },
