@@ -3,10 +3,10 @@
               "firstScene": "HLobby",
               "sceneFadeDuration": 750,
               "autoLoad": true,
-              "hfov": 100.0,
+              "hfov": 105.0,
               "type": "multires",
               "compass": true,
-              "hotSpotDebug": true
+              "hotSpotDebug": false
               },
   
   "scenes": {
