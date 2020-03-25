@@ -28,7 +28,7 @@
                                      {
                                       "type": "info",
                                       "text": "This is where the description of a point of interest would be entered.",
-                                      "pitch": 0.4,
+                                      "pitch": -1.26,
                                       "yaw": -0.1
                                      },
                                      {
@@ -396,6 +396,15 @@
                                           "type": "scene",
                                           "text": "Printmaking Studio",
                                           "sceneId": "printmaking",
+                                          "targetPitch": "same",
+                                          "targetYaw": "sameAzimuth"
+                                        },
+                                        {
+                                          "pitch": 4.32,
+                                          "yaw": 189.14,
+                                          "type": "scene",
+                                          "text": "Doolin Gallery",
+                                          "sceneId": "doolin",
                                           "targetPitch": "same",
                                           "targetYaw": "sameAzimuth"
                                         }
