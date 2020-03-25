@@ -13,7 +13,7 @@
     
             "HLobby": {
                         "title": "Bob Hope Lobby",
-                        "author": "This is where the description of the space being displayed would be entered.",
+                        "author": "Bob Hope was not an alumnus of SMU but was a longtime friend. In the 1960s, Hope made two sizable donations to SMU, one in 1963 and another in 1965. His gifts totaled $800,000—worth nearly $6 million in today’s dollars—and were made for the development of a new namesake theatre to be locatedinside the future Owen Fine Arts Center.",
                         "northOffset": -89.9,
                         "multiRes": {
                                     "basePath": "img/panos/HLobby",
@@ -81,7 +81,7 @@
                           
             "HopeSMU": {
                         "title": "Bob Hope Theatre",
-                        "author": "This is where the description of the space being displayed would be entered.",
+                        "author": "Used primarily for dance concerts and operas, this 392-seat venue is ideal for grand-scale productions, and features a proscenium stage, clear sightline seating and a hydraulic orchestra pit.",
                         "northOffset": -119,
                         "multiRes": {
                                     "basePath": "img/panos/HopeSMU",
@@ -163,7 +163,7 @@
                           
             "caruth": {
                         "title": "Caruth Auditorium",
-                        "author": "This is where the description of the space being displayed would be entered.",
+                        "author": "Our 490-seat concert hall is used for student and faculty recitals, symphonic concerts, and choral concerts.",
                         "northOffset": 181.23,
                         "multiRes": {
                                     "basePath": "img/panos/caruth",
@@ -460,7 +460,7 @@
                           
               "ceramics": {
                           "title": "Ceramics Studio",
-                          "author": "This is where the description of the space being displayed would be entered.",
+                          "author": "This classroom features manual and electric wheels that you can be used sitting or standing to throw pots. Our students mix the clay themselves and typically use stoneware and terracotta.",
                           "northOffset": -180,
                           "multiRes": {
                                       "basePath": "img/panos/ceramics",
@@ -560,7 +560,7 @@
                           
                  "GRoom": {
                           "title": "Green Room",
-                          "author": "This is where the description of the space being displayed would be entered.",
+                          "author": "The Green Room is where our actors and dancers relax between scenes and classes.",
                           "northOffset": 90,
                           "multiRes": {
                                       "basePath": "img/panos/GRoom",
@@ -631,7 +631,7 @@
                           
                 "jones": {
                           "title": "Margo Jones Theatre",
-                          "author": "This is where the description of the space being displayed would be entered.",
+                          "author": "Versatile, intimate 125-seat black box, with four seating platforms that allow directors and designers the flexibility to choose between multiple configurations.",
                           "northOffset": 0.0,
                           "multiRes": {
                                       "basePath": "img/panos/jones",
@@ -840,7 +840,7 @@
                           
                 "garson": {
                           "title": "Greer Garson Theatre",
-                          "author": "This is where the description of the space being displayed would be entered.",
+                          "author": "Theatre students present classical and contemporary plays on the Greer Garson thrust stage, as well as readings of plays they have written themselves. Productions are elevated to professional level with scenic, lighting, projection and costume designs by award-winning M.F.A. Theatre graduate students and Theatre staff.",
                           "northOffset": -180,
                           "multiRes": {
                                       "basePath": "img/panos/garson",

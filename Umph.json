@@ -103,7 +103,7 @@
                           
              "collab": {
                         "title": "Ad Lounge",
-                        "author": "This is where the description of the space being displayed would be entered.",
+                        "author": "The open atmosphere of the Ad Lounge makes it perfect for use as a collaborative space and for working independently.",
                         "northOffset": 90,
                         "multiRes": {
                                     "basePath": "img/panos/collab",
