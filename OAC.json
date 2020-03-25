@@ -84,7 +84,7 @@
                         "author": "This is where the description of the space being displayed would be entered.",
                         "northOffset": -119,
                         "multiRes": {
-                                    "basePath": "../img/panos/HopeSMU",
+                                    "basePath": "img/panos/HopeSMU",
                                     "path": "/%l/%s%y_%x",
                                     "fallbackPath": "/fallback/%s",
                                     "extension": "jpg",
@@ -134,7 +134,7 @@
                         "author": "This is where the description of the space being displayed would be entered.",
                         "northOffset": -266.68,
                         "multiRes": {
-                                    "basePath": "../img/panos/steps",
+                                    "basePath": "img/panos/steps",
                                     "path": "/%l/%s%y_%x",
                                     "fallbackPath": "/fallback/%s",
                                     "extension": "jpg",
@@ -166,7 +166,7 @@
                         "author": "This is where the description of the space being displayed would be entered.",
                         "northOffset": 181.23,
                         "multiRes": {
-                                    "basePath": "../img/panos/caruth",
+                                    "basePath": "img/panos/caruth",
                                     "path": "/%l/%s%y_%x",
                                     "fallbackPath": "/fallback/%s",
                                     "extension": "jpg",
@@ -207,7 +207,7 @@
                         "author": "This is where the description of the space being displayed would be entered.",
                         "northOffset": -90.65,
                         "multiRes": {
-                                    "basePath": "../img/panos/taubman",
+                                    "basePath": "img/panos/taubman",
                                     "path": "/%l/%s%y_%x",
                                     "fallbackPath": "/fallback/%s",
                                     "extension": "jpg",
@@ -257,7 +257,7 @@
                           "author": "This is where the description of the space being displayed would be entered.",
                           "northOffset": 90.0,
                           "multiRes": {
-                                      "basePath": "../img/panos/ODonnell",
+                                      "basePath": "img/panos/ODonnell",
                                       "path": "/%l/%s%y_%x",
                                       "fallbackPath": "/fallback/%s",
                                       "extension": "jpg",
@@ -289,7 +289,7 @@
                           "author": "This is where the description of the space being displayed would be entered.",
                           "northOffset": 89.29,
                           "multiRes": {
-                                      "basePath": "../img/panos/doolin",
+                                      "basePath": "img/panos/doolin",
                                       "path": "/%l/%s%y_%x",
                                       "fallbackPath": "/fallback/%s",
                                       "extension": "jpg",
@@ -348,7 +348,7 @@
                           "author": "This is where the description of the space being displayed would be entered.",
                           "northOffset": 0.0,
                           "multiRes": {
-                                      "basePath": "../img/panos/woodshop",
+                                      "basePath": "img/panos/woodshop",
                                       "path": "/%l/%s%y_%x",
                                       "fallbackPath": "/fallback/%s",
                                       "extension": "jpg",
@@ -416,7 +416,7 @@
                           "author": "This is where the description of the space being displayed would be entered.",
                           "northOffset": 0.0,
                           "multiRes": {
-                                      "basePath": "../img/panos/foundry",
+                                      "basePath": "img/panos/foundry",
                                       "path": "/%l/%s%y_%x",
                                       "fallbackPath": "/fallback/%s",
                                       "extension": "jpg",
@@ -457,7 +457,7 @@
                           "author": "This is where the description of the space being displayed would be entered.",
                           "northOffset": -180,
                           "multiRes": {
-                                      "basePath": "../img/panos/ceramics",
+                                      "basePath": "img/panos/ceramics",
                                       "path": "/%l/%s%y_%x",
                                       "fallbackPath": "/fallback/%s",
                                       "extension": "jpg",
@@ -498,7 +498,7 @@
                           "author": "This is where the description of the space being displayed would be entered.",
                           "northOffset": 0.0,
                           "multiRes": {
-                                      "basePath": "../img/panos/sharp",
+                                      "basePath": "img/panos/sharp",
                                       "path": "/%l/%s%y_%x",
                                       "fallbackPath": "/fallback/%s",
                                       "extension": "jpg",
@@ -548,7 +548,7 @@
                           "author": "This is where the description of the space being displayed would be entered.",
                           "northOffset": 90,
                           "multiRes": {
-                                      "basePath": "../img/panos/GRoom",
+                                      "basePath": "img/panos/GRoom",
                                       "path": "/%l/%s%y_%x",
                                       "fallbackPath": "/fallback/%s",
                                       "extension": "jpg",
@@ -613,7 +613,7 @@
                           "author": "This is where the description of the space being displayed would be entered.",
                           "northOffset": 0.0,
                           "multiRes": {
-                                      "basePath": "../img/panos/jones",
+                                      "basePath": "img/panos/jones",
                                       "path": "/%l/%s%y_%x",
                                       "fallbackPath": "/fallback/%s",
                                       "extension": "jpg",
@@ -672,7 +672,7 @@
                           "author": "This is where the description of the space being displayed would be entered.",
                           "northOffset": -180,
                           "multiRes": {
-                                      "basePath": "../img/panos/dance",
+                                      "basePath": "img/panos/dance",
                                       "path": "/%l/%s%y_%x",
                                       "fallbackPath": "/fallback/%s",
                                       "extension": "jpg",
@@ -722,7 +722,7 @@
                           "author": "This is where the description of the space being displayed would be entered.",
                           "northOffset": -90,
                           "multiRes": {
-                                      "basePath": "../img/panos/DFLab",
+                                      "basePath": "img/panos/DFLab",
                                       "path": "/%l/%s%y_%x",
                                       "fallbackPath": "/fallback/%s",
                                       "extension": "jpg",
@@ -763,7 +763,7 @@
                           "author": "This is where the description of the space being displayed would be entered.",
                           "northOffset": -180,
                           "multiRes": {
-                                      "basePath": "../img/panos/printmaking",
+                                      "basePath": "img/panos/printmaking",
                                       "path": "/%l/%s%y_%x",
                                       "fallbackPath": "/fallback/%s",
                                       "extension": "jpg",
@@ -813,7 +813,7 @@
                           "author": "This is where the description of the space being displayed would be entered.",
                           "northOffset": -180,
                           "multiRes": {
-                                      "basePath": "../img/panos/garson",
+                                      "basePath": "img/panos/garson",
                                       "path": "/%l/%s%y_%x",
                                       "fallbackPath": "/fallback/%s",
                                       "extension": "jpg",
@@ -854,7 +854,7 @@
                           "author": "This is where the description of the space being displayed would be entered.",
                           "northOffset": -180,
                           "multiRes": {
-                                      "basePath": "../img/panos/painting",
+                                      "basePath": "img/panos/painting",
                                       "path": "/%l/%s%y_%x",
                                       "fallbackPath": "/fallback/%s",
                                       "extension": "jpg",
