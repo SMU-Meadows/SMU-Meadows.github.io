@@ -60,7 +60,7 @@
                                     ]
                           },
                           
-            "observation": {
+        "observation": {
                         "title": "Focus Group Room",
                         "author": "This is where the description of the space being displayed would be entered.",
                         "northOffset": 90,
@@ -90,7 +90,7 @@
                                       "targetYaw": "sameAzimuth"
                                       },
                                       {
-                                      "pitch": -9.20,
+                                      "pitch": -9.24,
                                       "yaw": 108.41,
                                       "type": "scene",
                                       "text": "Umphrey Lee Entrance",
@@ -116,14 +116,14 @@
                                      },
                         "hotSpots": [
                                      {
-                                      "pitch": 0.6,
-                                      "yaw": 5.5,
+                                      "pitch": -6.08,
+                                      "yaw": -14.53,
                                       "type": "info",
                                       "text": "This is where the description of a point of interest would be entered."
                                      },
                                      {
-                                      "pitch": 10,
-                                      "yaw": 175.7,
+                                      "pitch": -6.53,
+                                      "yaw": -59.43,
                                       "type": "scene",
                                       "text": "Creative Studio",
                                       "sceneId": "portfolio",
@@ -131,8 +131,8 @@
                                       "targetYaw": "sameAzimuth"
                                       },
                                       {
-                                      "pitch": 2.6,
-                                      "yaw": 175.7,
+                                      "pitch": -4.62,
+                                      "yaw": 88.70,
                                       "type": "scene",
                                       "text": "Focus Group Room",
                                       "sceneId": "observation",
@@ -157,14 +157,14 @@
                                     },
                         "hotSpots": [
                                       {
-                                        "pitch": 15.52,
-                                        "yaw": -0.07,
+                                        "pitch": -9.45,
+                                        "yaw": -125.43,
                                         "type": "info",
                                         "text": "This is where the description of a point of interest would be entered."
                                       },
                                       {
-                                        "pitch": 16.62,
-                                        "yaw": 178.77,
+                                        "pitch": -5.34,
+                                        "yaw": -55.27,
                                         "type": "scene",
                                         "text": "Ad Lounge",
                                         "sceneId": "collab",
