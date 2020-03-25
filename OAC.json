@@ -176,10 +176,16 @@
                                     },
                         "hotSpots": [
                                       {
-                                        "pitch": 15.52,
-                                        "yaw": -0.07,
+                                        "pitch": 4.55,
+                                        "yaw": 0.0,
                                         "type": "info",
-                                        "text": "This is where the description of a point of interest would be entered."
+                                        "text": "This magnificent C.B. Fisk Opus 101 organ features 3,681 pipes and 51 stops."
+                                      },
+                                      {
+                                        "pitch": -1.32,
+                                        "yaw": -90.62,
+                                        "type": "info",
+                                        "text": "The louvers on the walls of the hall can be opened or closed depending on the acoustical needs of the performance."
                                       },
                                       {
                                         "pitch": 16.62,
