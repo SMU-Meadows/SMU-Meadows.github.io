@@ -514,8 +514,8 @@
                                           "text": "This is where the description of a point of interest would be entered."
                                         },
                                         {
-                                          "pitch": 6.13,
-                                          "yaw": 236.32,
+                                          "pitch": 8.65,
+                                          "yaw": -123.68,
                                           "type": "scene",
                                           "text": "Taubman Atrium",
                                           "sceneId": "taubman",
