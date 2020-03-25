@@ -332,8 +332,8 @@
                                           "targetYaw": "sameAzimuth"
                                         },
                                         {
-                                          "pitch": 5,
-                                          "yaw": 50,
+                                          "pitch": 5.87,
+                                          "yaw": -327.32,
                                           "type": "scene",
                                           "text": "Painting Studio",
                                           "sceneId": "painting",
@@ -846,14 +846,14 @@
                                       },
                           "hotSpots": [
                                         {
-                                          "pitch": -2.44,
-                                          "yaw": -6.50,
+                                          "pitch": -6.83,
+                                          "yaw": -104.20,
                                           "type": "info",
                                           "text": "This is where the description of a point of interest would be entered."
                                         },
                                         {
-                                          "pitch": 5.04,
-                                          "yaw": -35.98,
+                                          "pitch": -3.77,
+                                          "yaw": -37.29,
                                           "type": "scene",
                                           "text": "Doolin Gallery",
                                           "sceneId": "doolin",
