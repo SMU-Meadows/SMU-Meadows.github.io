@@ -210,7 +210,7 @@
             "ODonnell": {
                           "title": "O'Donnell Hall",
                           "author": "This is where the description of the space being displayed would be entered.",
-                          "northOffset": 276,
+                          "northOffset": 90.0,
                           "multiRes": {
                                       "basePath": "../img/panos/ODonnell",
                                       "path": "/%l/%s%y_%x",
@@ -222,14 +222,14 @@
                                       },
                           "hotSpots": [
                                         {
-                                          "pitch": 9,
-                                          "yaw": 27,
+                                          "pitch": -13.51,
+                                          "yaw": 2.0,
                                           "type": "info",
                                           "text": "This is where the description of a point of interest would be entered."
                                         },
                                         {
-                                          "pitch": -2.35,
-                                          "yaw": 0.04,
+                                          "pitch": -19.19,
+                                          "yaw": 0.0,
                                           "type": "scene",
                                           "text": "Taubman Atrium",
                                           "sceneId": "taubman",
