@@ -6,7 +6,7 @@
               "hfov": 100.0,
               "type": "multires",
               "compass": true,
-              "hotSpotDebug": true
+              "hotSpotDebug": false
               },
   
   "scenes": {
