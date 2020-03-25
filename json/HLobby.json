@@ -109,8 +109,8 @@
                                       "targetYaw": "sameAzimuth"
                                       },
                                       {
-                                      "pitch": 5.35,
-                                      "yaw": 62.65,
+                                      "pitch": -19.95,
+                                      "yaw": 57.87,
                                       "type": "scene",
                                       "text": "Green Room",
                                       "sceneId": "GRoom",
@@ -486,14 +486,20 @@
                                       },
                           "hotSpots": [
                                         {
-                                          "pitch": -1,
-                                          "yaw": 196,
+                                          "pitch": 0.69,
+                                          "yaw": 4.27,
                                           "type": "info",
                                           "text": "This is where the description of a point of interest would be entered."
                                         },
                                         {
-                                          "pitch": 6.13,
-                                          "yaw": 236.32,
+                                          "pitch": -2.05,
+                                          "yaw": 93.84,
+                                          "type": "info",
+                                          "text": "This is where the description of a point of interest would be entered."
+                                        },
+                                        {
+                                          "pitch": -1.21,
+                                          "yaw": 75.90,
                                           "type": "scene",
                                           "text": "Sharp Studio",
                                           "sceneId": "sharp",
@@ -501,8 +507,8 @@
                                           "targetYaw": "sameAzimuth"
                                         },
                                         {
-                                          "pitch": 10,
-                                          "yaw": 125,
+                                          "pitch": -1.43,
+                                          "yaw": 294.72,
                                           "type": "scene",
                                           "text": "Wood Shop",
                                           "sceneId": "woodshop",
@@ -510,8 +516,8 @@
                                           "targetYaw": "sameAzimuth"
                                         },
                                         {
-                                          "pitch": 5,
-                                          "yaw": 125,
+                                          "pitch": 9.69,
+                                          "yaw": 82.23,
                                           "type": "scene",
                                           "text": "Bob Hope Theatre",
                                           "sceneId": "HopeSMU",
@@ -519,8 +525,8 @@
                                           "targetYaw": "sameAzimuth"
                                         },
                                         {
-                                          "pitch": 25,
-                                          "yaw": 125,
+                                          "pitch": 12.02,
+                                          "yaw": 272.38,
                                           "type": "scene",
                                           "text": "Margo Jones Theatre",
                                           "sceneId": "jones",
