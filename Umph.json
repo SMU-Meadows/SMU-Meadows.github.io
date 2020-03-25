@@ -230,14 +230,14 @@
                                       },
                           "hotSpots": [
                                         {
-                                          "pitch": -13.51,
-                                          "yaw": 2.0,
+                                          "pitch": -17.52,
+                                          "yaw": 46.79,
                                           "type": "info",
                                           "text": "This is where the description of a point of interest would be entered."
                                         },
                                         {
-                                          "pitch": -19.19,
-                                          "yaw": 0.0,
+                                          "pitch": -2.45,
+                                          "yaw": -51.53,
                                           "type": "scene",
                                           "text": "Equipment Cage",
                                           "sceneId": "cage",
@@ -245,8 +245,8 @@
                                           "targetYaw": "sameAzimuth"
                                         },
                                         {
-                                          "pitch": -19.19,
-                                          "yaw": 0.0,
+                                          "pitch": -1.95,
+                                          "yaw": -41.81,
                                           "type": "scene",
                                           "text": "Audio Suite",
                                           "sceneId": "soundPre",
