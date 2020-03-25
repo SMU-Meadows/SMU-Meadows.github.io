@@ -357,6 +357,15 @@
                                           "sceneId": "HopeSMU",
                                           "targetPitch": "same",
                                           "targetYaw": "sameAzimuth"
+                                        },
+                                        {
+                                          "pitch": 3.17,
+                                          "yaw": 137.61,
+                                          "type": "scene",
+                                          "text": "Studio 1430",
+                                          "sceneId": "dance",
+                                          "targetPitch": "same",
+                                          "targetYaw": "sameAzimuth"
                                         }
                                       ]
                           },
@@ -376,8 +385,8 @@
                                       },
                           "hotSpots": [
                                         {
-                                          "pitch": 9,
-                                          "yaw": 27,
+                                          "pitch": -13.83,
+                                          "yaw": -219.71,
                                           "type": "info",
                                           "text": "This is where the description of a point of interest would be entered."
                                         },
@@ -663,6 +672,15 @@
                                           "sceneId": "HopeSMU",
                                           "targetPitch": "same",
                                           "targetYaw": "sameAzimuth"
+                                        },
+                                        {
+                                          "pitch": 4.51,
+                                          "yaw": -35.33,
+                                          "type": "scene",
+                                          "text": "Greer Garson Theatre",
+                                          "sceneId": "garson",
+                                          "targetPitch": "same",
+                                          "targetYaw": "sameAzimuth"
                                         }
                                       ]
                           },
@@ -682,8 +700,8 @@
                                       },
                           "hotSpots": [
                                         {
-                                          "pitch": -1,
-                                          "yaw": 196,
+                                          "pitch": -6.19,
+                                          "yaw": 57.81,
                                           "type": "info",
                                           "text": "This is where the description of a point of interest would be entered."
                                         },
@@ -706,7 +724,7 @@
                                           "targetYaw": "sameAzimuth"
                                         },
                                         {
-                                          "pitch": 9.49,
+                                          "pitch": 7.70,
                                           "yaw": -127.92,
                                           "type": "scene",
                                           "text": "Doolin Gallery",
