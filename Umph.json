@@ -330,56 +330,20 @@
                                           "pitch": -2.35,
                                           "yaw": 0.04,
                                           "type": "scene",
-                                          "text": "Foundry",
-                                          "sceneId": "foundry",
-                                          "targetPitch": "same",
-                                          "targetYaw": "sameAzimuth"
-                                        },
-                                        {
-                                          "pitch": -2.12,
-                                          "yaw": 80.77,
-                                          "type": "scene",
-                                          "text": "Doolin Fabrication Lab",
-                                          "sceneId": "DFLab",
-                                          "targetPitch": "same",
-                                          "targetYaw": "sameAzimuth"
-                                        },
-                                        {
-                                          "pitch": -5.34,
-                                          "yaw": -158.18,
-                                          "type": "scene",
-                                          "text": "Green Room",
-                                          "sceneId": "GRoom",
-                                          "targetPitch": "same",
-                                          "targetYaw": "sameAzimuth"
-                                        },
-                                        {
-                                          "pitch": -6.16,
-                                          "yaw": -185.47,
-                                          "type": "scene",
-                                          "text": "Printmaking Studio",
-                                          "sceneId": "printmaking",
-                                          "targetPitch": "same",
-                                          "targetYaw": "sameAzimuth"
-                                        },
-                                        {
-                                          "pitch": 4.32,
-                                          "yaw": 189.14,
-                                          "type": "scene",
-                                          "text": "Doolin Gallery",
-                                          "sceneId": "doolin",
+                                          "text": "Audio Suite",
+                                          "sceneId": "soundPre",
                                           "targetPitch": "same",
                                           "targetYaw": "sameAzimuth"
                                         }
                                       ]
                           },
                           
-              "foundry": {
-                          "title": "Foundry",
+              "eBooth": {
+                          "title": "Advanced Editing Booth",
                           "author": "This is where the description of the space being displayed would be entered.",
                           "northOffset": 0.0,
                           "multiRes": {
-                                      "basePath": "img/panos/foundry",
+                                      "basePath": "img/panos/eBooth",
                                       "path": "/%l/%s%y_%x",
                                       "fallbackPath": "/fallback/%s",
                                       "extension": "jpg",
@@ -398,29 +362,20 @@
                                           "pitch": -1.63,
                                           "yaw": -86.50,
                                           "type": "scene",
-                                          "text": "Woodshop",
-                                          "sceneId": "woodshop",
-                                          "targetPitch": "same",
-                                          "targetYaw": "sameAzimuth"
-                                        },
-                                        {
-                                          "pitch": -2.84,
-                                          "yaw": -235.88,
-                                          "type": "scene",
-                                          "text": "Ceramics Studio",
-                                          "sceneId": "ceramics",
+                                          "text": "Audio Suite",
+                                          "sceneId": "soundPre",
                                           "targetPitch": "same",
                                           "targetYaw": "sameAzimuth"
                                         }
                                       ]
                           },
                           
-              "ceramics": {
-                          "title": "Ceramics Studio",
+              "studio": {
+                          "title": "Broadcast Studio",
                           "author": "This is where the description of the space being displayed would be entered.",
                           "northOffset": -180,
                           "multiRes": {
-                                      "basePath": "img/panos/ceramics",
+                                      "basePath": "img/panos/studio",
                                       "path": "/%l/%s%y_%x",
                                       "fallbackPath": "/fallback/%s",
                                       "extension": "jpg",
@@ -439,8 +394,8 @@
                                           "pitch": -2.84,
                                           "yaw": 45.66,
                                           "type": "scene",
-                                          "text": "Printmaking Studio",
-                                          "sceneId": "printmaking",
+                                          "text": "Control Room",
+                                          "sceneId": "control",
                                           "targetPitch": "same",
                                           "targetYaw": "sameAzimuth"
                                         },
@@ -448,20 +403,20 @@
                                           "pitch": -1.31,
                                           "yaw": 110.22,
                                           "type": "scene",
-                                          "text": "Foundry",
-                                          "sceneId": "foundry",
+                                          "text": "Umphrey Lee Entrance",
+                                          "sceneId": "1stA",
                                           "targetPitch": "same",
                                           "targetYaw": "sameAzimuth"
                                         }
                                       ]
                           },
                           
-                "sharp": {
-                          "title": "Sharp Studio",
+                "control": {
+                          "title": "Control Room",
                           "author": "This is where the description of the space being displayed would be entered.",
-                          "northOffset": 0.0,
+                          "northOffset": -180,
                           "multiRes": {
-                                      "basePath": "img/panos/sharp",
+                                      "basePath": "img/panos/control",
                                       "path": "/%l/%s%y_%x",
                                       "fallbackPath": "/fallback/%s",
                                       "extension": "jpg",
@@ -480,8 +435,8 @@
                                           "pitch": 8.65,
                                           "yaw": -123.68,
                                           "type": "scene",
-                                          "text": "Taubman Atrium",
-                                          "sceneId": "taubman",
+                                          "text": "Broadcast Studio",
+                                          "sceneId": "studio",
                                           "targetPitch": "same",
                                           "targetYaw": "sameAzimuth"
                                         },
@@ -489,29 +444,20 @@
                                           "pitch": 5.71,
                                           "yaw": 125.02,
                                           "type": "scene",
-                                          "text": "Caruth Auditorium",
-                                          "sceneId": "caruth",
-                                          "targetPitch": "same",
-                                          "targetYaw": "sameAzimuth"
-                                        },
-                                        {
-                                          "pitch": 4.29,
-                                          "yaw": -53.88,
-                                          "type": "scene",
-                                          "text": "Green Room",
-                                          "sceneId": "GRoom",
+                                          "text": "Newsroom",
+                                          "sceneId": "newsroom",
                                           "targetPitch": "same",
                                           "targetYaw": "sameAzimuth"
                                         }
                                       ]
                           },
                           
-                 "GRoom": {
-                          "title": "Green Room",
+                 "newsroom": {
+                          "title": "Newsroom",
                           "author": "This is where the description of the space being displayed would be entered.",
-                          "northOffset": 90,
+                          "northOffset": -90,
                           "multiRes": {
-                                      "basePath": "img/panos/GRoom",
+                                      "basePath": "img/panos/newsroom",
                                       "path": "/%l/%s%y_%x",
                                       "fallbackPath": "/fallback/%s",
                                       "extension": "jpg",
@@ -527,44 +473,11 @@
                                           "text": "This is where the description of a point of interest would be entered."
                                         },
                                         {
-                                          "pitch": -2.05,
-                                          "yaw": 93.84,
-                                          "type": "info",
-                                          "text": "This is where the description of a point of interest would be entered."
-                                        },
-                                        {
                                           "pitch": -1.21,
                                           "yaw": 75.90,
                                           "type": "scene",
-                                          "text": "Sharp Studio",
-                                          "sceneId": "sharp",
-                                          "targetPitch": "same",
-                                          "targetYaw": "sameAzimuth"
-                                        },
-                                        {
-                                          "pitch": -1.43,
-                                          "yaw": 294.72,
-                                          "type": "scene",
-                                          "text": "Wood Shop",
-                                          "sceneId": "woodshop",
-                                          "targetPitch": "same",
-                                          "targetYaw": "sameAzimuth"
-                                        },
-                                        {
-                                          "pitch": 9.69,
-                                          "yaw": 82.23,
-                                          "type": "scene",
-                                          "text": "Bob Hope Theatre",
-                                          "sceneId": "HopeSMU",
-                                          "targetPitch": "same",
-                                          "targetYaw": "sameAzimuth"
-                                        },
-                                        {
-                                          "pitch": 12.02,
-                                          "yaw": 272.38,
-                                          "type": "scene",
-                                          "text": "Margo Jones Theatre",
-                                          "sceneId": "jones",
+                                          "text": "Control Room",
+                                          "sceneId": "control",
                                           "targetPitch": "same",
                                           "targetYaw": "sameAzimuth"
                                         }
