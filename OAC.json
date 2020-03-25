@@ -473,10 +473,10 @@
                                       },
                           "hotSpots": [
                                         {
-                                          "pitch": -0.78,
-                                          "yaw": 99.77,
+                                          "pitch": -1.18,
+                                          "yaw": 273.79,
                                           "type": "info",
-                                          "text": "This is where the description of a point of interest would be entered."
+                                          "text": "The room is where both premade glazes are kept and students can create their own glazes."
                                         },
                                         {
                                           "pitch": -2.84,
@@ -740,7 +740,7 @@
                           
                 "DFLab": {
                           "title": "Doolin Fabrication Lab",
-                          "author": "This is where the description of the space being displayed would be entered.",
+                          "author": "This lab is dedicated to building computer generated 3D work.",
                           "northOffset": -90,
                           "multiRes": {
                                       "basePath": "img/panos/DFLab",
@@ -756,7 +756,7 @@
                                           "pitch": -16.22,
                                           "yaw": 26.04,
                                           "type": "info",
-                                          "text": "This is where the description of a point of interest would be entered."
+                                          "text": "This is one of two 3D printers that we have by Lulzbot. We have a Taz 6 and a Workhorse that use a variety of plastics to print with."
                                         },
                                         {
                                           "pitch": -7.78,
