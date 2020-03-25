@@ -107,6 +107,15 @@
                                       "sceneId": "HLobby",
                                       "targetPitch": "same",
                                       "targetYaw": "sameAzimuth"
+                                      },
+                                      {
+                                      "pitch": 5.35,
+                                      "yaw": 62.65,
+                                      "type": "scene",
+                                      "text": "Green Room",
+                                      "sceneId": "GRoom",
+                                      "targetPitch": "same",
+                                      "targetYaw": "sameAzimuth"
                                       }
                                     ]
                           },
@@ -446,7 +455,7 @@
                                           "yaw": 236.32,
                                           "type": "scene",
                                           "text": "Green Room",
-                                          "sceneId": "gRoom",
+                                          "sceneId": "GRoom",
                                           "targetPitch": "same",
                                           "targetYaw": "sameAzimuth"
                                         },
@@ -462,12 +471,12 @@
                                       ]
                           },
                           
-               "gRoom": {
+               "GRoom": {
                           "title": "Green Room",
                           "author": "This is where the description of the space being displayed would be entered.",
-                          "northOffset": 0.0,
+                          "northOffset": 90,
                           "multiRes": {
-                                      "basePath": "../img/panos/gRoom",
+                                      "basePath": "../img/panos/GRoom",
                                       "path": "/%l/%s%y_%x",
                                       "fallbackPath": "/fallback/%s",
                                       "extension": "jpg",
@@ -477,8 +486,8 @@
                                       },
                           "hotSpots": [
                                         {
-                                          "pitch": -1.21,
-                                          "yaw": 196.08,
+                                          "pitch": -1,
+                                          "yaw": 196,
                                           "type": "info",
                                           "text": "This is where the description of a point of interest would be entered."
                                         },
@@ -486,17 +495,76 @@
                                           "pitch": 6.13,
                                           "yaw": 236.32,
                                           "type": "scene",
-                                          "text": "Green Room",
-                                          "sceneId": "gRoom",
+                                          "text": "Sharp Studio",
+                                          "sceneId": "sharp",
                                           "targetPitch": "same",
                                           "targetYaw": "sameAzimuth"
                                         },
                                         {
-                                          "pitch": 5.71,
-                                          "yaw": 125.02,
+                                          "pitch": 10,
+                                          "yaw": 125,
                                           "type": "scene",
-                                          "text": "Caruth Auditorium",
-                                          "sceneId": "caruth",
+                                          "text": "Wood Shop",
+                                          "sceneId": "woodshop",
+                                          "targetPitch": "same",
+                                          "targetYaw": "sameAzimuth"
+                                        },
+                                        {
+                                          "pitch": 5,
+                                          "yaw": 125,
+                                          "type": "scene",
+                                          "text": "Bob Hope Theatre",
+                                          "sceneId": "woodshop",
+                                          "targetPitch": "same",
+                                          "targetYaw": "sameAzimuth"
+                                        }
+                                      ]
+                          },
+                          
+               "jones": {
+                          "title": "Margo Jones Theatre",
+                          "author": "This is where the description of the space being displayed would be entered.",
+                          "northOffset": 0.0,
+                          "multiRes": {
+                                      "basePath": "../img/panos/jones",
+                                      "path": "/%l/%s%y_%x",
+                                      "fallbackPath": "/fallback/%s",
+                                      "extension": "jpg",
+                                      "tileResolution": 512,
+                                      "maxLevel": 5,
+                                      "cubeResolution": 8048
+                                      },
+                          "hotSpots": [
+                                        {
+                                          "pitch": -1,
+                                          "yaw": 196,
+                                          "type": "info",
+                                          "text": "This is where the description of a point of interest would be entered."
+                                        },
+                                        {
+                                          "pitch": 6.13,
+                                          "yaw": 236.32,
+                                          "type": "scene",
+                                          "text": "Sharp Studio",
+                                          "sceneId": "sharp",
+                                          "targetPitch": "same",
+                                          "targetYaw": "sameAzimuth"
+                                        },
+                                        {
+                                          "pitch": 10,
+                                          "yaw": 125,
+                                          "type": "scene",
+                                          "text": "Wood Shop",
+                                          "sceneId": "woodshop",
+                                          "targetPitch": "same",
+                                          "targetYaw": "sameAzimuth"
+                                        },
+                                        {
+                                          "pitch": 5,
+                                          "yaw": 125,
+                                          "type": "scene",
+                                          "text": "Bob Hope Theatre",
+                                          "sceneId": "woodshop",
                                           "targetPitch": "same",
                                           "targetYaw": "sameAzimuth"
                                         }
