@@ -405,7 +405,7 @@
               "foundry": {
                           "title": "Foundry",
                           "author": "This is where the description of the space being displayed would be entered.",
-                          "northOffset": 276,
+                          "northOffset": 0.0,
                           "multiRes": {
                                       "basePath": "../img/panos/foundry",
                                       "path": "/%l/%s%y_%x",
@@ -417,14 +417,14 @@
                                       },
                           "hotSpots": [
                                         {
-                                          "pitch": 9,
-                                          "yaw": 27,
+                                          "pitch": -3.48,
+                                          "yaw": -320.04,
                                           "type": "info",
                                           "text": "This is where the description of a point of interest would be entered."
                                         },
                                         {
-                                          "pitch": -2.35,
-                                          "yaw": 0.04,
+                                          "pitch": -1.63,
+                                          "yaw": -86.50,
                                           "type": "scene",
                                           "text": "Woodshop",
                                           "sceneId": "woodshop",
@@ -432,8 +432,8 @@
                                           "targetYaw": "sameAzimuth"
                                         },
                                         {
-                                          "pitch": -12.35,
-                                          "yaw": 0.04,
+                                          "pitch": -2.84,
+                                          "yaw": -235.88,
                                           "type": "scene",
                                           "text": "Ceramics Studio",
                                           "sceneId": "ceramics",
@@ -446,7 +446,7 @@
               "ceramics": {
                           "title": "Ceramics Studio",
                           "author": "This is where the description of the space being displayed would be entered.",
-                          "northOffset": 276,
+                          "northOffset": -180,
                           "multiRes": {
                                       "basePath": "../img/panos/ceramics",
                                       "path": "/%l/%s%y_%x",
@@ -458,26 +458,26 @@
                                       },
                           "hotSpots": [
                                         {
-                                          "pitch": 9,
-                                          "yaw": 27,
+                                          "pitch": -0.78,
+                                          "yaw": 99.77,
                                           "type": "info",
                                           "text": "This is where the description of a point of interest would be entered."
                                         },
                                         {
-                                          "pitch": -2.35,
-                                          "yaw": 0.04,
+                                          "pitch": -2.84,
+                                          "yaw": 45.66,
                                           "type": "scene",
-                                          "text": "Foundry",
-                                          "sceneId": "woodop",
+                                          "text": "Printmaking Studio",
+                                          "sceneId": "printmaking",
                                           "targetPitch": "same",
                                           "targetYaw": "sameAzimuth"
                                         },
                                         {
-                                          "pitch": -12.35,
-                                          "yaw": 0.04,
+                                          "pitch": -1.31,
+                                          "yaw": 110.22,
                                           "type": "scene",
-                                          "text": "Ceramics Studio",
-                                          "sceneId": "ceramics",
+                                          "text": "Foundry",
+                                          "sceneId": "foundry",
                                           "targetPitch": "same",
                                           "targetYaw": "sameAzimuth"
                                         }
