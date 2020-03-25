@@ -467,14 +467,14 @@
                                       },
                           "hotSpots": [
                                         {
-                                          "pitch": 0.69,
-                                          "yaw": 4.27,
+                                          "pitch": -13.29,
+                                          "yaw": 45.43,
                                           "type": "info",
                                           "text": "This is where the description of a point of interest would be entered."
                                         },
                                         {
-                                          "pitch": -1.21,
-                                          "yaw": 75.90,
+                                          "pitch": -4.37,
+                                          "yaw": 16.26,
                                           "type": "scene",
                                           "text": "Control Room",
                                           "sceneId": "control",
@@ -723,40 +723,7 @@
                                           "targetYaw": "sameAzimuth"
                                         }
                                       ]
-                          },
-                          
-                "painting": {
-                          "title": "Painting Studio",
-                          "author": "This is where the description of the space being displayed would be entered.",
-                          "northOffset": -180,
-                          "multiRes": {
-                                      "basePath": "img/panos/painting",
-                                      "path": "/%l/%s%y_%x",
-                                      "fallbackPath": "/fallback/%s",
-                                      "extension": "jpg",
-                                      "tileResolution": 512,
-                                      "maxLevel": 5,
-                                      "cubeResolution": 8048
-                                      },
-                          "hotSpots": [
-                                        {
-                                          "pitch": -6.83,
-                                          "yaw": -104.20,
-                                          "type": "info",
-                                          "text": "This is where the description of a point of interest would be entered."
-                                        },
-                                        {
-                                          "pitch": -3.77,
-                                          "yaw": -37.29,
-                                          "type": "scene",
-                                          "text": "Doolin Gallery",
-                                          "sceneId": "doolin",
-                                          "targetPitch": "same",
-                                          "targetYaw": "sameAzimuth"
-                                        }
-                                      ]
                           }
-
 
                      
             }
