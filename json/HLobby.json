@@ -652,7 +652,7 @@
                 "dance": {
                           "title": "Studio 1430",
                           "author": "This is where the description of the space being displayed would be entered.",
-                          "northOffset": 0.0,
+                          "northOffset": -180,
                           "multiRes": {
                                       "basePath": "../img/panos/dance",
                                       "path": "/%l/%s%y_%x",
@@ -670,29 +670,29 @@
                                           "text": "This is where the description of a point of interest would be entered."
                                         },
                                         {
-                                          "pitch": 6.13,
-                                          "yaw": 236.32,
+                                          "pitch": -0.50,
+                                          "yaw": -0.36,
                                           "type": "scene",
-                                          "text": "Studio 1430",
-                                          "sceneId": "dance",
+                                          "text": "Margo Jones Theatre",
+                                          "sceneId": "jones",
                                           "targetPitch": "same",
                                           "targetYaw": "sameAzimuth"
                                         },
                                         {
-                                          "pitch": 10,
-                                          "yaw": 125,
+                                          "pitch": 1.42,
+                                          "yaw": 39.99,
                                           "type": "scene",
-                                          "text": "Wood Shop",
-                                          "sceneId": "woodshop",
+                                          "text": "Greer Garson Theatre",
+                                          "sceneId": "garson",
                                           "targetPitch": "same",
                                           "targetYaw": "sameAzimuth"
                                         },
                                         {
-                                          "pitch": 5,
-                                          "yaw": 125,
+                                          "pitch": 9.49,
+                                          "yaw": -127.92,
                                           "type": "scene",
-                                          "text": "Bob Hope Theatre",
-                                          "sceneId": "woodshop",
+                                          "text": "Doolin Gallery",
+                                          "sceneId": "doolin",
                                           "targetPitch": "same",
                                           "targetYaw": "sameAzimuth"
                                         }
