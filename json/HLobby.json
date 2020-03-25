@@ -424,7 +424,7 @@
                "sharp": {
                           "title": "Sharp Studio",
                           "author": "This is where the description of the space being displayed would be entered.",
-                          "northOffset": 90,
+                          "northOffset": 0.0,
                           "multiRes": {
                                       "basePath": "../img/panos/sharp",
                                       "path": "/%l/%s%y_%x",
@@ -436,26 +436,67 @@
                                       },
                           "hotSpots": [
                                         {
-                                          "pitch": 9,
-                                          "yaw": 27,
+                                          "pitch": -1.21,
+                                          "yaw": 196.08,
                                           "type": "info",
                                           "text": "This is where the description of a point of interest would be entered."
                                         },
                                         {
-                                          "pitch": -2.35,
-                                          "yaw": 0.04,
+                                          "pitch": 6.13,
+                                          "yaw": 236.32,
                                           "type": "scene",
-                                          "text": "Foundry",
-                                          "sceneId": "woodop",
+                                          "text": "Green Room",
+                                          "sceneId": "gRoom",
                                           "targetPitch": "same",
                                           "targetYaw": "sameAzimuth"
                                         },
                                         {
-                                          "pitch": -12.35,
-                                          "yaw": 0.04,
+                                          "pitch": 5.71,
+                                          "yaw": 125.02,
                                           "type": "scene",
-                                          "text": "Ceramics Studio",
-                                          "sceneId": "ceramics",
+                                          "text": "Caruth Auditorium",
+                                          "sceneId": "caruth",
+                                          "targetPitch": "same",
+                                          "targetYaw": "sameAzimuth"
+                                        }
+                                      ]
+                          },
+                          
+               "gRoom": {
+                          "title": "Green Room",
+                          "author": "This is where the description of the space being displayed would be entered.",
+                          "northOffset": 0.0,
+                          "multiRes": {
+                                      "basePath": "../img/panos/gRoom",
+                                      "path": "/%l/%s%y_%x",
+                                      "fallbackPath": "/fallback/%s",
+                                      "extension": "jpg",
+                                      "tileResolution": 512,
+                                      "maxLevel": 5,
+                                      "cubeResolution": 8048
+                                      },
+                          "hotSpots": [
+                                        {
+                                          "pitch": -1.21,
+                                          "yaw": 196.08,
+                                          "type": "info",
+                                          "text": "This is where the description of a point of interest would be entered."
+                                        },
+                                        {
+                                          "pitch": 6.13,
+                                          "yaw": 236.32,
+                                          "type": "scene",
+                                          "text": "Green Room",
+                                          "sceneId": "gRoom",
+                                          "targetPitch": "same",
+                                          "targetYaw": "sameAzimuth"
+                                        },
+                                        {
+                                          "pitch": 5.71,
+                                          "yaw": 125.02,
+                                          "type": "scene",
+                                          "text": "Caruth Auditorium",
+                                          "sceneId": "caruth",
                                           "targetPitch": "same",
                                           "targetYaw": "sameAzimuth"
                                         }
