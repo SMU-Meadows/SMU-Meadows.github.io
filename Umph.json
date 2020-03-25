@@ -1,6 +1,5 @@
 {
   "default": {
-              "firstScene": "HLobby",
               "sceneFadeDuration": 750,
               "autoLoad": true,
               "hfov": 105.0,
@@ -12,11 +11,11 @@
   "scenes": {
     
             "HLobby": {
-                        "title": "Bob Hope Lobby",
+                        "title": "Umphrey Lee Entrance",
                         "author": "This is where the description of the space being displayed would be entered.",
-                        "northOffset": -89.9,
+                        "northOffset": 0.0,
                         "multiRes": {
-                                    "basePath": "../img/panos/HLobby",
+                                    "basePath": "../img/panos/1stA",
                                     "path": "/%l/%s%y_%x",
                                     "fallbackPath": "/fallback/%s",
                                     "extension": "jpg",
