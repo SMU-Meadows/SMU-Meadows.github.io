@@ -764,6 +764,56 @@
                                           "pitch": 6.13,
                                           "yaw": 236.32,
                                           "type": "scene",
+                                          "text": "Woodshop",
+                                          "sceneId": "woodshop",
+                                          "targetPitch": "same",
+                                          "targetYaw": "sameAzimuth"
+                                        },
+                                        {
+                                          "pitch": 10,
+                                          "yaw": 125,
+                                          "type": "scene",
+                                          "text": "Doolin Fabrication Lab",
+                                          "sceneId": "DFLab",
+                                          "targetPitch": "same",
+                                          "targetYaw": "sameAzimuth"
+                                        },
+                                        {
+                                          "pitch": 5,
+                                          "yaw": 125,
+                                          "type": "scene",
+                                          "text": "Bob Hope Theatre",
+                                          "sceneId": "woodshop",
+                                          "targetPitch": "same",
+                                          "targetYaw": "sameAzimuth"
+                                        }
+                                      ]
+                          },
+                          
+                "garson": {
+                          "title": "Greer Garson Theatre",
+                          "author": "This is where the description of the space being displayed would be entered.",
+                          "northOffset": -180,
+                          "multiRes": {
+                                      "basePath": "../img/panos/garson",
+                                      "path": "/%l/%s%y_%x",
+                                      "fallbackPath": "/fallback/%s",
+                                      "extension": "jpg",
+                                      "tileResolution": 512,
+                                      "maxLevel": 5,
+                                      "cubeResolution": 8048
+                                      },
+                          "hotSpots": [
+                                        {
+                                          "pitch": -1,
+                                          "yaw": 196,
+                                          "type": "info",
+                                          "text": "This is where the description of a point of interest would be entered."
+                                        },
+                                        {
+                                          "pitch": 6.13,
+                                          "yaw": 236.32,
+                                          "type": "scene",
                                           "text": "Studio 1430",
                                           "sceneId": "dance",
                                           "targetPitch": "same",
