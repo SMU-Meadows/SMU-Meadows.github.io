@@ -66,6 +66,15 @@
                                       "targetYaw": "sameAzimuth",
                                       "pitch": -0.5,
                                       "yaw": -54
+                                      },
+                                     {
+                                      "type": "scene",
+                                      "text": "Doolin Gallery",
+                                      "sceneId": "doolin",
+                                      "targetPitch": "same",
+                                      "targetYaw": "sameAzimuth",
+                                      "pitch": -2.28,
+                                      "yaw": 52.03
                                       }
                                     ]
                           },
