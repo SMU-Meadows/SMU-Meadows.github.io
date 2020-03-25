@@ -6,7 +6,7 @@
               "hfov": 100.0,
               "type": "multires",
               "compass": true,
-              "hotSpotDebug": false
+              "hotSpotDebug": true
               },
   
   "scenes": {
@@ -328,6 +328,15 @@
                                           "type": "scene",
                                           "text": "Studio 1430",
                                           "sceneId": "dance",
+                                          "targetPitch": "same",
+                                          "targetYaw": "sameAzimuth"
+                                        },
+                                        {
+                                          "pitch": 5,
+                                          "yaw": 50,
+                                          "type": "scene",
+                                          "text": "Painting Studio",
+                                          "sceneId": "painting",
                                           "targetPitch": "same",
                                           "targetYaw": "sameAzimuth"
                                         }
@@ -816,6 +825,38 @@
                                           "type": "scene",
                                           "text": "Margo Jones Theatre",
                                           "sceneId": "jones",
+                                          "targetPitch": "same",
+                                          "targetYaw": "sameAzimuth"
+                                        }
+                                      ]
+                          },
+                          
+                "painting": {
+                          "title": "Painting Studio",
+                          "author": "This is where the description of the space being displayed would be entered.",
+                          "northOffset": -180,
+                          "multiRes": {
+                                      "basePath": "../img/panos/painting",
+                                      "path": "/%l/%s%y_%x",
+                                      "fallbackPath": "/fallback/%s",
+                                      "extension": "jpg",
+                                      "tileResolution": 512,
+                                      "maxLevel": 5,
+                                      "cubeResolution": 8048
+                                      },
+                          "hotSpots": [
+                                        {
+                                          "pitch": -2.44,
+                                          "yaw": -6.50,
+                                          "type": "info",
+                                          "text": "This is where the description of a point of interest would be entered."
+                                        },
+                                        {
+                                          "pitch": 5.04,
+                                          "yaw": -35.98,
+                                          "type": "scene",
+                                          "text": "Doolin Gallery",
+                                          "sceneId": "doolin",
                                           "targetPitch": "same",
                                           "targetYaw": "sameAzimuth"
                                         }
