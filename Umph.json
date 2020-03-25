@@ -174,12 +174,12 @@
                                     ]
                           },
                           
-            "taubman": {
-                        "title": "Taubman Atrium",
+            "cage": {
+                        "title": "Equipment Cage",
                         "author": "This is where the description of the space being displayed would be entered.",
-                        "northOffset": -90.65,
+                        "northOffset": -180,
                         "multiRes": {
-                                    "basePath": "../img/panos/taubman",
+                                    "basePath": "img/panos/cage",
                                     "path": "/%l/%s%y_%x",
                                     "fallbackPath": "/fallback/%s",
                                     "extension": "jpg",
