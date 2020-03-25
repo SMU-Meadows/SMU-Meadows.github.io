@@ -189,14 +189,14 @@
                                     },
                         "hotSpots": [
                                       {
-                                        "pitch": 1.52,
-                                        "yaw": -54.84,
+                                        "pitch": -2.81,
+                                        "yaw": -71.69,
                                         "type": "info",
                                         "text": "This is where the description of a point of interest would be entered."
                                       },
                                       {
-                                        "pitch": 20.47,
-                                        "yaw": -30.99,
+                                        "pitch": -2.71,
+                                        "yaw": 34.53,
                                         "type": "scene",
                                         "text": "Umphrey Lee Entrance",
                                         "sceneId": "1stA",
@@ -204,8 +204,8 @@
                                         "targetYaw": "sameAzimuth"
                                       },
                                       {
-                                        "pitch": -1.01,
-                                        "yaw": 148.88,
+                                        "pitch": -2.71,
+                                        "yaw": 18.99,
                                         "type": "scene",
                                         "text": "Editing Lab",
                                         "sceneId": "eClass",
