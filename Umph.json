@@ -1,0 +1,888 @@
+{
+  "default": {
+              "firstScene": "HLobby",
+              "sceneFadeDuration": 750,
+              "autoLoad": true,
+              "hfov": 105.0,
+              "type": "multires",
+              "compass": true,
+              "hotSpotDebug": false
+              },
+  
+  "scenes": {
+    
+            "HLobby": {
+                        "title": "Bob Hope Lobby",
+                        "author": "This is where the description of the space being displayed would be entered.",
+                        "northOffset": -89.9,
+                        "multiRes": {
+                                    "basePath": "../img/panos/HLobby",
+                                    "path": "/%l/%s%y_%x",
+                                    "fallbackPath": "/fallback/%s",
+                                    "extension": "jpg",
+                                    "tileResolution": 512,
+                                    "maxLevel": 5,
+                                    "cubeResolution": 8048
+                                     },
+                        "hotSpots": [
+                                     {
+                                      "type": "info",
+                                      "text": "This is where the description of a point of interest would be entered.",
+                                      "pitch": -1.26,
+                                      "yaw": -0.1
+                                     },
+                                     {
+                                      "type": "scene",
+                                      "text": "Bob Hope Theatre",
+                                      "sceneId": "HopeSMU",
+                                      "targetPitch": "same",
+                                      "targetYaw": "sameAzimuth",
+                                      "pitch": -1.5,
+                                      "yaw": -29
+                                      },
+                                     {
+                                      "type": "scene",
+                                      "text": "Owen Arts Center Entrance",
+                                      "sceneId": "steps",
+                                      "targetPitch": "same",
+                                      "targetYaw": "sameAzimuth",
+                                      "pitch": -1,
+                                      "yaw": 177.7
+                                      },
+                                     {
+                                      "type": "scene",
+                                      "text": "Caruth Auditorium",
+                                      "sceneId": "caruth",
+                                      "targetPitch": "same",
+                                      "targetYaw": "sameAzimuth",
+                                      "pitch": -0.5,
+                                      "yaw": -94.6
+                                      },
+                                     {
+                                      "type": "scene",
+                                      "text": "Taubman Atrium",
+                                      "sceneId": "taubman",
+                                      "targetPitch": "same",
+                                      "targetYaw": "sameAzimuth",
+                                      "pitch": -0.5,
+                                      "yaw": -54
+                                      },
+                                     {
+                                      "type": "scene",
+                                      "text": "Doolin Gallery",
+                                      "sceneId": "doolin",
+                                      "targetPitch": "same",
+                                      "targetYaw": "sameAzimuth",
+                                      "pitch": -2.24,
+                                      "yaw": 53.93
+                                      }
+                                    ]
+                          },
+                          
+            "HopeSMU": {
+                        "title": "Bob Hope Theatre",
+                        "author": "This is where the description of the space being displayed would be entered.",
+                        "northOffset": -119,
+                        "multiRes": {
+                                    "basePath": "../img/panos/HopeSMU",
+                                    "path": "/%l/%s%y_%x",
+                                    "fallbackPath": "/fallback/%s",
+                                    "extension": "jpg",
+                                    "tileResolution": 512,
+                                    "maxLevel": 4,
+                                    "cubeResolution": 3904
+                                     },
+                        "hotSpots": [
+                                     {
+                                      "pitch": -26.7,
+                                      "yaw": 33.1,
+                                      "type": "info",
+                                      "text": "This is where the description of a point of interest would be entered."
+                                     },
+                                     {
+                                      "pitch": 3.5,
+                                      "yaw": -129.5,
+                                      "type": "scene",
+                                      "text": "Hope lobby",
+                                      "sceneId": "HLobby",
+                                      "targetPitch": "same",
+                                      "targetYaw": "sameAzimuth"
+                                      },
+                                      {
+                                      "pitch": -19.95,
+                                      "yaw": 57.87,
+                                      "type": "scene",
+                                      "text": "Green Room",
+                                      "sceneId": "GRoom",
+                                      "targetPitch": "same",
+                                      "targetYaw": "sameAzimuth"
+                                      },
+                                      {
+                                      "pitch": 7.63,
+                                      "yaw": 60.43,
+                                      "type": "scene",
+                                      "text": "Margo Jones Theatre",
+                                      "sceneId": "jones",
+                                      "targetPitch": "same",
+                                      "targetYaw": "sameAzimuth"
+                                      }
+                                    ]
+                          },
+                          
+             "steps": {
+                        "title": "Owen Arts Center Entrance",
+                        "author": "This is where the description of the space being displayed would be entered.",
+                        "northOffset": -266.68,
+                        "multiRes": {
+                                    "basePath": "../img/panos/steps",
+                                    "path": "/%l/%s%y_%x",
+                                    "fallbackPath": "/fallback/%s",
+                                    "extension": "jpg",
+                                    "tileResolution": 512,
+                                    "maxLevel": 4,
+                                    "cubeResolution": 3904
+                                     },
+                        "hotSpots": [
+                                     {
+                                      "pitch": 0.6,
+                                      "yaw": 5.5,
+                                      "type": "info",
+                                      "text": "This is where the description of a point of interest would be entered."
+                                     },
+                                     {
+                                      "pitch": 2.6,
+                                      "yaw": 175.7,
+                                      "type": "scene",
+                                      "text": "Hope lobby",
+                                      "sceneId": "HLobby",
+                                      "targetPitch": "same",
+                                      "targetYaw": "sameAzimuth"
+                                      }
+                                    ]
+                          },
+                          
+            "caruth": {
+                        "title": "Caruth Auditorium",
+                        "author": "This is where the description of the space being displayed would be entered.",
+                        "northOffset": 181.23,
+                        "multiRes": {
+                                    "basePath": "../img/panos/caruth",
+                                    "path": "/%l/%s%y_%x",
+                                    "fallbackPath": "/fallback/%s",
+                                    "extension": "jpg",
+                                    "tileResolution": 512,
+                                    "maxLevel": 5,
+                                    "cubeResolution": 8048
+                                    },
+                        "hotSpots": [
+                                      {
+                                        "pitch": 15.52,
+                                        "yaw": -0.07,
+                                        "type": "info",
+                                        "text": "This is where the description of a point of interest would be entered."
+                                      },
+                                      {
+                                        "pitch": 16.62,
+                                        "yaw": 178.77,
+                                        "type": "scene",
+                                        "text": "Hope Lobby",
+                                        "sceneId": "HLobby",
+                                        "targetPitch": "same",
+                                        "targetYaw": "sameAzimuth"
+                                      },
+                                      {
+                                        "pitch": -5.83,
+                                        "yaw": 57.56,
+                                        "type": "scene",
+                                        "text": "Sharp Studio",
+                                        "sceneId": "sharp",
+                                        "targetPitch": "same",
+                                        "targetYaw": "sameAzimuth"
+                                      }
+                                    ]
+                          },
+                          
+            "taubman": {
+                        "title": "Taubman Atrium",
+                        "author": "This is where the description of the space being displayed would be entered.",
+                        "northOffset": -90.65,
+                        "multiRes": {
+                                    "basePath": "../img/panos/taubman",
+                                    "path": "/%l/%s%y_%x",
+                                    "fallbackPath": "/fallback/%s",
+                                    "extension": "jpg",
+                                    "tileResolution": 512,
+                                    "maxLevel": 5,
+                                    "cubeResolution": 8048
+                                    },
+                        "hotSpots": [
+                                      {
+                                        "pitch": 1.52,
+                                        "yaw": -54.84,
+                                        "type": "info",
+                                        "text": "This is where the description of a point of interest would be entered."
+                                      },
+                                      {
+                                        "pitch": 20.47,
+                                        "yaw": -30.99,
+                                        "type": "scene",
+                                        "text": "O'Donnell Hall",
+                                        "sceneId": "ODonnell",
+                                        "targetPitch": "same",
+                                        "targetYaw": "sameAzimuth"
+                                      },
+                                      {
+                                        "pitch": -1.01,
+                                        "yaw": 148.88,
+                                        "type": "scene",
+                                        "text": "Bob Hope Lobby",
+                                        "sceneId": "HLobby",
+                                        "targetPitch": "same",
+                                        "targetYaw": "sameAzimuth"
+                                      },
+                                      {
+                                        "pitch": -2.22,
+                                        "yaw": 23.39,
+                                        "type": "scene",
+                                        "text": "Sharp Studio",
+                                        "sceneId": "sharp",
+                                        "targetPitch": "same",
+                                        "targetYaw": "sameAzimuth"
+                                      }
+                                    ]
+                          },
+                          
+            "ODonnell": {
+                          "title": "O'Donnell Hall",
+                          "author": "This is where the description of the space being displayed would be entered.",
+                          "northOffset": 90.0,
+                          "multiRes": {
+                                      "basePath": "../img/panos/ODonnell",
+                                      "path": "/%l/%s%y_%x",
+                                      "fallbackPath": "/fallback/%s",
+                                      "extension": "jpg",
+                                      "tileResolution": 512,
+                                      "maxLevel": 5,
+                                      "cubeResolution": 8048
+                                      },
+                          "hotSpots": [
+                                        {
+                                          "pitch": -13.51,
+                                          "yaw": 2.0,
+                                          "type": "info",
+                                          "text": "This is where the description of a point of interest would be entered."
+                                        },
+                                        {
+                                          "pitch": -19.19,
+                                          "yaw": 0.0,
+                                          "type": "scene",
+                                          "text": "Taubman Atrium",
+                                          "sceneId": "taubman",
+                                          "targetPitch": "same",
+                                          "targetYaw": "sameAzimuth"
+                                        }
+                                      ]
+                          },
+                          
+               "doolin": {
+                          "title": "Doolin Gallery",
+                          "author": "This is where the description of the space being displayed would be entered.",
+                          "northOffset": 89.29,
+                          "multiRes": {
+                                      "basePath": "../img/panos/doolin",
+                                      "path": "/%l/%s%y_%x",
+                                      "fallbackPath": "/fallback/%s",
+                                      "extension": "jpg",
+                                      "tileResolution": 512,
+                                      "maxLevel": 5,
+                                      "cubeResolution": 8048
+                                      },
+                          "hotSpots": [
+                                        {
+                                          "pitch": -8.83,
+                                          "yaw": 133.99,
+                                          "type": "info",
+                                          "text": "This is where the description of a point of interest would be entered."
+                                        },
+                                        {
+                                          "pitch": -0.32,
+                                          "yaw": -318.06,
+                                          "type": "scene",
+                                          "text": "Bob Hope Lobby",
+                                          "sceneId": "HLobby",
+                                          "targetPitch": "same",
+                                          "targetYaw": "sameAzimuth"
+                                        },
+                                        {
+                                          "pitch": -4.91,
+                                          "yaw": 33.09,
+                                          "type": "scene",
+                                          "text": "Woodshop",
+                                          "sceneId": "woodshop",
+                                          "targetPitch": "same",
+                                          "targetYaw": "sameAzimuth"
+                                        },
+                                        {
+                                          "pitch": 3.17,
+                                          "yaw": 137.61,
+                                          "type": "scene",
+                                          "text": "Studio 1430",
+                                          "sceneId": "dance",
+                                          "targetPitch": "same",
+                                          "targetYaw": "sameAzimuth"
+                                        },
+                                        {
+                                          "pitch": 5.87,
+                                          "yaw": -327.32,
+                                          "type": "scene",
+                                          "text": "Painting Studio",
+                                          "sceneId": "painting",
+                                          "targetPitch": "same",
+                                          "targetYaw": "sameAzimuth"
+                                        }
+                                      ]
+                          },
+                          
+             "woodshop": {
+                          "title": "Woodshop",
+                          "author": "This is where the description of the space being displayed would be entered.",
+                          "northOffset": 0.0,
+                          "multiRes": {
+                                      "basePath": "../img/panos/woodshop",
+                                      "path": "/%l/%s%y_%x",
+                                      "fallbackPath": "/fallback/%s",
+                                      "extension": "jpg",
+                                      "tileResolution": 512,
+                                      "maxLevel": 5,
+                                      "cubeResolution": 8048
+                                      },
+                          "hotSpots": [
+                                        {
+                                          "pitch": -13.83,
+                                          "yaw": -219.71,
+                                          "type": "info",
+                                          "text": "This is where the description of a point of interest would be entered."
+                                        },
+                                        {
+                                          "pitch": -2.35,
+                                          "yaw": 0.04,
+                                          "type": "scene",
+                                          "text": "Foundry",
+                                          "sceneId": "foundry",
+                                          "targetPitch": "same",
+                                          "targetYaw": "sameAzimuth"
+                                        },
+                                        {
+                                          "pitch": -2.12,
+                                          "yaw": 80.77,
+                                          "type": "scene",
+                                          "text": "Doolin Fabrication Lab",
+                                          "sceneId": "DFLab",
+                                          "targetPitch": "same",
+                                          "targetYaw": "sameAzimuth"
+                                        },
+                                        {
+                                          "pitch": -5.34,
+                                          "yaw": -158.18,
+                                          "type": "scene",
+                                          "text": "Green Room",
+                                          "sceneId": "GRoom",
+                                          "targetPitch": "same",
+                                          "targetYaw": "sameAzimuth"
+                                        },
+                                        {
+                                          "pitch": -6.16,
+                                          "yaw": -185.47,
+                                          "type": "scene",
+                                          "text": "Printmaking Studio",
+                                          "sceneId": "printmaking",
+                                          "targetPitch": "same",
+                                          "targetYaw": "sameAzimuth"
+                                        },
+                                        {
+                                          "pitch": 4.32,
+                                          "yaw": 189.14,
+                                          "type": "scene",
+                                          "text": "Doolin Gallery",
+                                          "sceneId": "doolin",
+                                          "targetPitch": "same",
+                                          "targetYaw": "sameAzimuth"
+                                        }
+                                      ]
+                          },
+                          
+              "foundry": {
+                          "title": "Foundry",
+                          "author": "This is where the description of the space being displayed would be entered.",
+                          "northOffset": 0.0,
+                          "multiRes": {
+                                      "basePath": "../img/panos/foundry",
+                                      "path": "/%l/%s%y_%x",
+                                      "fallbackPath": "/fallback/%s",
+                                      "extension": "jpg",
+                                      "tileResolution": 512,
+                                      "maxLevel": 5,
+                                      "cubeResolution": 8048
+                                      },
+                          "hotSpots": [
+                                        {
+                                          "pitch": -3.48,
+                                          "yaw": -320.04,
+                                          "type": "info",
+                                          "text": "This is where the description of a point of interest would be entered."
+                                        },
+                                        {
+                                          "pitch": -1.63,
+                                          "yaw": -86.50,
+                                          "type": "scene",
+                                          "text": "Woodshop",
+                                          "sceneId": "woodshop",
+                                          "targetPitch": "same",
+                                          "targetYaw": "sameAzimuth"
+                                        },
+                                        {
+                                          "pitch": -2.84,
+                                          "yaw": -235.88,
+                                          "type": "scene",
+                                          "text": "Ceramics Studio",
+                                          "sceneId": "ceramics",
+                                          "targetPitch": "same",
+                                          "targetYaw": "sameAzimuth"
+                                        }
+                                      ]
+                          },
+                          
+              "ceramics": {
+                          "title": "Ceramics Studio",
+                          "author": "This is where the description of the space being displayed would be entered.",
+                          "northOffset": -180,
+                          "multiRes": {
+                                      "basePath": "../img/panos/ceramics",
+                                      "path": "/%l/%s%y_%x",
+                                      "fallbackPath": "/fallback/%s",
+                                      "extension": "jpg",
+                                      "tileResolution": 512,
+                                      "maxLevel": 5,
+                                      "cubeResolution": 8048
+                                      },
+                          "hotSpots": [
+                                        {
+                                          "pitch": -0.78,
+                                          "yaw": 99.77,
+                                          "type": "info",
+                                          "text": "This is where the description of a point of interest would be entered."
+                                        },
+                                        {
+                                          "pitch": -2.84,
+                                          "yaw": 45.66,
+                                          "type": "scene",
+                                          "text": "Printmaking Studio",
+                                          "sceneId": "printmaking",
+                                          "targetPitch": "same",
+                                          "targetYaw": "sameAzimuth"
+                                        },
+                                        {
+                                          "pitch": -1.31,
+                                          "yaw": 110.22,
+                                          "type": "scene",
+                                          "text": "Foundry",
+                                          "sceneId": "foundry",
+                                          "targetPitch": "same",
+                                          "targetYaw": "sameAzimuth"
+                                        }
+                                      ]
+                          },
+                          
+                "sharp": {
+                          "title": "Sharp Studio",
+                          "author": "This is where the description of the space being displayed would be entered.",
+                          "northOffset": 0.0,
+                          "multiRes": {
+                                      "basePath": "../img/panos/sharp",
+                                      "path": "/%l/%s%y_%x",
+                                      "fallbackPath": "/fallback/%s",
+                                      "extension": "jpg",
+                                      "tileResolution": 512,
+                                      "maxLevel": 5,
+                                      "cubeResolution": 8048
+                                      },
+                          "hotSpots": [
+                                        {
+                                          "pitch": -1.21,
+                                          "yaw": 196.08,
+                                          "type": "info",
+                                          "text": "This is where the description of a point of interest would be entered."
+                                        },
+                                        {
+                                          "pitch": 8.65,
+                                          "yaw": -123.68,
+                                          "type": "scene",
+                                          "text": "Taubman Atrium",
+                                          "sceneId": "taubman",
+                                          "targetPitch": "same",
+                                          "targetYaw": "sameAzimuth"
+                                        },
+                                        {
+                                          "pitch": 5.71,
+                                          "yaw": 125.02,
+                                          "type": "scene",
+                                          "text": "Caruth Auditorium",
+                                          "sceneId": "caruth",
+                                          "targetPitch": "same",
+                                          "targetYaw": "sameAzimuth"
+                                        },
+                                        {
+                                          "pitch": 4.29,
+                                          "yaw": -53.88,
+                                          "type": "scene",
+                                          "text": "Green Room",
+                                          "sceneId": "GRoom",
+                                          "targetPitch": "same",
+                                          "targetYaw": "sameAzimuth"
+                                        }
+                                      ]
+                          },
+                          
+                 "GRoom": {
+                          "title": "Green Room",
+                          "author": "This is where the description of the space being displayed would be entered.",
+                          "northOffset": 90,
+                          "multiRes": {
+                                      "basePath": "../img/panos/GRoom",
+                                      "path": "/%l/%s%y_%x",
+                                      "fallbackPath": "/fallback/%s",
+                                      "extension": "jpg",
+                                      "tileResolution": 512,
+                                      "maxLevel": 5,
+                                      "cubeResolution": 8048
+                                      },
+                          "hotSpots": [
+                                        {
+                                          "pitch": 0.69,
+                                          "yaw": 4.27,
+                                          "type": "info",
+                                          "text": "This is where the description of a point of interest would be entered."
+                                        },
+                                        {
+                                          "pitch": -2.05,
+                                          "yaw": 93.84,
+                                          "type": "info",
+                                          "text": "This is where the description of a point of interest would be entered."
+                                        },
+                                        {
+                                          "pitch": -1.21,
+                                          "yaw": 75.90,
+                                          "type": "scene",
+                                          "text": "Sharp Studio",
+                                          "sceneId": "sharp",
+                                          "targetPitch": "same",
+                                          "targetYaw": "sameAzimuth"
+                                        },
+                                        {
+                                          "pitch": -1.43,
+                                          "yaw": 294.72,
+                                          "type": "scene",
+                                          "text": "Wood Shop",
+                                          "sceneId": "woodshop",
+                                          "targetPitch": "same",
+                                          "targetYaw": "sameAzimuth"
+                                        },
+                                        {
+                                          "pitch": 9.69,
+                                          "yaw": 82.23,
+                                          "type": "scene",
+                                          "text": "Bob Hope Theatre",
+                                          "sceneId": "HopeSMU",
+                                          "targetPitch": "same",
+                                          "targetYaw": "sameAzimuth"
+                                        },
+                                        {
+                                          "pitch": 12.02,
+                                          "yaw": 272.38,
+                                          "type": "scene",
+                                          "text": "Margo Jones Theatre",
+                                          "sceneId": "jones",
+                                          "targetPitch": "same",
+                                          "targetYaw": "sameAzimuth"
+                                        }
+                                      ]
+                          },
+                          
+                "jones": {
+                          "title": "Margo Jones Theatre",
+                          "author": "This is where the description of the space being displayed would be entered.",
+                          "northOffset": 0.0,
+                          "multiRes": {
+                                      "basePath": "../img/panos/jones",
+                                      "path": "/%l/%s%y_%x",
+                                      "fallbackPath": "/fallback/%s",
+                                      "extension": "jpg",
+                                      "tileResolution": 512,
+                                      "maxLevel": 5,
+                                      "cubeResolution": 8048
+                                      },
+                          "hotSpots": [
+                                        {
+                                          "pitch": -0.54,
+                                          "yaw": -188.26,
+                                          "type": "info",
+                                          "text": "This is where the description of a point of interest would be entered."
+                                        },
+                                        {
+                                          "pitch": 10.25,
+                                          "yaw": 0.0,
+                                          "type": "scene",
+                                          "text": "Studio 1430",
+                                          "sceneId": "dance",
+                                          "targetPitch": "same",
+                                          "targetYaw": "sameAzimuth"
+                                        },
+                                        {
+                                          "pitch": 0.0,
+                                          "yaw": 33.85,
+                                          "type": "scene",
+                                          "text": "Green Room",
+                                          "sceneId": "GRoom",
+                                          "targetPitch": "same",
+                                          "targetYaw": "sameAzimuth"
+                                        },
+                                        {
+                                          "pitch": 7.74,
+                                          "yaw": -269.86,
+                                          "type": "scene",
+                                          "text": "Bob Hope Theatre",
+                                          "sceneId": "HopeSMU",
+                                          "targetPitch": "same",
+                                          "targetYaw": "sameAzimuth"
+                                        },
+                                        {
+                                          "pitch": 4.51,
+                                          "yaw": -35.33,
+                                          "type": "scene",
+                                          "text": "Greer Garson Theatre",
+                                          "sceneId": "garson",
+                                          "targetPitch": "same",
+                                          "targetYaw": "sameAzimuth"
+                                        }
+                                      ]
+                          },
+                          
+                "dance": {
+                          "title": "Studio 1430",
+                          "author": "This is where the description of the space being displayed would be entered.",
+                          "northOffset": -180,
+                          "multiRes": {
+                                      "basePath": "../img/panos/dance",
+                                      "path": "/%l/%s%y_%x",
+                                      "fallbackPath": "/fallback/%s",
+                                      "extension": "jpg",
+                                      "tileResolution": 512,
+                                      "maxLevel": 5,
+                                      "cubeResolution": 8048
+                                      },
+                          "hotSpots": [
+                                        {
+                                          "pitch": -6.19,
+                                          "yaw": 57.81,
+                                          "type": "info",
+                                          "text": "This is where the description of a point of interest would be entered."
+                                        },
+                                        {
+                                          "pitch": -0.50,
+                                          "yaw": -0.36,
+                                          "type": "scene",
+                                          "text": "Margo Jones Theatre",
+                                          "sceneId": "jones",
+                                          "targetPitch": "same",
+                                          "targetYaw": "sameAzimuth"
+                                        },
+                                        {
+                                          "pitch": 1.42,
+                                          "yaw": 39.99,
+                                          "type": "scene",
+                                          "text": "Greer Garson Theatre",
+                                          "sceneId": "garson",
+                                          "targetPitch": "same",
+                                          "targetYaw": "sameAzimuth"
+                                        },
+                                        {
+                                          "pitch": 5.03,
+                                          "yaw": -127.92,
+                                          "type": "scene",
+                                          "text": "Doolin Gallery",
+                                          "sceneId": "doolin",
+                                          "targetPitch": "same",
+                                          "targetYaw": "sameAzimuth"
+                                        }
+                                      ]
+                          },
+                          
+                "DFLab": {
+                          "title": "Doolin Fabrication Lab",
+                          "author": "This is where the description of the space being displayed would be entered.",
+                          "northOffset": -90,
+                          "multiRes": {
+                                      "basePath": "../img/panos/DFLab",
+                                      "path": "/%l/%s%y_%x",
+                                      "fallbackPath": "/fallback/%s",
+                                      "extension": "jpg",
+                                      "tileResolution": 512,
+                                      "maxLevel": 5,
+                                      "cubeResolution": 8048
+                                      },
+                          "hotSpots": [
+                                        {
+                                          "pitch": -16.22,
+                                          "yaw": 26.04,
+                                          "type": "info",
+                                          "text": "This is where the description of a point of interest would be entered."
+                                        },
+                                        {
+                                          "pitch": -6.67,
+                                          "yaw": 126.45,
+                                          "type": "scene",
+                                          "text": "Woodshop",
+                                          "sceneId": "woodshop",
+                                          "targetPitch": "same",
+                                          "targetYaw": "sameAzimuth"
+                                        },
+                                        {
+                                          "pitch": -4.77,
+                                          "yaw": -51.73,
+                                          "type": "scene",
+                                          "text": "Printmaking Studio",
+                                          "sceneId": "printmaking",
+                                          "targetPitch": "same",
+                                          "targetYaw": "sameAzimuth"
+                                        }
+                                      ]
+                          },
+                          
+          "printmaking": {
+                          "title": "Printmaking Studio",
+                          "author": "This is where the description of the space being displayed would be entered.",
+                          "northOffset": -180,
+                          "multiRes": {
+                                      "basePath": "../img/panos/printmaking",
+                                      "path": "/%l/%s%y_%x",
+                                      "fallbackPath": "/fallback/%s",
+                                      "extension": "jpg",
+                                      "tileResolution": 512,
+                                      "maxLevel": 5,
+                                      "cubeResolution": 8048
+                                      },
+                          "hotSpots": [
+                                        {
+                                          "pitch": -23.21,
+                                          "yaw": -27.30,
+                                          "type": "info",
+                                          "text": "This is where the description of a point of interest would be entered."
+                                        },
+                                        {
+                                          "pitch": -1.10,
+                                          "yaw": 116.97,
+                                          "type": "scene",
+                                          "text": "Woodshop",
+                                          "sceneId": "woodshop",
+                                          "targetPitch": "same",
+                                          "targetYaw": "sameAzimuth"
+                                        },
+                                        {
+                                          "pitch": -3.94,
+                                          "yaw": 235.75,
+                                          "type": "scene",
+                                          "text": "Doolin Fabrication Lab",
+                                          "sceneId": "DFLab",
+                                          "targetPitch": "same",
+                                          "targetYaw": "sameAzimuth"
+                                        },
+                                        {
+                                          "pitch": -6.36,
+                                          "yaw": 221.29,
+                                          "type": "scene",
+                                          "text": "Ceramics Studio",
+                                          "sceneId": "ceramics",
+                                          "targetPitch": "same",
+                                          "targetYaw": "sameAzimuth"
+                                        }
+                                      ]
+                          },
+                          
+                "garson": {
+                          "title": "Greer Garson Theatre",
+                          "author": "This is where the description of the space being displayed would be entered.",
+                          "northOffset": -180,
+                          "multiRes": {
+                                      "basePath": "../img/panos/garson",
+                                      "path": "/%l/%s%y_%x",
+                                      "fallbackPath": "/fallback/%s",
+                                      "extension": "jpg",
+                                      "tileResolution": 512,
+                                      "maxLevel": 5,
+                                      "cubeResolution": 8048
+                                      },
+                          "hotSpots": [
+                                        {
+                                          "pitch": -2.44,
+                                          "yaw": -6.50,
+                                          "type": "info",
+                                          "text": "This is where the description of a point of interest would be entered."
+                                        },
+                                        {
+                                          "pitch": 5.04,
+                                          "yaw": -35.98,
+                                          "type": "scene",
+                                          "text": "Studio 1430",
+                                          "sceneId": "dance",
+                                          "targetPitch": "same",
+                                          "targetYaw": "sameAzimuth"
+                                        },
+                                        {
+                                          "pitch": 5.73,
+                                          "yaw": -26.27,
+                                          "type": "scene",
+                                          "text": "Margo Jones Theatre",
+                                          "sceneId": "jones",
+                                          "targetPitch": "same",
+                                          "targetYaw": "sameAzimuth"
+                                        }
+                                      ]
+                          },
+                          
+                "painting": {
+                          "title": "Painting Studio",
+                          "author": "This is where the description of the space being displayed would be entered.",
+                          "northOffset": -180,
+                          "multiRes": {
+                                      "basePath": "../img/panos/painting",
+                                      "path": "/%l/%s%y_%x",
+                                      "fallbackPath": "/fallback/%s",
+                                      "extension": "jpg",
+                                      "tileResolution": 512,
+                                      "maxLevel": 5,
+                                      "cubeResolution": 8048
+                                      },
+                          "hotSpots": [
+                                        {
+                                          "pitch": -6.83,
+                                          "yaw": -104.20,
+                                          "type": "info",
+                                          "text": "This is where the description of a point of interest would be entered."
+                                        },
+                                        {
+                                          "pitch": -3.77,
+                                          "yaw": -37.29,
+                                          "type": "scene",
+                                          "text": "Doolin Gallery",
+                                          "sceneId": "doolin",
+                                          "targetPitch": "same",
+                                          "targetYaw": "sameAzimuth"
+                                        }
+                                      ]
+                          }
+
+
+                     
+            }
+            
+}
