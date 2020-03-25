@@ -101,18 +101,18 @@
                                     ]
                           },
                           
-             "steps": {
-                        "title": "Owen Arts Center Entrance",
+             "collab": {
+                        "title": "Ad Lounge",
                         "author": "This is where the description of the space being displayed would be entered.",
-                        "northOffset": -266.68,
+                        "northOffset": 90,
                         "multiRes": {
-                                    "basePath": "../img/panos/steps",
+                                    "basePath": "img/panos/collab",
                                     "path": "/%l/%s%y_%x",
                                     "fallbackPath": "/fallback/%s",
                                     "extension": "jpg",
                                     "tileResolution": 512,
-                                    "maxLevel": 4,
-                                    "cubeResolution": 3904
+                                    "maxLevel": 5,
+                                    "cubeResolution": 8048
                                      },
                         "hotSpots": [
                                      {
@@ -122,23 +122,32 @@
                                       "text": "This is where the description of a point of interest would be entered."
                                      },
                                      {
+                                      "pitch": 10,
+                                      "yaw": 175.7,
+                                      "type": "scene",
+                                      "text": "Creative Studio",
+                                      "sceneId": "portfolio",
+                                      "targetPitch": "same",
+                                      "targetYaw": "sameAzimuth"
+                                      },
+                                      {
                                       "pitch": 2.6,
                                       "yaw": 175.7,
                                       "type": "scene",
-                                      "text": "Hope lobby",
-                                      "sceneId": "HLobby",
+                                      "text": "Focus Group Room",
+                                      "sceneId": "observation",
                                       "targetPitch": "same",
                                       "targetYaw": "sameAzimuth"
                                       }
                                     ]
                           },
                           
-            "caruth": {
-                        "title": "Caruth Auditorium",
+            "portfolio": {
+                        "title": "Creative Studio",
                         "author": "This is where the description of the space being displayed would be entered.",
-                        "northOffset": 181.23,
+                        "northOffset": -90,
                         "multiRes": {
-                                    "basePath": "../img/panos/caruth",
+                                    "basePath": "img/panos/portfolio",
                                     "path": "/%l/%s%y_%x",
                                     "fallbackPath": "/fallback/%s",
                                     "extension": "jpg",
@@ -157,17 +166,8 @@
                                         "pitch": 16.62,
                                         "yaw": 178.77,
                                         "type": "scene",
-                                        "text": "Hope Lobby",
-                                        "sceneId": "HLobby",
-                                        "targetPitch": "same",
-                                        "targetYaw": "sameAzimuth"
-                                      },
-                                      {
-                                        "pitch": -5.83,
-                                        "yaw": 57.56,
-                                        "type": "scene",
-                                        "text": "Sharp Studio",
-                                        "sceneId": "sharp",
+                                        "text": "Ad Lounge",
+                                        "sceneId": "collab",
                                         "targetPitch": "same",
                                         "targetYaw": "sameAzimuth"
                                       }
