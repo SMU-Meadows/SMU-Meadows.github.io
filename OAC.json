@@ -1,6 +1,5 @@
 {
   "default": {
-              "firstScene": "HLobby",
               "sceneFadeDuration": 750,
               "autoLoad": true,
               "hfov": 105.0,
