@@ -149,14 +149,14 @@
                                     },
                         "hotSpots": [
                                       {
-                                        "pitch": 9,
-                                        "yaw": 27,
+                                        "pitch": 15.52,
+                                        "yaw": -0.07,
                                         "type": "info",
                                         "text": "This is where the description of a point of interest would be entered."
                                       },
                                       {
-                                        "pitch": -9,
-                                        "yaw": -150,
+                                        "pitch": 16.62,
+                                        "yaw": 178.77,
                                         "type": "scene",
                                         "text": "Hope Lobby",
                                         "sceneId": "HLobby",
