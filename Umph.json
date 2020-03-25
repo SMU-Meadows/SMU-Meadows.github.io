@@ -174,7 +174,7 @@
                                     ]
                           },
                           
-            "cage": {
+               "cage": {
                         "title": "Equipment Cage",
                         "author": "This is where the description of the space being displayed would be entered.",
                         "northOffset": -180,
@@ -198,8 +198,8 @@
                                         "pitch": 20.47,
                                         "yaw": -30.99,
                                         "type": "scene",
-                                        "text": "O'Donnell Hall",
-                                        "sceneId": "ODonnell",
+                                        "text": "Umphrey Lee Entrance",
+                                        "sceneId": "1stA",
                                         "targetPitch": "same",
                                         "targetYaw": "sameAzimuth"
                                       },
@@ -207,29 +207,20 @@
                                         "pitch": -1.01,
                                         "yaw": 148.88,
                                         "type": "scene",
-                                        "text": "Bob Hope Lobby",
-                                        "sceneId": "HLobby",
-                                        "targetPitch": "same",
-                                        "targetYaw": "sameAzimuth"
-                                      },
-                                      {
-                                        "pitch": -2.22,
-                                        "yaw": 23.39,
-                                        "type": "scene",
-                                        "text": "Sharp Studio",
-                                        "sceneId": "sharp",
+                                        "text": "Editing Lab",
+                                        "sceneId": "eClass",
                                         "targetPitch": "same",
                                         "targetYaw": "sameAzimuth"
                                       }
                                     ]
                           },
                           
-            "ODonnell": {
-                          "title": "O'Donnell Hall",
+               "eClass": {
+                          "title": "Editing Lab",
                           "author": "This is where the description of the space being displayed would be entered.",
-                          "northOffset": 90.0,
+                          "northOffset": 0.0,
                           "multiRes": {
-                                      "basePath": "../img/panos/ODonnell",
+                                      "basePath": "img/panos/eClass",
                                       "path": "/%l/%s%y_%x",
                                       "fallbackPath": "/fallback/%s",
                                       "extension": "jpg",
@@ -248,20 +239,29 @@
                                           "pitch": -19.19,
                                           "yaw": 0.0,
                                           "type": "scene",
-                                          "text": "Taubman Atrium",
-                                          "sceneId": "taubman",
+                                          "text": "Equipment Cage",
+                                          "sceneId": "cage",
+                                          "targetPitch": "same",
+                                          "targetYaw": "sameAzimuth"
+                                        },
+                                        {
+                                          "pitch": -19.19,
+                                          "yaw": 0.0,
+                                          "type": "scene",
+                                          "text": "Audio Suite",
+                                          "sceneId": "soundPre",
                                           "targetPitch": "same",
                                           "targetYaw": "sameAzimuth"
                                         }
                                       ]
                           },
                           
-               "doolin": {
-                          "title": "Doolin Gallery",
+               "soundPre": {
+                          "title": "Audio Suite",
                           "author": "This is where the description of the space being displayed would be entered.",
-                          "northOffset": 89.29,
+                          "northOffset": -180,
                           "multiRes": {
-                                      "basePath": "../img/panos/doolin",
+                                      "basePath": "img/panos/soundPre",
                                       "path": "/%l/%s%y_%x",
                                       "fallbackPath": "/fallback/%s",
                                       "extension": "jpg",
@@ -280,8 +280,8 @@
                                           "pitch": -0.32,
                                           "yaw": -318.06,
                                           "type": "scene",
-                                          "text": "Bob Hope Lobby",
-                                          "sceneId": "HLobby",
+                                          "text": "Editing Lab",
+                                          "sceneId": "eClass",
                                           "targetPitch": "same",
                                           "targetYaw": "sameAzimuth"
                                         },
@@ -289,8 +289,8 @@
                                           "pitch": -4.91,
                                           "yaw": 33.09,
                                           "type": "scene",
-                                          "text": "Woodshop",
-                                          "sceneId": "woodshop",
+                                          "text": "Sound Mixing Studio",
+                                          "sceneId": "sound",
                                           "targetPitch": "same",
                                           "targetYaw": "sameAzimuth"
                                         },
@@ -298,29 +298,20 @@
                                           "pitch": 3.17,
                                           "yaw": 137.61,
                                           "type": "scene",
-                                          "text": "Studio 1430",
-                                          "sceneId": "dance",
-                                          "targetPitch": "same",
-                                          "targetYaw": "sameAzimuth"
-                                        },
-                                        {
-                                          "pitch": 5.87,
-                                          "yaw": -327.32,
-                                          "type": "scene",
-                                          "text": "Painting Studio",
-                                          "sceneId": "painting",
+                                          "text": "Advanced Editing Booth",
+                                          "sceneId": "eBooth",
                                           "targetPitch": "same",
                                           "targetYaw": "sameAzimuth"
                                         }
                                       ]
                           },
                           
-             "woodshop": {
-                          "title": "Woodshop",
+             "sound": {
+                          "title": "Sound Mixing Studio",
                           "author": "This is where the description of the space being displayed would be entered.",
-                          "northOffset": 0.0,
+                          "northOffset": -90,
                           "multiRes": {
-                                      "basePath": "../img/panos/woodshop",
+                                      "basePath": "img/panos/woodshop",
                                       "path": "/%l/%s%y_%x",
                                       "fallbackPath": "/fallback/%s",
                                       "extension": "jpg",
@@ -388,7 +379,7 @@
                           "author": "This is where the description of the space being displayed would be entered.",
                           "northOffset": 0.0,
                           "multiRes": {
-                                      "basePath": "../img/panos/foundry",
+                                      "basePath": "img/panos/foundry",
                                       "path": "/%l/%s%y_%x",
                                       "fallbackPath": "/fallback/%s",
                                       "extension": "jpg",
@@ -429,7 +420,7 @@
                           "author": "This is where the description of the space being displayed would be entered.",
                           "northOffset": -180,
                           "multiRes": {
-                                      "basePath": "../img/panos/ceramics",
+                                      "basePath": "img/panos/ceramics",
                                       "path": "/%l/%s%y_%x",
                                       "fallbackPath": "/fallback/%s",
                                       "extension": "jpg",
@@ -470,7 +461,7 @@
                           "author": "This is where the description of the space being displayed would be entered.",
                           "northOffset": 0.0,
                           "multiRes": {
-                                      "basePath": "../img/panos/sharp",
+                                      "basePath": "img/panos/sharp",
                                       "path": "/%l/%s%y_%x",
                                       "fallbackPath": "/fallback/%s",
                                       "extension": "jpg",
@@ -520,7 +511,7 @@
                           "author": "This is where the description of the space being displayed would be entered.",
                           "northOffset": 90,
                           "multiRes": {
-                                      "basePath": "../img/panos/GRoom",
+                                      "basePath": "img/panos/GRoom",
                                       "path": "/%l/%s%y_%x",
                                       "fallbackPath": "/fallback/%s",
                                       "extension": "jpg",
@@ -585,7 +576,7 @@
                           "author": "This is where the description of the space being displayed would be entered.",
                           "northOffset": 0.0,
                           "multiRes": {
-                                      "basePath": "../img/panos/jones",
+                                      "basePath": "img/panos/jones",
                                       "path": "/%l/%s%y_%x",
                                       "fallbackPath": "/fallback/%s",
                                       "extension": "jpg",
@@ -644,7 +635,7 @@
                           "author": "This is where the description of the space being displayed would be entered.",
                           "northOffset": -180,
                           "multiRes": {
-                                      "basePath": "../img/panos/dance",
+                                      "basePath": "img/panos/dance",
                                       "path": "/%l/%s%y_%x",
                                       "fallbackPath": "/fallback/%s",
                                       "extension": "jpg",
@@ -694,7 +685,7 @@
                           "author": "This is where the description of the space being displayed would be entered.",
                           "northOffset": -90,
                           "multiRes": {
-                                      "basePath": "../img/panos/DFLab",
+                                      "basePath": "img/panos/DFLab",
                                       "path": "/%l/%s%y_%x",
                                       "fallbackPath": "/fallback/%s",
                                       "extension": "jpg",
@@ -735,7 +726,7 @@
                           "author": "This is where the description of the space being displayed would be entered.",
                           "northOffset": -180,
                           "multiRes": {
-                                      "basePath": "../img/panos/printmaking",
+                                      "basePath": "img/panos/printmaking",
                                       "path": "/%l/%s%y_%x",
                                       "fallbackPath": "/fallback/%s",
                                       "extension": "jpg",
@@ -785,7 +776,7 @@
                           "author": "This is where the description of the space being displayed would be entered.",
                           "northOffset": -180,
                           "multiRes": {
-                                      "basePath": "../img/panos/garson",
+                                      "basePath": "img/panos/garson",
                                       "path": "/%l/%s%y_%x",
                                       "fallbackPath": "/fallback/%s",
                                       "extension": "jpg",
@@ -826,7 +817,7 @@
                           "author": "This is where the description of the space being displayed would be entered.",
                           "northOffset": -180,
                           "multiRes": {
-                                      "basePath": "../img/panos/painting",
+                                      "basePath": "img/panos/painting",
                                       "path": "/%l/%s%y_%x",
                                       "fallbackPath": "/fallback/%s",
                                       "extension": "jpg",
