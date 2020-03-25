@@ -489,6 +489,15 @@
                                           "sceneId": "foundry",
                                           "targetPitch": "same",
                                           "targetYaw": "sameAzimuth"
+                                        },
+                                        {
+                                          "pitch": -.093,
+                                          "yaw": 73.01,
+                                          "type": "scene",
+                                          "text": "Doolin Fabrication Lab",
+                                          "sceneId": "DFLab",
+                                          "targetPitch": "same",
+                                          "targetYaw": "sameAzimuth"
                                         }
                                       ]
                           },
@@ -738,8 +747,8 @@
                                           "text": "This is where the description of a point of interest would be entered."
                                         },
                                         {
-                                          "pitch": -6.67,
-                                          "yaw": 126.45,
+                                          "pitch": -7.78,
+                                          "yaw": 116.15,
                                           "type": "scene",
                                           "text": "Woodshop",
                                           "sceneId": "woodshop",
@@ -752,6 +761,15 @@
                                           "type": "scene",
                                           "text": "Printmaking Studio",
                                           "sceneId": "printmaking",
+                                          "targetPitch": "same",
+                                          "targetYaw": "sameAzimuth"
+                                        },
+                                        {
+                                          "pitch": -5.12,
+                                          "yaw": 134.64,
+                                          "type": "scene",
+                                          "text": "Ceramics Studio",
+                                          "sceneId": "ceramics",
                                           "targetPitch": "same",
                                           "targetYaw": "sameAzimuth"
                                         }
