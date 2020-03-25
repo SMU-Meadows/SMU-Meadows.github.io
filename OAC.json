@@ -570,13 +570,19 @@
                                           "pitch": 0.69,
                                           "yaw": 4.27,
                                           "type": "info",
-                                          "text": "This is where the description of a point of interest would be entered."
+                                          "text": "Theatre Division call board: See which students are cast in on-and off-campus productions."
                                         },
                                         {
                                           "pitch": -2.05,
                                           "yaw": 93.84,
                                           "type": "info",
-                                          "text": "This is where the description of a point of interest would be entered."
+                                          "text": "Costumes for dance, theatre and opera are professionally designed, built and fitted for our students in our costume shop."
+                                        },
+                                        {
+                                          "pitch": -1.25,
+                                          "yaw": -86.28,
+                                          "type": "info",
+                                          "text": "The spiral staircases lead to the backstage areas of the Hope Theater and the Margo Jones black box."
                                         },
                                         {
                                           "pitch": -1.21,
