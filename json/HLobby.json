@@ -532,8 +532,8 @@
                                           "targetYaw": "sameAzimuth"
                                         },
                                         {
-                                          "pitch": 4.24,
-                                          "yaw": -56.49,
+                                          "pitch": 4.29,
+                                          "yaw": -53.88,
                                           "type": "scene",
                                           "text": "Green Room",
                                           "sceneId": "GRoom",
