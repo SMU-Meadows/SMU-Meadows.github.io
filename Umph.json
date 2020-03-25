@@ -75,35 +75,26 @@
                                      },
                         "hotSpots": [
                                      {
-                                      "pitch": -26.7,
-                                      "yaw": 33.1,
+                                      "pitch": -7.93,
+                                      "yaw": -13.30,
                                       "type": "info",
                                       "text": "This is where the description of a point of interest would be entered."
                                      },
                                      {
-                                      "pitch": 3.5,
-                                      "yaw": -129.5,
+                                      "pitch": -7.78,
+                                      "yaw": -233.46,
                                       "type": "scene",
-                                      "text": "Hope lobby",
-                                      "sceneId": "HLobby",
+                                      "text": "Ad Lounge",
+                                      "sceneId": "collab",
                                       "targetPitch": "same",
                                       "targetYaw": "sameAzimuth"
                                       },
                                       {
-                                      "pitch": -19.95,
-                                      "yaw": 57.87,
+                                      "pitch": -7.04,
+                                      "yaw": 108.04,
                                       "type": "scene",
-                                      "text": "Green Room",
-                                      "sceneId": "GRoom",
-                                      "targetPitch": "same",
-                                      "targetYaw": "sameAzimuth"
-                                      },
-                                      {
-                                      "pitch": 7.63,
-                                      "yaw": 60.43,
-                                      "type": "scene",
-                                      "text": "Margo Jones Theatre",
-                                      "sceneId": "jones",
+                                      "text": "Umphrey Lee Entrance",
+                                      "sceneId": "1stA",
                                       "targetPitch": "same",
                                       "targetYaw": "sameAzimuth"
                                       }
