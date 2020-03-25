@@ -6,7 +6,7 @@
               "hfov": 100.0,
               "type": "multires",
               "compass": true,
-              "hotSpotDebug": true
+              "hotSpotDebug": false
               },
   
   "scenes": {
@@ -714,35 +714,26 @@
                                       },
                           "hotSpots": [
                                         {
-                                          "pitch": -1,
-                                          "yaw": 196,
+                                          "pitch": -16.22,
+                                          "yaw": 26.04,
                                           "type": "info",
                                           "text": "This is where the description of a point of interest would be entered."
                                         },
                                         {
-                                          "pitch": 6.13,
-                                          "yaw": 236.32,
+                                          "pitch": -6.67,
+                                          "yaw": 126.45,
                                           "type": "scene",
-                                          "text": "Studio 1430",
-                                          "sceneId": "dance",
-                                          "targetPitch": "same",
-                                          "targetYaw": "sameAzimuth"
-                                        },
-                                        {
-                                          "pitch": 10,
-                                          "yaw": 125,
-                                          "type": "scene",
-                                          "text": "Wood Shop",
+                                          "text": "Woodshop",
                                           "sceneId": "woodshop",
                                           "targetPitch": "same",
                                           "targetYaw": "sameAzimuth"
                                         },
                                         {
-                                          "pitch": 5,
-                                          "yaw": 125,
+                                          "pitch": -4.77,
+                                          "yaw": -51.73,
                                           "type": "scene",
-                                          "text": "Bob Hope Theatre",
-                                          "sceneId": "woodshop",
+                                          "text": "Printmaking Studio",
+                                          "sceneId": "printmaking",
                                           "targetPitch": "same",
                                           "targetYaw": "sameAzimuth"
                                         }
