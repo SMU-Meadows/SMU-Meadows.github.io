@@ -230,6 +230,15 @@
                                         "sceneId": "HLobby",
                                         "targetPitch": "same",
                                         "targetYaw": "sameAzimuth"
+                                      },
+                                      {
+                                        "pitch": -2.22,
+                                        "yaw": 23.39,
+                                        "type": "scene",
+                                        "text": "Sharp Studio",
+                                        "sceneId": "sharp",
+                                        "targetPitch": "same",
+                                        "targetYaw": "sameAzimuth"
                                       }
                                     ]
                           },
@@ -342,6 +351,24 @@
                                           "type": "scene",
                                           "text": "Doolin Fabrication Lab",
                                           "sceneId": "DFLab",
+                                          "targetPitch": "same",
+                                          "targetYaw": "sameAzimuth"
+                                        },
+                                        {
+                                          "pitch": -6.16,
+                                          "yaw": -158.18,
+                                          "type": "scene",
+                                          "text": "Green Room",
+                                          "sceneId": "GRoom",
+                                          "targetPitch": "same",
+                                          "targetYaw": "sameAzimuth"
+                                        },
+                                        {
+                                          "pitch": -6.16,
+                                          "yaw": -185.47,
+                                          "type": "scene",
+                                          "text": "Printmaking Studio",
+                                          "sceneId": "printmaking",
                                           "targetPitch": "same",
                                           "targetYaw": "sameAzimuth"
                                         }
