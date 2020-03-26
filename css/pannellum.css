@@ -168,6 +168,7 @@
     /* Fix Safari fullscreen bug */
     -webkit-transform: translateZ(9999px);
     transform: translateZ(9999px);
+    max-width: 80%;
 }
 
 .pnlm-title-box {
@@ -183,7 +184,6 @@
     font-size: 12px;
     display: table;
     padding-left: 5px;
-    max-width: 80%;
 }
 
 .pnlm-load-box {
