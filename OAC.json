@@ -910,7 +910,7 @@
                           
                 "painting": {
                           "title": "Painting Studio",
-                          "author": "This is one of our two nearly identical painting studios; howeverthis studio is outfitted with ventilation for oil painting use of solvent. The other is more geared toward acrylic painting and drawing.",
+                          "author": "This is where the description of the space being displayed would be entered.",
                           "northOffset": -180,
                           "multiRes": {
                                       "basePath": "img/panos/painting",
