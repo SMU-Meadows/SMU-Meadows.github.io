@@ -440,17 +440,17 @@
                                           "pitch": -3.48,
                                           "yaw": -320.04,
                                           "type": "info",
-                                          "text": "This mixer makes clay from dry materials."
-                                        },
-                                        {
-                                          "pitch": -3.48,
-                                          "yaw": -330.04,
-                                          "type": "info",
                                           "text": "This is the outdoor spray booth for spraying on glazes to ceramic work."
                                         },
                                         {
-                                          "pitch": -3.48,
-                                          "yaw": -230.04,
+                                          "pitch": -2.62,
+                                          "yaw": 94.58,
+                                          "type": "info",
+                                          "text": "This mixer makes clay from dry materials."
+                                        },
+                                        {
+                                          "pitch": -13.45,
+                                          "yaw": 12.74,
                                           "type": "info",
                                           "text": "This is one of two of our large gas kilns. It is also used for processes like raku that create a lot of smoke and cannot be done inside."
                                         },
