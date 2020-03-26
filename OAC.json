@@ -26,7 +26,7 @@
                         "hotSpots": [
                                      {
                                       "type": "info",
-                                      "text": "Bob Hope was not an alumnus of SMU but was a longtime friend. In the 1960s, Hope made two sizable donations to SMU, one in 1963 and another in 1965. His gifts totaled $800,000—worth nearly $6 million in today’s dollars—and were made for the development of a new namesake theatre to be located inside the future Owen Fine Arts Center.",
+                                      "text": "Radio, movie, and TV star Bob Hope was not an alumnus of SMU but was a longtime friend. In the 1960s, Hope made generous donations to SMU for the development the namesake theatre, now located inside the Owen Arts Center. Since its opening in 1968, performances on the Hope stage have prepared hundreds of theatre, dance, film and music students for their careers.",
                                       "pitch": -1.26,
                                       "yaw": -0.1
                                      },
@@ -96,7 +96,7 @@
                                       "pitch": -26.7,
                                       "yaw": 33.1,
                                       "type": "info",
-                                      "text": "This is where the description of a point of interest would be entered."
+                                      "text": "4K cameras in the theater allow for live streaming performances, and providing students with HD footage of their work for their reels and websites."
                                      },
                                      {
                                       "pitch": 3.5,
@@ -630,7 +630,7 @@
                           
                 "jones": {
                           "title": "Margo Jones Theatre",
-                          "author": "Versatile, intimate 125-seat black box, with four seating platforms that allow directors and designers the flexibility to choose between multiple configurations.",
+                          "author": "Theatre and Dance students use the Margo Jones Theatre for contemporary plays and performances, taking full advantage of the intimate, 125-seat black box venue. The flexibility of the space provides student writers and directors with a dynamic setting where they can workshop and perform new plays.",
                           "northOffset": 0.0,
                           "multiRes": {
                                       "basePath": "img/panos/jones",
