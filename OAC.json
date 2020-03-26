@@ -424,7 +424,7 @@
                           
               "foundry": {
                           "title": "Foundry",
-                          "author": "This is where we cast bronze through a lost wax process: Wax objects are made, covered in a ceramic slurry over a series of dips that build up a shell, these are placed in the burnout furnace where they are heated and the wax is melted out of them and recovered. These empty shells are then placed in a furnace, while the furnace next to it melts bronze or aluminum to a liquid that is then poured into the empty shell.",
+                          "author": "This is where we cast bronze through a \"lost-wax\" process, in which wax objects are crafted and covered in a ceramic shell, then the wax is melted out of the shell. The shell is then placed in a furnace before it is filled with molten bronze or aluminum.",
                           "northOffset": 0.0,
                           "multiRes": {
                                       "basePath": "img/panos/foundry",
@@ -926,7 +926,7 @@
                                           "pitch": -6.83,
                                           "yaw": -104.20,
                                           "type": "info",
-                                          "text": "Both painting studios have lots of storage for students to keep their work in while drying."
+                                          "text": "Both painting studios have plenty of storage for students to keep their work in while drying."
                                         },
                                         {
                                           "pitch": -3.77,
