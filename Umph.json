@@ -144,7 +144,7 @@
                           
             "portfolio": {
                         "title": "Creative Studio",
-                        "author": "This is where the description of the space being displayed would be entered.",
+                        "author": "Both classroom and creative space, the modular Creative Studio also showcases themany industry awards won by our students.",
                         "northOffset": -90,
                         "multiRes": {
                                     "basePath": "img/panos/portfolio",

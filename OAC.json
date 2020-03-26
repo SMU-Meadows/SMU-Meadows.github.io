@@ -209,7 +209,7 @@
                           
             "taubman": {
                         "title": "Taubman Atrium",
-                        "author": "This is where the description of the space being displayed would be entered.",
+                        "author": "This skylight-filled room is filled with comfortable furniture and reading areas, where students can work on projects in a social and collaborative space. Casual musical performances are held here throughout the year.",
                         "northOffset": -90.65,
                         "multiRes": {
                                     "basePath": "img/panos/taubman",
@@ -225,7 +225,7 @@
                                         "pitch": 1.52,
                                         "yaw": -54.84,
                                         "type": "info",
-                                        "text": "This is where the description of a point of interest would be entered."
+                                        "text": "SMU Dining’s Provision On Demand, or POD, provides students access to quick snacks, beverages, and meals between classes, rehearsals, and study sessions."
                                       },
                                       {
                                         "pitch": 20.47,
@@ -259,7 +259,7 @@
                           
             "ODonnell": {
                           "title": "O'Donnell Hall",
-                          "author": "This is where the description of the space being displayed would be entered.",
+                          "author": "Faculty and students employ the versatile, 168-seat O'Donnell Hall as a classroom, lecture hall, recital hall and screening room for music, art history, photography and advertising classes and seminars.",
                           "northOffset": 90.0,
                           "multiRes": {
                                       "basePath": "img/panos/ODonnell",
@@ -509,7 +509,7 @@
                           
                 "sharp": {
                           "title": "Sharp Studio",
-                          "author": "This is where the description of the space being displayed would be entered.",
+                          "author": "The Charles S. Sharp Performing Arts Studio doubles as a performing space and is equipped with an adjustable black traveler, a control booth, state-of-the-art sound equipment and a theatrical lighting system.",
                           "northOffset": 0.0,
                           "multiRes": {
                                       "basePath": "img/panos/sharp",
@@ -525,7 +525,7 @@
                                           "pitch": -1.21,
                                           "yaw": 196.08,
                                           "type": "info",
-                                          "text": "This is where the description of a point of interest would be entered."
+                                          "text": "All of our dance technique classes have in person accompaniment by staff pianists, percussionists, or both."
                                         },
                                         {
                                           "pitch": 8.65,
@@ -689,7 +689,7 @@
                           
                 "dance": {
                           "title": "Studio 1430",
-                          "author": "This is where the description of the space being displayed would be entered.",
+                          "author": "The spacious, mirrorless Studio 1430 offers an unencumbered environment where our dancers unleash their inner creativity.",
                           "northOffset": -180,
                           "multiRes": {
                                       "basePath": "img/panos/dance",
@@ -705,7 +705,7 @@
                                           "pitch": -6.19,
                                           "yaw": 57.81,
                                           "type": "info",
-                                          "text": "This is where the description of a point of interest would be entered."
+                                          "text": "All of our dance technique classes have in person accompaniment by staff pianists, percussionists, or both."
                                         },
                                         {
                                           "pitch": -0.50,
