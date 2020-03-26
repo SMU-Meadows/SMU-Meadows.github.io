@@ -372,7 +372,7 @@
                           
               "studio": {
                           "title": "Broadcast Studio",
-                          "author": "This is where the description of the space being displayed would be entered.",
+                          "author": "Because Meadows’ Journalism Division receives the same raw video footage that CBS and CNN get, our students can cover stories happening not just on campus but all over the world. The Broadcast Studio has sets for the Daily Campus news show, Press Passsports, and SMU LOOKfashion show.",
                           "northOffset": -180,
                           "multiRes": {
                                       "basePath": "img/panos/studio",
@@ -413,7 +413,7 @@
                           
                 "control": {
                           "title": "Control Room",
-                          "author": "This is where the description of the space being displayed would be entered.",
+                          "author": "Students are trained on more than a dozen positions in the control room and broadcast studio, including audio, camera, teleprompter, graphics and more.",
                           "northOffset": -180,
                           "multiRes": {
                                       "basePath": "img/panos/control",
@@ -454,7 +454,7 @@
                           
                  "newsroom": {
                           "title": "Newsroom",
-                          "author": "This is where the description of the space being displayed would be entered.",
+                          "author": "Students plan and produce news, sports, fashion, and political television shows, the award-winning SMU LOOK fashion magazine, the digital smudailycampus.com news site and the smulook.com fashion website. All majors get ready for the industry by learning iNEWS, the newsroom computer system used in many large-market media outlets.",
                           "northOffset": -90,
                           "multiRes": {
                                       "basePath": "img/panos/newsroom",

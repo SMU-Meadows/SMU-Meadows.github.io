@@ -307,7 +307,7 @@
                                           "pitch": -8.83,
                                           "yaw": 133.99,
                                           "type": "info",
-                                          "text": "This is where the description of a point of interest would be entered."
+                                          "text": "The blackout curtains accommodate video projection or a variety of lighting options."
                                         },
                                         {
                                           "pitch": -0.32,
@@ -366,7 +366,13 @@
                                           "pitch": -13.83,
                                           "yaw": -219.71,
                                           "type": "info",
-                                          "text": "This is where the description of a point of interest would be entered."
+                                          "text": "Our SawStop table saw features a retracting blade."
+                                        },
+                                        {
+                                          "pitch": -13.83,
+                                          "yaw": -219.71,
+                                          "type": "info",
+                                          "text": "We have a 3 axis CNC (Computer Numeric Control) that uses a high-powered spindle to carve wood, foam, plexiglass, and some softer metals like brass and aluminum."
                                         },
                                         {
                                           "pitch": -2.35,
@@ -434,7 +440,19 @@
                                           "pitch": -3.48,
                                           "yaw": -320.04,
                                           "type": "info",
-                                          "text": "This is where the description of a point of interest would be entered."
+                                          "text": "This mixer makes clay from dry materials."
+                                        },
+                                        {
+                                          "pitch": -3.48,
+                                          "yaw": -330.04,
+                                          "type": "info",
+                                          "text": "This is the outdoor spray booth for spraying on glazes to ceramic work."
+                                        },
+                                        {
+                                          "pitch": -3.48,
+                                          "yaw": -230.04,
+                                          "type": "info",
+                                          "text": "This is one of two of our large gas kilns. It is also used for processes like raku that create a lot of smoke and cannot be done inside."
                                         },
                                         {
                                           "pitch": -1.63,
@@ -476,6 +494,12 @@
                                           "yaw": 273.79,
                                           "type": "info",
                                           "text": "The room is where both premade glazes are kept and students can create their own glazes."
+                                        },
+                                        {
+                                          "pitch": -10.18,
+                                          "yaw": 273.79,
+                                          "type": "info",
+                                          "text": "This is a small clay mixer that is solely dedicated to making porcelain clay."
                                         },
                                         {
                                           "pitch": -2.84,
@@ -758,6 +782,12 @@
                                           "text": "This is one of two 3D printers that we have by Lulzbot. We have a Taz 6 and a Workhorse that use a variety of plastics to print with."
                                         },
                                         {
+                                          "pitch": -16.22,
+                                          "yaw": 46.04,
+                                          "type": "info",
+                                          "text": "This is a special printer that has been modified to use glaze powder instead of ink to print onto a piece of paper so that it can be transferred to a ceramic object."
+                                        },
+                                        {
                                           "pitch": -7.78,
                                           "yaw": 116.15,
                                           "type": "scene",
@@ -880,7 +910,7 @@
                           
                 "painting": {
                           "title": "Painting Studio",
-                          "author": "This is where the description of the space being displayed would be entered.",
+                          "author": "This is one of our two nearly identical painting studios; howeverthis studio is outfitted with ventilation for oil painting use of solvent. The other is more geared toward acrylic painting and drawing.",
                           "northOffset": -180,
                           "multiRes": {
                                       "basePath": "img/panos/painting",
@@ -896,7 +926,7 @@
                                           "pitch": -6.83,
                                           "yaw": -104.20,
                                           "type": "info",
-                                          "text": "This is where the description of a point of interest would be entered."
+                                          "text": "Both painting studios have lots of storage for students to keep their work in while drying."
                                         },
                                         {
                                           "pitch": -3.77,
