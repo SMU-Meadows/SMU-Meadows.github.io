@@ -84,7 +84,7 @@
                                       "pitch": -7.78,
                                       "yaw": -233.46,
                                       "type": "scene",
-                                      "text": "go to: Ad Lounge",
+                                      "text": "go to: Brand Studio",
                                       "sceneId": "collab",
                                       "targetPitch": "same",
                                       "targetYaw": "sameAzimuth"
@@ -102,8 +102,8 @@
                           },
                           
              "collab": {
-                        "title": "Ad Lounge",
-                        "author": "The open atmosphere of the Ad Lounge makes it perfect for use as a collaborative space and for working independently.",
+                        "title": "Brand Studio",
+                        "author": "The open atmosphere of the Brand Studio makes it perfect for use as a collaborative space and for working independently.",
                         "northOffset": 90,
                         "multiRes": {
                                     "basePath": "img/panos/collab",
@@ -166,7 +166,7 @@
                                         "pitch": -5.34,
                                         "yaw": -55.27,
                                         "type": "scene",
-                                        "text": "go to: Ad Lounge",
+                                        "text": "go to: Brand Studio",
                                         "sceneId": "collab",
                                         "targetPitch": "same",
                                         "targetYaw": "sameAzimuth"
