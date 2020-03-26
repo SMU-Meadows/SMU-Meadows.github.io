@@ -363,14 +363,14 @@
                                       },
                           "hotSpots": [
                                         {
-                                          "pitch": -13.83,
-                                          "yaw": -219.71,
+                                          "pitch": -16.39,
+                                          "yaw": 75.32,
                                           "type": "info",
                                           "text": "Our SawStop table saw features a retracting blade."
                                         },
                                         {
-                                          "pitch": -13.83,
-                                          "yaw": -219.71,
+                                          "pitch": -4.32,
+                                          "yaw": 77.10,
                                           "type": "info",
                                           "text": "We have a 3 axis CNC (Computer Numeric Control) that uses a high-powered spindle to carve wood, foam, plexiglass, and some softer metals like brass and aluminum."
                                         },
@@ -782,8 +782,8 @@
                                           "text": "This is one of two 3D printers that we have by Lulzbot. We have a Taz 6 and a Workhorse that use a variety of plastics to print with."
                                         },
                                         {
-                                          "pitch": -16.22,
-                                          "yaw": 46.04,
+                                          "pitch": -26.14,
+                                          "yaw": -67.69,
                                           "type": "info",
                                           "text": "This is a special printer that has been modified to use glaze powder instead of ink to print onto a piece of paper so that it can be transferred to a ceramic object."
                                         },
