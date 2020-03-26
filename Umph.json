@@ -52,7 +52,7 @@
                                       "pitch": -5.50,
                                       "yaw": -35.84,
                                       "type": "scene",
-                                      "text": "go to: Broadcast Studio",
+                                      "text": "go to: Pederson Broadcast Studio",
                                       "sceneId": "studio",
                                       "targetPitch": "same",
                                       "targetYaw": "sameAzimuth"
@@ -371,8 +371,8 @@
                           },
                           
               "studio": {
-                          "title": "Broadcast Studio",
-                          "author": "Because Meadows’ Journalism Division receives the same raw video footage that CBS and CNN get, our students can cover stories happening not just on campus but all over the world. The Broadcast Studio has sets for the Daily Campus news show, Press Passsports, and SMU LOOKfashion show.",
+                          "title": "Pederson Broadcast Studio",
+                          "author": "Because Meadows’ Journalism Division receives the same raw video footage that CBS and CNN get, our students can cover stories happening not just on campus but all over the world. The Pederson Broadcast Studio has sets for the Daily Campus news show, Press Passsports, and SMU LOOKfashion show.",
                           "northOffset": -180,
                           "multiRes": {
                                       "basePath": "img/panos/studio",
@@ -435,7 +435,7 @@
                                           "pitch": -1.89,
                                           "yaw": -282.13,
                                           "type": "scene",
-                                          "text": "go to: Broadcast Studio",
+                                          "text": "go to: Pederson Broadcast Studio",
                                           "sceneId": "studio",
                                           "targetPitch": "same",
                                           "targetYaw": "sameAzimuth"
