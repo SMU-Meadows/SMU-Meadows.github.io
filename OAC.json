@@ -12,7 +12,7 @@
     
             "HLobby": {
                         "title": "Bob Hope Lobby",
-                        "author": "This is where the description of the space being displayed would be entered.",
+                        "author": "Not only is this space a grand entrance for the building, but several events are held here, including our Dance Brown Bag series.",
                         "northOffset": -89.9,
                         "multiRes": {
                                     "basePath": "img/panos/HLobby",
@@ -26,9 +26,15 @@
                         "hotSpots": [
                                      {
                                       "type": "info",
-                                      "text": "Radio, movie, and TV star Bob Hope was not an alumnus of SMU but was a longtime friend. In the 1960s, Hope made generous donations to SMU for the development the namesake theatre, now located inside the Owen Arts Center. Since its opening in 1968, performances on the Hope stage have prepared hundreds of theatre, dance, film and music students for their careers.",
+                                      "text": "Radio, movie, and TV star Bob Hope was not an alumnus of SMU but was a longtime friend. In the 1960s, Hope made generous donations to SMU for the development the namesake theatre, now located inside the Owen Arts Center. Since its opening in 1968, performances on the Hope stage have prepared hundreds of theatre, dance, film, and music students for their careers.",
                                       "pitch": -1.26,
                                       "yaw": -0.1
+                                     },
+                                     {
+                                      "type": "info",
+                                      "text": "4K cameras in the lobby allow for live streaming performances and providing students with HD footage of their work for their reels and websites.",
+                                      "pitch": 21.02,
+                                      "yaw": -28.53
                                      },
                                      {
                                       "type": "scene",
@@ -185,6 +191,12 @@
                                         "yaw": -90.62,
                                         "type": "info",
                                         "text": "The louvers on the walls of the hall can be opened or closed depending on the acoustical needs of the performance."
+                                      },
+                                      {
+                                        "pitch": 24.08,
+                                        "yaw": -180,
+                                        "type": "info",
+                                        "text": "4K cameras in the auditorium allow for live streaming performances and providing students with HD footage of their work for their reels and websites."
                                       },
                                       {
                                         "pitch": 16.62,
