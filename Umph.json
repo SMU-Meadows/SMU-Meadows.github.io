@@ -142,7 +142,7 @@
                                     ]
                           },
                           
-            "portfolio": {
+          "portfolio": {
                         "title": "Creative Studio",
                         "author": "Both classroom and creative space, the modular Creative Studio also showcases the many industry awards won by our students.",
                         "northOffset": -90,
@@ -209,8 +209,8 @@
                                         "type": "scene",
                                         "text": "Editing Lab",
                                         "sceneId": "eClass",
-                                        "targetPitch": "same",
-                                        "targetYaw": "sameAzimuth"
+                                        "targetPitch": 0,
+                                        "targetYaw": 0
                                       }
                                     ]
                           },
@@ -235,8 +235,8 @@
                                           "type": "scene",
                                           "text": "Equipment Cage",
                                           "sceneId": "cage",
-                                          "targetPitch": "same",
-                                          "targetYaw": "sameAzimuth"
+                                          "targetPitch": 0,
+                                          "targetYaw": 0
                                         },
                                         {
                                           "pitch": -1.95,
@@ -244,13 +244,13 @@
                                           "type": "scene",
                                           "text": "Audio Lab",
                                           "sceneId": "soundPre",
-                                          "targetPitch": "same",
-                                          "targetYaw": "sameAzimuth"
+                                          "targetPitch": 0,
+                                          "targetYaw": 0
                                         }
                                       ]
                           },
                           
-               "soundPre": {
+             "soundPre": {
                           "title": "Audio Lab",
                           "author": "The soundtrack can make all the difference. Meadows students get hands-on experience in recording, editing, mixing and sound design on industry-standard equipment.",
                           "northOffset": -180,
@@ -282,8 +282,8 @@
                                           "type": "scene",
                                           "text": "Editing Lab",
                                           "sceneId": "eClass",
-                                          "targetPitch": "same",
-                                          "targetYaw": "sameAzimuth"
+                                          "targetPitch": 0,
+                                          "targetYaw": 0
                                         },
                                         {
                                           "pitch": -4.33,
@@ -300,13 +300,13 @@
                                           "type": "scene",
                                           "text": "Advanced Editing Booth",
                                           "sceneId": "eBooth",
-                                          "targetPitch": "same",
-                                          "targetYaw": "sameAzimuth"
+                                          "targetPitch": 0,
+                                          "targetYaw": 0
                                         }
                                       ]
                           },
                           
-             "sound": {
+               "sound": {
                           "title": "Sound Mixing Studio",
                           "author": "Whether working on thesis projects or short class assignments, students can create and mix their tracks using 5.1 Surround-Sound.",
                           "northOffset": -90,
@@ -358,8 +358,8 @@
                                           "type": "scene",
                                           "text": "Audio Lab",
                                           "sceneId": "soundPre",
-                                          "targetPitch": "same",
-                                          "targetYaw": "sameAzimuth"
+                                          "targetPitch": 0,
+                                          "targetYaw": 0
                                         }
                                       ]
                           },
@@ -411,13 +411,13 @@
                                           "type": "scene",
                                           "text": "Umphrey Lee Entrance",
                                           "sceneId": "1stA",
-                                          "targetPitch": "same",
-                                          "targetYaw": "sameAzimuth"
+                                          "targetPitch": 0,
+                                          "targetYaw": 0
                                         }
                                       ]
                           },
                           
-                "control": {
+              "control": {
                           "title": "Control Room",
                           "author": "Students are trained on more than a dozen positions in the control room and broadcast studio, including audio, camera, teleprompter, graphics, and more.",
                           "northOffset": -180,
@@ -452,13 +452,13 @@
                                           "type": "scene",
                                           "text": "Newsroom",
                                           "sceneId": "newsroom",
-                                          "targetPitch": "same",
-                                          "targetYaw": "sameAzimuth"
+                                          "targetPitch": 0,
+                                          "targetYaw": 0
                                         }
                                       ]
                           },
                           
-                 "newsroom": {
+             "newsroom": {
                           "title": "Newsroom",
                           "author": "Students produce news, sports, fashion, and political television shows; the award-winning SMU LOOK fashion magazine; the smudailycampus.com news site; and the smulook.com fashion website.",
                           "northOffset": -90,
@@ -484,8 +484,8 @@
                                           "type": "scene",
                                           "text": "Control Room",
                                           "sceneId": "control",
-                                          "targetPitch": "same",
-                                          "targetYaw": "sameAzimuth"
+                                          "targetPitch": 0,
+                                          "targetYaw": 0
                                         }
                                       ]
                           }
