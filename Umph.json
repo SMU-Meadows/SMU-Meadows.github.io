@@ -252,7 +252,7 @@
                           
                "soundPre": {
                           "title": "Audio Lab",
-                          "author": "This is where the description of the space being displayed would be entered.",
+                          "author": "The soundtrack can make all the difference. Meadows students get hands-on experience in recording, editing, mixing and sound design on industry-standard equipment.",
                           "northOffset": -180,
                           "multiRes": {
                                       "basePath": "img/panos/soundPre",
@@ -268,7 +268,13 @@
                                           "pitch": -5.69,
                                           "yaw": -91.27,
                                           "type": "info",
-                                          "text": "The soundtrack can make all the difference. Meadows students get hands-on experience in recording, editing, mixing, and sound design on industry-standard equipment."
+                                          "text": "Students create sounds in the Foley Studio that help their scenes hit the right emotional notes: the flutter of feathers, the stomp of boots ascending the stairs, the slosh of water in a bucket and more."
+                                        },
+                                        {
+                                          "pitch": -5.45,
+                                          "yaw": 93.22,
+                                          "type": "info",
+                                          "text": "When location sound recording has been compromised by airplanes flying overhead, cars honking, etc., students can re-record their dialogue in the ADR studio and reclaim clean tracks."
                                         },
                                         {
                                           "pitch": -11.88,
