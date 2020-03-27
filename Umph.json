@@ -34,7 +34,7 @@
                                       "pitch": -4.10,
                                       "yaw": -51.68,
                                       "type": "scene",
-                                      "text": "go to: Focus Group Room",
+                                      "text": "Focus Group Room",
                                       "sceneId": "observation",
                                       "targetPitch": "same",
                                       "targetYaw": "sameAzimuth"
@@ -43,7 +43,7 @@
                                       "pitch": -9.49,
                                       "yaw": -45.28,
                                       "type": "scene",
-                                      "text": "go to: Equipment Cage",
+                                      "text": "Equipment Cage",
                                       "sceneId": "cage",
                                       "targetPitch": "same",
                                       "targetYaw": "sameAzimuth"
@@ -52,7 +52,7 @@
                                       "pitch": -5.50,
                                       "yaw": -35.84,
                                       "type": "scene",
-                                      "text": "go to: Pederson Broadcast Studio",
+                                      "text": "Pederson Broadcast Studio",
                                       "sceneId": "studio",
                                       "targetPitch": "same",
                                       "targetYaw": "sameAzimuth"
@@ -84,7 +84,7 @@
                                       "pitch": -7.78,
                                       "yaw": -233.46,
                                       "type": "scene",
-                                      "text": "go to: Brand Studio",
+                                      "text": "Brand Studio",
                                       "sceneId": "collab",
                                       "targetPitch": "same",
                                       "targetYaw": "sameAzimuth"
@@ -93,7 +93,7 @@
                                       "pitch": -9.24,
                                       "yaw": 108.41,
                                       "type": "scene",
-                                      "text": "go to: Umphrey Lee Entrance",
+                                      "text": "Umphrey Lee Entrance",
                                       "sceneId": "1stA",
                                       "targetPitch": "same",
                                       "targetYaw": "sameAzimuth"
@@ -119,7 +119,7 @@
                                       "pitch": -6.53,
                                       "yaw": -59.43,
                                       "type": "scene",
-                                      "text": "go to: Creative Studio",
+                                      "text": "Creative Studio",
                                       "sceneId": "portfolio",
                                       "targetPitch": "same",
                                       "targetYaw": "sameAzimuth"
@@ -128,7 +128,7 @@
                                       "pitch": -4.62,
                                       "yaw": 88.70,
                                       "type": "scene",
-                                      "text": "go to: Focus Group Room",
+                                      "text": "Focus Group Room",
                                       "sceneId": "observation",
                                       "targetPitch": "same",
                                       "targetYaw": "sameAzimuth"
@@ -160,7 +160,7 @@
                                         "pitch": -5.34,
                                         "yaw": -55.27,
                                         "type": "scene",
-                                        "text": "go to: Brand Studio",
+                                        "text": "Brand Studio",
                                         "sceneId": "collab",
                                         "targetPitch": "same",
                                         "targetYaw": "sameAzimuth"
@@ -192,7 +192,7 @@
                                         "pitch": -2.71,
                                         "yaw": 34.53,
                                         "type": "scene",
-                                        "text": "go to: Umphrey Lee Entrance",
+                                        "text": "Umphrey Lee Entrance",
                                         "sceneId": "1stA",
                                         "targetPitch": "same",
                                         "targetYaw": "sameAzimuth"
@@ -201,7 +201,7 @@
                                         "pitch": -2.71,
                                         "yaw": 18.99,
                                         "type": "scene",
-                                        "text": "go to: Editing Lab",
+                                        "text": "Editing Lab",
                                         "sceneId": "eClass",
                                         "targetPitch": "same",
                                         "targetYaw": "sameAzimuth"
@@ -233,7 +233,7 @@
                                           "pitch": -2.45,
                                           "yaw": -51.53,
                                           "type": "scene",
-                                          "text": "go to: Equipment Cage",
+                                          "text": "Equipment Cage",
                                           "sceneId": "cage",
                                           "targetPitch": "same",
                                           "targetYaw": "sameAzimuth"
@@ -242,7 +242,7 @@
                                           "pitch": -1.95,
                                           "yaw": -41.81,
                                           "type": "scene",
-                                          "text": "go to: Audio Suite",
+                                          "text": "Audio Suite",
                                           "sceneId": "soundPre",
                                           "targetPitch": "same",
                                           "targetYaw": "sameAzimuth"
@@ -274,7 +274,7 @@
                                           "pitch": -11.88,
                                           "yaw": -164.70,
                                           "type": "scene",
-                                          "text": "go to: Editing Lab",
+                                          "text": "Editing Lab",
                                           "sceneId": "eClass",
                                           "targetPitch": "same",
                                           "targetYaw": "sameAzimuth"
@@ -283,7 +283,7 @@
                                           "pitch": -4.33,
                                           "yaw": -15.96,
                                           "type": "scene",
-                                          "text": "go to: Sound Mixing Studio",
+                                          "text": "Sound Mixing Studio",
                                           "sceneId": "sound",
                                           "targetPitch": "same",
                                           "targetYaw": "sameAzimuth"
@@ -292,7 +292,7 @@
                                           "pitch": -10.97,
                                           "yaw": -143.56,
                                           "type": "scene",
-                                          "text": "go to: Advanced Editing Booth",
+                                          "text": "Advanced Editing Booth",
                                           "sceneId": "eBooth",
                                           "targetPitch": "same",
                                           "targetYaw": "sameAzimuth"
@@ -324,7 +324,7 @@
                                           "pitch": -3.00,
                                           "yaw": 72.55,
                                           "type": "scene",
-                                          "text": "go to: Audio Suite",
+                                          "text": "Audio Suite",
                                           "sceneId": "soundPre",
                                           "targetPitch": "same",
                                           "targetYaw": "sameAzimuth"
@@ -356,7 +356,7 @@
                                           "pitch": -11.40,
                                           "yaw": 177.82,
                                           "type": "scene",
-                                          "text": "go to: Audio Suite",
+                                          "text": "Audio Suite",
                                           "sceneId": "soundPre",
                                           "targetPitch": "same",
                                           "targetYaw": "sameAzimuth"
@@ -388,7 +388,7 @@
                                           "pitch": 0.65,
                                           "yaw": -86.59,
                                           "type": "scene",
-                                          "text": "go to: Control Room",
+                                          "text": "Control Room",
                                           "sceneId": "control",
                                           "targetPitch": "same",
                                           "targetYaw": "sameAzimuth"
@@ -397,7 +397,7 @@
                                           "pitch": -3.24,
                                           "yaw": -167.20,
                                           "type": "scene",
-                                          "text": "go to: Umphrey Lee Entrance",
+                                          "text": "Umphrey Lee Entrance",
                                           "sceneId": "1stA",
                                           "targetPitch": "same",
                                           "targetYaw": "sameAzimuth"
@@ -429,7 +429,7 @@
                                           "pitch": -1.89,
                                           "yaw": -282.13,
                                           "type": "scene",
-                                          "text": "go to: Pederson Broadcast Studio",
+                                          "text": "Pederson Broadcast Studio",
                                           "sceneId": "studio",
                                           "targetPitch": "same",
                                           "targetYaw": "sameAzimuth"
@@ -438,7 +438,7 @@
                                           "pitch": -2.77,
                                           "yaw": -216.60,
                                           "type": "scene",
-                                          "text": "go to: Newsroom",
+                                          "text": "Newsroom",
                                           "sceneId": "newsroom",
                                           "targetPitch": "same",
                                           "targetYaw": "sameAzimuth"
@@ -470,7 +470,7 @@
                                           "pitch": -4.37,
                                           "yaw": 16.26,
                                           "type": "scene",
-                                          "text": "go to: Control Room",
+                                          "text": "Control Room",
                                           "sceneId": "control",
                                           "targetPitch": "same",
                                           "targetYaw": "sameAzimuth"
