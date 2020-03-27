@@ -245,8 +245,8 @@
                                         "type": "scene",
                                         "text": "O'Donnell Hall",
                                         "sceneId": "ODonnell",
-                                        "targetPitch": "same",
-                                        "targetYaw": "sameAzimuth"
+                                        "targetPitch": 0,
+                                        "targetYaw": 0
                                       },
                                       {
                                         "pitch": -1.01,
@@ -254,8 +254,8 @@
                                         "type": "scene",
                                         "text": "Bob Hope Lobby",
                                         "sceneId": "HLobby",
-                                        "targetPitch": "same",
-                                        "targetYaw": "sameAzimuth"
+                                        "targetPitch": 0,
+                                        "targetYaw": 0
                                       },
                                       {
                                         "pitch": -2.22,
@@ -263,8 +263,8 @@
                                         "type": "scene",
                                         "text": "Sharp Studio",
                                         "sceneId": "sharp",
-                                        "targetPitch": "same",
-                                        "targetYaw": "sameAzimuth"
+                                        "targetPitch": 0,
+                                        "targetYaw": 0
                                       }
                                     ]
                           },
@@ -301,8 +301,8 @@
                                           "type": "scene",
                                           "text": "Taubman Atrium",
                                           "sceneId": "taubman",
-                                          "targetPitch": "same",
-                                          "targetYaw": "sameAzimuth"
+                                          "targetPitch": 0,
+                                          "targetYaw": 0
                                         }
                                       ]
                           },
@@ -333,8 +333,8 @@
                                           "type": "scene",
                                           "text": "Bob Hope Lobby",
                                           "sceneId": "HLobby",
-                                          "targetPitch": "same",
-                                          "targetYaw": "sameAzimuth"
+                                          "targetPitch": 0,
+                                          "targetYaw": 0
                                         },
                                         {
                                           "pitch": -4.91,
@@ -342,8 +342,8 @@
                                           "type": "scene",
                                           "text": "Woodshop",
                                           "sceneId": "woodshop",
-                                          "targetPitch": "same",
-                                          "targetYaw": "sameAzimuth"
+                                          "targetPitch": 0,
+                                          "targetYaw": 0
                                         },
                                         {
                                           "pitch": 3.17,
@@ -351,8 +351,8 @@
                                           "type": "scene",
                                           "text": "Studio 1430",
                                           "sceneId": "dance",
-                                          "targetPitch": "same",
-                                          "targetYaw": "sameAzimuth"
+                                          "targetPitch": 0,
+                                          "targetYaw": 0
                                         },
                                         {
                                           "pitch": 5.87,
@@ -360,8 +360,8 @@
                                           "type": "scene",
                                           "text": "Painting Studio",
                                           "sceneId": "painting",
-                                          "targetPitch": "same",
-                                          "targetYaw": "sameAzimuth"
+                                          "targetPitch": 0,
+                                          "targetYaw": 0
                                         }
                                       ]
                           },
@@ -398,8 +398,8 @@
                                           "type": "scene",
                                           "text": "Foundry",
                                           "sceneId": "foundry",
-                                          "targetPitch": "same",
-                                          "targetYaw": "sameAzimuth"
+                                          "targetPitch": 0,
+                                          "targetYaw": 0
                                         },
                                         {
                                           "pitch": -2.12,
@@ -407,8 +407,8 @@
                                           "type": "scene",
                                           "text": "Doolin Fabrication Lab",
                                           "sceneId": "DFLab",
-                                          "targetPitch": "same",
-                                          "targetYaw": "sameAzimuth"
+                                          "targetPitch": 0,
+                                          "targetYaw": 0
                                         },
                                         {
                                           "pitch": -5.34,
@@ -416,8 +416,8 @@
                                           "type": "scene",
                                           "text": "Green Room",
                                           "sceneId": "GRoom",
-                                          "targetPitch": "same",
-                                          "targetYaw": "sameAzimuth"
+                                          "targetPitch": 0,
+                                          "targetYaw": 0
                                         },
                                         {
                                           "pitch": -6.16,
@@ -425,8 +425,8 @@
                                           "type": "scene",
                                           "text": "Printmaking Studio",
                                           "sceneId": "printmaking",
-                                          "targetPitch": "same",
-                                          "targetYaw": "sameAzimuth"
+                                          "targetPitch": 0,
+                                          "targetYaw": 0
                                         },
                                         {
                                           "pitch": 4.32,
@@ -434,8 +434,8 @@
                                           "type": "scene",
                                           "text": "Doolin Gallery",
                                           "sceneId": "doolin",
-                                          "targetPitch": "same",
-                                          "targetYaw": "sameAzimuth"
+                                          "targetPitch": 0,
+                                          "targetYaw": 0
                                         }
                                       ]
                           },
@@ -478,8 +478,8 @@
                                           "type": "scene",
                                           "text": "Woodshop",
                                           "sceneId": "woodshop",
-                                          "targetPitch": "same",
-                                          "targetYaw": "sameAzimuth"
+                                          "targetPitch": 0,
+                                          "targetYaw": 0
                                         },
                                         {
                                           "pitch": -2.84,
@@ -525,8 +525,8 @@
                                           "type": "scene",
                                           "text": "Printmaking Studio",
                                           "sceneId": "printmaking",
-                                          "targetPitch": "same",
-                                          "targetYaw": "sameAzimuth"
+                                          "targetPitch": 0,
+                                          "targetYaw": 0
                                         },
                                         {
                                           "pitch": -1.31,
@@ -543,8 +543,8 @@
                                           "type": "scene",
                                           "text": "Doolin Fabrication Lab",
                                           "sceneId": "DFLab",
-                                          "targetPitch": "same",
-                                          "targetYaw": "sameAzimuth"
+                                          "targetPitch": 0,
+                                          "targetYaw": 0
                                         }
                                       ]
                           },
@@ -575,8 +575,8 @@
                                           "type": "scene",
                                           "text": "Taubman Atrium",
                                           "sceneId": "taubman",
-                                          "targetPitch": "same",
-                                          "targetYaw": "sameAzimuth"
+                                          "targetPitch": 0,
+                                          "targetYaw": 0
                                         },
                                         {
                                           "pitch": 5.71,
@@ -584,8 +584,8 @@
                                           "type": "scene",
                                           "text": "Caruth Auditorium",
                                           "sceneId": "caruth",
-                                          "targetPitch": "same",
-                                          "targetYaw": "sameAzimuth"
+                                          "targetPitch": 0,
+                                          "targetYaw": 0
                                         },
                                         {
                                           "pitch": 4.29,
@@ -593,8 +593,8 @@
                                           "type": "scene",
                                           "text": "Green Room",
                                           "sceneId": "GRoom",
-                                          "targetPitch": "same",
-                                          "targetYaw": "sameAzimuth"
+                                          "targetPitch": 0,
+                                          "targetYaw": 0
                                         }
                                       ]
                           },
