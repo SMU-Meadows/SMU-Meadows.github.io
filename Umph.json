@@ -291,7 +291,7 @@
                                           "type": "scene",
                                           "text": "Sound Mixing Studio",
                                           "sceneId": "sound",
-                                          "targetPitch": "same",
+                                          "targetPitch": 0,
                                           "targetYaw": "sameAzimuth"
                                         },
                                         {
@@ -326,7 +326,7 @@
                                           "type": "scene",
                                           "text": "Audio Lab",
                                           "sceneId": "soundPre",
-                                          "targetPitch": "same",
+                                          "targetPitch": 0,
                                           "targetYaw": "sameAzimuth"
                                         }
                                       ]
