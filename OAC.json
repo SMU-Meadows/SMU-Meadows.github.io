@@ -237,7 +237,7 @@
                                         "pitch": 1.52,
                                         "yaw": -54.84,
                                         "type": "info",
-                                        "text": "SMU Dining’s Provision On Demand, or POD, provides students access to quick snacks, beverages, and meals between classes, rehearsals, and study sessions."
+                                        "text": "SMU Dining’s Provision On Demand, or P.O.D., provides students access to quick snacks, beverages, and meals between classes, rehearsals, and study sessions."
                                       },
                                       {
                                         "pitch": 20.47,
@@ -368,7 +368,7 @@
                           
              "woodshop": {
                           "title": "Woodshop",
-                          "author": "This is where the description of the space being displayed would be entered.",
+                          "author": "In our woodshop, students have access to electric saws, drills, and sanders. We also have a variety of hand tools such as chisels, planes, hand saws, etc.",
                           "northOffset": 0.0,
                           "multiRes": {
                                       "basePath": "img/panos/woodshop",
@@ -384,13 +384,13 @@
                                           "pitch": -16.39,
                                           "yaw": 75.32,
                                           "type": "info",
-                                          "text": "Our SawStop table saw features a retracting blade."
+                                          "text": "Our SawStop table saw has a key safety feature: When the blade senses skin, it stops spinning in less than 5 milliseconds, retracts beneath the table, and removes the risk of subsequent contact."
                                         },
                                         {
                                           "pitch": -4.32,
                                           "yaw": 77.10,
                                           "type": "info",
-                                          "text": "We have a 3 axis CNC (Computer Numeric Control) that uses a high-powered spindle to carve wood, foam, plexiglass, and some softer metals like brass and aluminum."
+                                          "text": "We have a 3-axis CNC (Computer Numeric Control) machine that uses a high-powered spindle to carve wood, foam, plexiglass, and some softer metals like brass and aluminum."
                                         },
                                         {
                                           "pitch": -2.35,
@@ -458,7 +458,7 @@
                                           "pitch": -3.48,
                                           "yaw": -320.04,
                                           "type": "info",
-                                          "text": "This is the outdoor spray booth for spraying on glazes to ceramic work."
+                                          "text": "This is the outdoor spray booth for spraying glazes onto ceramic work."
                                         },
                                         {
                                           "pitch": -2.62,
@@ -495,7 +495,7 @@
                           
               "ceramics": {
                           "title": "Ceramics Studio",
-                          "author": "This classroom features manual and electric wheels that you can be used sitting or standing to throw pots. Our students mix the clay themselves and typically use stoneware and terracotta.",
+                          "author": "This classroom features manual and electric wheels that can be used sitting or standing to throw pots. Our students mix the clay themselves and typically make stoneware and terracotta clays.",
                           "northOffset": -180,
                           "multiRes": {
                                       "basePath": "img/panos/ceramics",
@@ -511,7 +511,7 @@
                                           "pitch": -1.18,
                                           "yaw": 273.79,
                                           "type": "info",
-                                          "text": "The room is where both premade glazes are kept and students can create their own glazes."
+                                          "text": "This room is where a selection of premade glazes are kept; students can also create their own glazes."
                                         },
                                         {
                                           "pitch": -5.23,
@@ -551,7 +551,7 @@
                           
                 "sharp": {
                           "title": "Sharp Studio",
-                          "author": "The Charles S. Sharp Performing Arts Studio doubles as a performing space and is equipped with an adjustable black traveler, a control booth, state-of-the-art sound equipment and a theatrical lighting system.",
+                          "author": "The Charles S. Sharp Performing Arts Studio doubles as a performing space and is equipped with an adjustable black traveler, a control booth, state-of-the-art sound equipment, and a theatrical lighting system.",
                           "northOffset": 0.0,
                           "multiRes": {
                                       "basePath": "img/panos/sharp",
@@ -797,7 +797,7 @@
                                           "pitch": -16.22,
                                           "yaw": 26.04,
                                           "type": "info",
-                                          "text": "This is one of two 3D printers that we have by Lulzbot. We have a Taz 6 and a Workhorse that use a variety of plastics to print with."
+                                          "text": "This is one of two 3D printers that we have by LulzBot. Our Taz 6 and Workhorse 3D printers use a variety of plastics to print with."
                                         },
                                         {
                                           "pitch": -26.14,
@@ -837,7 +837,7 @@
                           
           "printmaking": {
                           "title": "Printmaking Studio",
-                          "author": "We teach both aquatint and intaglio printing techniques, both use etched copper plates to transfer ink to paper.",
+                          "author": "We teach both aquatint and intaglio printing techniques; both use etched copper plates to transfer ink to paper.",
                           "northOffset": -180,
                           "multiRes": {
                                       "basePath": "img/panos/printmaking",
