@@ -467,8 +467,8 @@
                                           "text": "This mixer makes clay from dry materials."
                                         },
                                         {
-                                          "pitch": -13.45,
-                                          "yaw": 12.74,
+                                          "pitch": -2.33,
+                                          "yaw": 62.04,
                                           "type": "info",
                                           "text": "This is one of two of our large gas kilns. It is also used for processes like raku that create a lot of smoke and cannot be done inside."
                                         },
@@ -797,7 +797,7 @@
                                           "pitch": -16.22,
                                           "yaw": 26.04,
                                           "type": "info",
-                                          "text": "This is one of two 3D printers that we have by LulzBot. Our Taz 6 and Workhorse 3D printers use a variety of plastics to print with."
+                                          "text": "This is one of two 3D printers that we have by LulzBot. Our Taz 6 and Workhorse 3D printers are capable of printing with a variety of plastics."
                                         },
                                         {
                                           "pitch": -26.14,
@@ -922,7 +922,7 @@
                           
                 "painting": {
                           "title": "Painting Studio",
-                          "author": "This is where the description of the space being displayed would be entered.",
+                          "author": "While one of our painting studios is more geared toward acrylic painting and drawing, this nearly identical studio is outfitted with ventilation for oil painting and use of solvent.",
                           "northOffset": -180,
                           "multiRes": {
                                       "basePath": "img/panos/painting",
@@ -938,7 +938,7 @@
                                           "pitch": -0.36,
                                           "yaw": 6.29,
                                           "type": "info",
-                                          "text": "Both painting studios have plenty of storage for students to keep their work in while drying."
+                                          "text": "This studio offers plenty of space for students to store their work as it dries."
                                         },
                                         {
                                           "pitch": -3.77,
