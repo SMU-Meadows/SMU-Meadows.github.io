@@ -110,8 +110,8 @@
                                       "type": "scene",
                                       "text": "Hope lobby",
                                       "sceneId": "HLobby",
-                                      "targetPitch": "same",
-                                      "targetYaw": "sameAzimuth"
+                                      "targetPitch": 0,
+                                      "targetYaw": 0
                                       },
                                       {
                                       "pitch": -19.95,
@@ -119,8 +119,8 @@
                                       "type": "scene",
                                       "text": "Green Room",
                                       "sceneId": "GRoom",
-                                      "targetPitch": "same",
-                                      "targetYaw": "sameAzimuth"
+                                      "targetPitch": 0,
+                                      "targetYaw": 0
                                       },
                                       {
                                       "pitch": 7.63,
@@ -128,8 +128,8 @@
                                       "type": "scene",
                                       "text": "Margo Jones Theatre",
                                       "sceneId": "jones",
-                                      "targetPitch": "same",
-                                      "targetYaw": "sameAzimuth"
+                                      "targetPitch": 0,
+                                      "targetYaw": 0
                                       }
                                     ]
                           },
@@ -160,7 +160,7 @@
                                       "type": "scene",
                                       "text": "Hope lobby",
                                       "sceneId": "HLobby",
-                                      "targetPitch": "same",
+                                      "targetPitch": 0,
                                       "targetYaw": "sameAzimuth"
                                       }
                                     ]
@@ -204,8 +204,8 @@
                                         "type": "scene",
                                         "text": "Hope Lobby",
                                         "sceneId": "HLobby",
-                                        "targetPitch": "same",
-                                        "targetYaw": "sameAzimuth"
+                                        "targetPitch": 0,
+                                        "targetYaw": 0
                                       },
                                       {
                                         "pitch": -5.83,
@@ -213,8 +213,8 @@
                                         "type": "scene",
                                         "text": "Sharp Studio",
                                         "sceneId": "sharp",
-                                        "targetPitch": "same",
-                                        "targetYaw": "sameAzimuth"
+                                        "targetPitch": 0,
+                                        "targetYaw": 0
                                       }
                                     ]
                           },
