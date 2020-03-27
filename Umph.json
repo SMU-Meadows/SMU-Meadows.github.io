@@ -211,7 +211,7 @@
                           
                "eClass": {
                           "title": "Editing Lab",
-                          "author": "This is where the description of the space being displayed would be entered.",
+                          "author": "Film students can count on the power of the Division’s enhanced Macintosh computers, all equipped to handle the heavy lifting needed for film and video editing. Software includes Adobe Creative Suite, AVID, and Pro Tools.",
                           "northOffset": 0.0,
                           "multiRes": {
                                       "basePath": "img/panos/eClass",
@@ -223,12 +223,6 @@
                                       "cubeResolution": 8048
                                       },
                           "hotSpots": [
-                                        {
-                                          "pitch": -17.52,
-                                          "yaw": 46.79,
-                                          "type": "info",
-                                          "text": "This is where the description of a point of interest would be entered."
-                                        },
                                         {
                                           "pitch": -2.45,
                                           "yaw": -51.53,
@@ -334,7 +328,7 @@
                           
               "eBooth": {
                           "title": "Advanced Editing Booth",
-                          "author": "This is where the description of the space being displayed would be entered.",
+                          "author": "Students can reserve an advanced editing booth, a sound-isolated space that includes the DaVinci Resolve color correction system, Adobe Creative Suite, AVID, and Pro Tools.",
                           "northOffset": 0.0,
                           "multiRes": {
                                       "basePath": "img/panos/eBooth",
@@ -347,8 +341,8 @@
                                       },
                           "hotSpots": [
                                         {
-                                          "pitch": -12.50,
-                                          "yaw": -0.46,
+                                          "pitch": -24.27,
+                                          "yaw": -6.04,
                                           "type": "info",
                                           "text": "This is where the description of a point of interest would be entered."
                                         },
