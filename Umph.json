@@ -36,8 +36,8 @@
                                       "type": "scene",
                                       "text": "Focus Group Room",
                                       "sceneId": "observation",
-                                      "targetPitch": "same",
-                                      "targetYaw": "sameAzimuth"
+                                      "targetPitch": 0,
+                                      "targetYaw": 0
                                       },
                                      {
                                       "pitch": -9.49,
@@ -45,8 +45,8 @@
                                       "type": "scene",
                                       "text": "Equipment Cage",
                                       "sceneId": "cage",
-                                      "targetPitch": "same",
-                                      "targetYaw": "sameAzimuth"
+                                      "targetPitch": 0,
+                                      "targetYaw": 0
                                       },
                                      {
                                       "pitch": -5.50,
@@ -54,8 +54,8 @@
                                       "type": "scene",
                                       "text": "Pederson Broadcast Studio",
                                       "sceneId": "studio",
-                                      "targetPitch": "same",
-                                      "targetYaw": "sameAzimuth"
+                                      "targetPitch": 0,
+                                      "targetYaw": 0
                                       }
                                     ]
                           },
@@ -86,8 +86,8 @@
                                       "type": "scene",
                                       "text": "Brand Studio",
                                       "sceneId": "collab",
-                                      "targetPitch": "same",
-                                      "targetYaw": "sameAzimuth"
+                                      "targetPitch": 0,
+                                      "targetYaw": 0
                                       },
                                       {
                                       "pitch": -9.24,
@@ -95,8 +95,8 @@
                                       "type": "scene",
                                       "text": "Umphrey Lee Entrance",
                                       "sceneId": "1stA",
-                                      "targetPitch": "same",
-                                      "targetYaw": "sameAzimuth"
+                                      "targetPitch": 0,
+                                      "targetYaw": 0
                                       }
                                     ]
                           },
@@ -130,8 +130,8 @@
                                       "type": "scene",
                                       "text": "Focus Group Room",
                                       "sceneId": "observation",
-                                      "targetPitch": "same",
-                                      "targetYaw": "sameAzimuth"
+                                      "targetPitch": 0,
+                                      "targetYaw": 0
                                       }
                                     ]
                           },
@@ -194,8 +194,8 @@
                                         "type": "scene",
                                         "text": "Umphrey Lee Entrance",
                                         "sceneId": "1stA",
-                                        "targetPitch": "same",
-                                        "targetYaw": "sameAzimuth"
+                                        "targetPitch": 0,
+                                        "targetYaw": 0
                                       },
                                       {
                                         "pitch": -2.71,
