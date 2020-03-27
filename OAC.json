@@ -637,8 +637,8 @@
                                           "type": "scene",
                                           "text": "Sharp Studio",
                                           "sceneId": "sharp",
-                                          "targetPitch": "same",
-                                          "targetYaw": "sameAzimuth"
+                                          "targetPitch": 0,
+                                          "targetYaw": 0
                                         },
                                         {
                                           "pitch": -1.43,
@@ -646,8 +646,8 @@
                                           "type": "scene",
                                           "text": "Wood Shop",
                                           "sceneId": "woodshop",
-                                          "targetPitch": "same",
-                                          "targetYaw": "sameAzimuth"
+                                          "targetPitch": 0,
+                                          "targetYaw": 0
                                         },
                                         {
                                           "pitch": 9.69,
@@ -655,8 +655,8 @@
                                           "type": "scene",
                                           "text": "Bob Hope Theatre",
                                           "sceneId": "HopeSMU",
-                                          "targetPitch": "same",
-                                          "targetYaw": "sameAzimuth"
+                                          "targetPitch": 0,
+                                          "targetYaw": 0
                                         },
                                         {
                                           "pitch": 12.02,
@@ -664,8 +664,8 @@
                                           "type": "scene",
                                           "text": "Margo Jones Theatre",
                                           "sceneId": "jones",
-                                          "targetPitch": "same",
-                                          "targetYaw": "sameAzimuth"
+                                          "targetPitch": 0,
+                                          "targetYaw": 0
                                         }
                                       ]
                           },
@@ -696,8 +696,8 @@
                                           "type": "scene",
                                           "text": "Studio 1430",
                                           "sceneId": "dance",
-                                          "targetPitch": "same",
-                                          "targetYaw": "sameAzimuth"
+                                          "targetPitch": 0,
+                                          "targetYaw": 0
                                         },
                                         {
                                           "pitch": 0.0,
@@ -705,8 +705,8 @@
                                           "type": "scene",
                                           "text": "Green Room",
                                           "sceneId": "GRoom",
-                                          "targetPitch": "same",
-                                          "targetYaw": "sameAzimuth"
+                                          "targetPitch": 0,
+                                          "targetYaw": 0
                                         },
                                         {
                                           "pitch": 7.74,
@@ -714,8 +714,8 @@
                                           "type": "scene",
                                           "text": "Bob Hope Theatre",
                                           "sceneId": "HopeSMU",
-                                          "targetPitch": "same",
-                                          "targetYaw": "sameAzimuth"
+                                          "targetPitch": 0,
+                                          "targetYaw": 0
                                         },
                                         {
                                           "pitch": 4.51,
@@ -723,8 +723,8 @@
                                           "type": "scene",
                                           "text": "Greer Garson Theatre",
                                           "sceneId": "garson",
-                                          "targetPitch": "same",
-                                          "targetYaw": "sameAzimuth"
+                                          "targetPitch": 0,
+                                          "targetYaw": 0
                                         }
                                       ]
                           },
@@ -755,8 +755,8 @@
                                           "type": "scene",
                                           "text": "Margo Jones Theatre",
                                           "sceneId": "jones",
-                                          "targetPitch": "same",
-                                          "targetYaw": "sameAzimuth"
+                                          "targetPitch": 0,
+                                          "targetYaw": 0
                                         },
                                         {
                                           "pitch": 1.42,
@@ -764,8 +764,8 @@
                                           "type": "scene",
                                           "text": "Greer Garson Theatre",
                                           "sceneId": "garson",
-                                          "targetPitch": "same",
-                                          "targetYaw": "sameAzimuth"
+                                          "targetPitch": 0,
+                                          "targetYaw": 0
                                         },
                                         {
                                           "pitch": 5.03,
@@ -773,8 +773,8 @@
                                           "type": "scene",
                                           "text": "Doolin Gallery",
                                           "sceneId": "doolin",
-                                          "targetPitch": "same",
-                                          "targetYaw": "sameAzimuth"
+                                          "targetPitch": 0,
+                                          "targetYaw": 0
                                         }
                                       ]
                           },
@@ -811,8 +811,8 @@
                                           "type": "scene",
                                           "text": "Woodshop",
                                           "sceneId": "woodshop",
-                                          "targetPitch": "same",
-                                          "targetYaw": "sameAzimuth"
+                                          "targetPitch": 0,
+                                          "targetYaw": 0
                                         },
                                         {
                                           "pitch": -4.77,
@@ -820,8 +820,8 @@
                                           "type": "scene",
                                           "text": "Printmaking Studio",
                                           "sceneId": "printmaking",
-                                          "targetPitch": "same",
-                                          "targetYaw": "sameAzimuth"
+                                          "targetPitch": 0,
+                                          "targetYaw": 0
                                         },
                                         {
                                           "pitch": -5.87,
@@ -829,8 +829,8 @@
                                           "type": "scene",
                                           "text": "Ceramics Studio",
                                           "sceneId": "ceramics",
-                                          "targetPitch": "same",
-                                          "targetYaw": "sameAzimuth"
+                                          "targetPitch": 0,
+                                          "targetYaw": 0
                                         }
                                       ]
                           },
@@ -861,8 +861,8 @@
                                           "type": "scene",
                                           "text": "Woodshop",
                                           "sceneId": "woodshop",
-                                          "targetPitch": "same",
-                                          "targetYaw": "sameAzimuth"
+                                          "targetPitch": 0,
+                                          "targetYaw": 0
                                         },
                                         {
                                           "pitch": -3.94,
@@ -870,8 +870,8 @@
                                           "type": "scene",
                                           "text": "Ceramics Studio",
                                           "sceneId": "ceramics",
-                                          "targetPitch": "same",
-                                          "targetYaw": "sameAzimuth"
+                                          "targetPitch": 0,
+                                          "targetYaw": 0
                                         },
                                         {
                                           "pitch": -6.36,
@@ -879,8 +879,8 @@
                                           "type": "scene",
                                           "text": "Doolin Fabrication Lab",
                                           "sceneId": "DFLab",
-                                          "targetPitch": "same",
-                                          "targetYaw": "sameAzimuth"
+                                          "targetPitch": 0,
+                                          "targetYaw": 0
                                         }
                                       ]
                           },
@@ -905,8 +905,8 @@
                                           "type": "scene",
                                           "text": "Studio 1430",
                                           "sceneId": "dance",
-                                          "targetPitch": "same",
-                                          "targetYaw": "sameAzimuth"
+                                          "targetPitch": 0,
+                                          "targetYaw": 0
                                         },
                                         {
                                           "pitch": 5.73,
@@ -914,8 +914,8 @@
                                           "type": "scene",
                                           "text": "Margo Jones Theatre",
                                           "sceneId": "jones",
-                                          "targetPitch": "same",
-                                          "targetYaw": "sameAzimuth"
+                                          "targetPitch": 0,
+                                          "targetYaw": 0
                                         }
                                       ]
                           },
@@ -946,8 +946,8 @@
                                           "type": "scene",
                                           "text": "Doolin Gallery",
                                           "sceneId": "doolin",
-                                          "targetPitch": "same",
-                                          "targetYaw": "sameAzimuth"
+                                          "targetPitch": 0,
+                                          "targetYaw": 0
                                         }
                                       ]
                           }
