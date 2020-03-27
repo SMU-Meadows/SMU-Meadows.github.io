@@ -285,9 +285,15 @@
                           "hotSpots": [
                                         {
                                           "pitch": -13.51,
-                                          "yaw": 2.0,
+                                          "yaw": 6.0,
                                           "type": "info",
-                                          "text": "This is where the description of a point of interest would be entered."
+                                          "text": "The Fazioli 228 at the front of the hall, a 7’6 semi-concert grand, is played mainly for student chamber music and solo recitals."
+                                        },
+                                        {
+                                          "pitch": 28.22,
+                                          "yaw": 180,
+                                          "type": "info",
+                                          "text": "4K cameras in the hall allow for live streaming performances and providing students with HD footage of their work for their reels and websites."
                                         },
                                         {
                                           "pitch": -19.19,
