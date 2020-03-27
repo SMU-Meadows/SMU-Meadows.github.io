@@ -12,7 +12,7 @@
     
             "1stA": {
                         "title": "Umphrey Lee Entrance",
-                        "author": "This is where the description of the space being displayed would be entered.",
+                        "author": "The Umphrey Lee Center, fondly called “Umph” by our students, is home to the Advertising, Corporate Communication and Public Affairs, Journalism, and Film and Media Arts Divisions. ",
                         "northOffset": 0.0,
                         "multiRes": {
                                     "basePath": "img/panos/1stA",
@@ -28,7 +28,13 @@
                                       "pitch": 14.49,
                                       "yaw": 37.02,
                                       "type": "info",
-                                      "text": "This is where the description of a point of interest would be entered."
+                                      "text": "The First Amendment is an ethical core to much of what is taught in our communication-oriented majors: Advertising, CCPA, and Journalism students take required ethics courses, in which they discuss the amendment’s five imperative civil rights."
+                                     },
+                                     {
+                                      "pitch": -12.74,
+                                      "yaw": -122.68,
+                                      "type": "info",
+                                      "text": "The Umphrey Lee Center is also home to one of SMU’s two all-you-can-eat cafeterias, featuring home-style, vegetarian, vegan, and international foods, plus a large salad bar and desserts area."
                                      },
                                      {
                                       "pitch": -4.10,
@@ -138,7 +144,7 @@
                           
             "portfolio": {
                         "title": "Creative Studio",
-                        "author": "Both classroom and creative space, the modular Creative Studio also showcases themany industry awards won by our students.",
+                        "author": "Both classroom and creative space, the modular Creative Studio also showcases the many industry awards won by our students.",
                         "northOffset": -90,
                         "multiRes": {
                                     "basePath": "img/panos/portfolio",
@@ -344,7 +350,7 @@
                                           "pitch": -24.27,
                                           "yaw": -6.04,
                                           "type": "info",
-                                          "text": "This is where the description of a point of interest would be entered."
+                                          "text": "The DaVinci Resolve provides advanced color grading for any type of project, whether it’s a commercial, short film, thesis project, or the feature-length film produced in the Division’s Summer Film Production."
                                         },
                                         {
                                           "pitch": -11.40,

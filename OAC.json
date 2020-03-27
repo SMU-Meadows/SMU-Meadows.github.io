@@ -136,7 +136,7 @@
                           
              "steps": {
                         "title": "Owen Arts Center Entrance",
-                        "author": "This is where the description of the space being displayed would be entered.",
+                        "author": "Once the original site of the Meadows Museum, the Owen Arts Center houses the Meadows academic areas of music, theatre, dance, art, art history, creative computing, arts management, and arts entrepreneurship.",
                         "northOffset": -266.68,
                         "multiRes": {
                                     "basePath": "img/panos/steps",
@@ -148,12 +148,6 @@
                                     "cubeResolution": 3904
                                      },
                         "hotSpots": [
-                                     {
-                                      "pitch": 0.6,
-                                      "yaw": 5.5,
-                                      "type": "info",
-                                      "text": "This is where the description of a point of interest would be entered."
-                                     },
                                      {
                                       "pitch": 2.6,
                                       "yaw": 175.7,
@@ -849,12 +843,6 @@
                                       "cubeResolution": 8048
                                       },
                           "hotSpots": [
-                                        {
-                                          "pitch": -23.21,
-                                          "yaw": -27.30,
-                                          "type": "info",
-                                          "text": "This is where the description of a point of interest would be entered."
-                                        },
                                         {
                                           "pitch": -1.10,
                                           "yaw": 116.97,
