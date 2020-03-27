@@ -170,7 +170,7 @@
                           
                "cage": {
                         "title": "Equipment Cage",
-                        "author": "This is where the description of the space being displayed would be entered.",
+                        "author": "The boutique size of the Film and Media Arts Division makes checking out gear a breeze, whether you need cameras, lighting and grip gear, dolly tracks, location sound equipment and more.",
                         "northOffset": -180,
                         "multiRes": {
                                     "basePath": "img/panos/cage",
@@ -183,10 +183,10 @@
                                     },
                         "hotSpots": [
                                       {
-                                        "pitch": -2.81,
-                                        "yaw": -71.69,
+                                        "pitch": -0.73,
+                                        "yaw": 304.83,
                                         "type": "info",
-                                        "text": "This is where the description of a point of interest would be entered."
+                                        "text": "First-year students start with Sony NX3 cameras, then move on to Sony FS7s, then advance to the RED Scarlett-W 5k by junior or senior year."
                                       },
                                       {
                                         "pitch": -2.71,
