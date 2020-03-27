@@ -242,7 +242,7 @@
                                           "pitch": -1.95,
                                           "yaw": -41.81,
                                           "type": "scene",
-                                          "text": "Audio Suite",
+                                          "text": "Audio Lab",
                                           "sceneId": "soundPre",
                                           "targetPitch": "same",
                                           "targetYaw": "sameAzimuth"
@@ -308,7 +308,7 @@
                           
              "sound": {
                           "title": "Sound Mixing Studio",
-                          "author": "This is where the description of the space being displayed would be entered.",
+                          "author": "Whether working on thesis projects or short class assignments, students can create and mix their tracks using 5.1 Surround-Sound.",
                           "northOffset": -90,
                           "multiRes": {
                                       "basePath": "img/panos/sound",
@@ -321,16 +321,10 @@
                                       },
                           "hotSpots": [
                                         {
-                                          "pitch": -34.97,
-                                          "yaw": -16.04,
-                                          "type": "info",
-                                          "text": "This is where the description of a point of interest would be entered."
-                                        },
-                                        {
                                           "pitch": -3.00,
                                           "yaw": 72.55,
                                           "type": "scene",
-                                          "text": "Audio Suite",
+                                          "text": "Audio Lab",
                                           "sceneId": "soundPre",
                                           "targetPitch": "same",
                                           "targetYaw": "sameAzimuth"
@@ -362,7 +356,7 @@
                                           "pitch": -11.40,
                                           "yaw": 177.82,
                                           "type": "scene",
-                                          "text": "Audio Suite",
+                                          "text": "Audio Lab",
                                           "sceneId": "soundPre",
                                           "targetPitch": "same",
                                           "targetYaw": "sameAzimuth"
