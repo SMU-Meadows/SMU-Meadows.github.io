@@ -251,7 +251,7 @@
                           },
                           
                "soundPre": {
-                          "title": "Audio Suite",
+                          "title": "Audio Lab",
                           "author": "This is where the description of the space being displayed would be entered.",
                           "northOffset": -180,
                           "multiRes": {
@@ -268,7 +268,7 @@
                                           "pitch": -5.69,
                                           "yaw": -91.27,
                                           "type": "info",
-                                          "text": "This is where the description of a point of interest would be entered."
+                                          "text": "The soundtrack can make all the difference. Meadows students get hands-on experience in recording, editing, mixing, and sound design on industry-standard equipment."
                                         },
                                         {
                                           "pitch": -11.88,
