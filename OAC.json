@@ -41,7 +41,7 @@
                                       "text": "Bob Hope Theatre",
                                       "sceneId": "HopeSMU",
                                       "targetPitch": "same",
-                                      "targetYaw": "sameAzimuth",
+                                      "targetYaw": 31,
                                       "pitch": -1.5,
                                       "yaw": -29
                                       },
@@ -59,7 +59,7 @@
                                       "text": "Caruth Auditorium",
                                       "sceneId": "caruth",
                                       "targetPitch": "same",
-                                      "targetYaw": "sameAzimuth",
+                                      "targetYaw": 0,
                                       "pitch": -0.5,
                                       "yaw": -94.6
                                       },
@@ -68,7 +68,7 @@
                                       "text": "Taubman Atrium",
                                       "sceneId": "taubman",
                                       "targetPitch": "same",
-                                      "targetYaw": "sameAzimuth",
+                                      "targetYaw": 0,
                                       "pitch": -0.5,
                                       "yaw": -54
                                       },
@@ -77,7 +77,7 @@
                                       "text": "Doolin Gallery",
                                       "sceneId": "doolin",
                                       "targetPitch": "same",
-                                      "targetYaw": "sameAzimuth",
+                                      "targetYaw": 0,
                                       "pitch": -2.24,
                                       "yaw": 53.93
                                       }
