@@ -221,7 +221,7 @@
                           
             "taubman": {
                         "title": "Taubman Atrium",
-                        "author": "This skylight-filled room is filled with comfortable furniture and reading areas, where students can work on projects in a social and collaborative space. Casual musical performances are held here throughout the year.",
+                        "author": "This skylight-filled room has plenty of comfortable furniture and reading areas where students can work on projects in a social and collaborative space. Casual musical performances are also held here periodically throughout the year.",
                         "northOffset": -90.65,
                         "multiRes": {
                                     "basePath": "img/panos/taubman",
@@ -617,7 +617,7 @@
                                           "pitch": -2.05,
                                           "yaw": 93.84,
                                           "type": "info",
-                                          "text": "Costumes for dance, theatre and opera are professionally designed, built and fitted for our students in our costume shop."
+                                          "text": "Costumes for dance, theatre, and opera are professionally designed, built, and fitted for our students in our costume shop."
                                         },
                                         {
                                           "pitch": -1.25,
@@ -682,7 +682,7 @@
                                           "pitch": -0.54,
                                           "yaw": -188.26,
                                           "type": "info",
-                                          "text": "This is where the description of a point of interest would be entered."
+                                          "text": "Our professional scene shop is where sets and props are built for theater, opera, and dance productions."
                                         },
                                         {
                                           "pitch": 10.25,
@@ -881,7 +881,7 @@
                           
                 "garson": {
                           "title": "Greer Garson Theatre",
-                          "author": "Theatre students present classical and contemporary plays on the Greer Garson thrust stage, as well as readings of plays they have written themselves. Productions are elevated to professional level with scenic, lighting, projection and costume designs by award-winning M.F.A. Theatre graduate students and Theatre staff.",
+                          "author": "Theatre students present classical and contemporary plays on the Greer Garson thrust stage, as well as readings of plays they have written themselves. Productions are elevated to professional level with scenic, lighting, projection, and costume designs by award-winning M.F.A. Theatre graduate students and Theatre staff.",
                           "northOffset": -180,
                           "multiRes": {
                                       "basePath": "img/panos/garson",
@@ -893,12 +893,6 @@
                                       "cubeResolution": 8048
                                       },
                           "hotSpots": [
-                                        {
-                                          "pitch": -2.44,
-                                          "yaw": -6.50,
-                                          "type": "info",
-                                          "text": "This is where the description of a point of interest would be entered."
-                                        },
                                         {
                                           "pitch": 5.04,
                                           "yaw": -35.98,

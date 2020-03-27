@@ -62,7 +62,7 @@
                           
         "observation": {
                         "title": "Focus Group Room",
-                        "author": "This is where the description of the space being displayed would be entered.",
+                        "author": "Students in the Advertising Research class learn about and train to moderate focus group sessions, including a host of interview techniques, interactive activities, and projection exercises designed to obtain in-depth information and reaction from group participants.",
                         "northOffset": 90,
                         "multiRes": {
                                     "basePath": "img/panos/observation",
@@ -78,7 +78,7 @@
                                       "pitch": -7.93,
                                       "yaw": -13.30,
                                       "type": "info",
-                                      "text": "This is where the description of a point of interest would be entered."
+                                      "text": "The focus group facility is equipped with recording equipment, a viewing room with mirrored glass for observation, and furniture that can be arranged for interview sessions with up to 12 people."
                                      },
                                      {
                                       "pitch": -7.78,
@@ -116,12 +116,6 @@
                                      },
                         "hotSpots": [
                                      {
-                                      "pitch": -6.08,
-                                      "yaw": -14.53,
-                                      "type": "info",
-                                      "text": "This is where the description of a point of interest would be entered."
-                                     },
-                                     {
                                       "pitch": -6.53,
                                       "yaw": -59.43,
                                       "type": "scene",
@@ -157,8 +151,8 @@
                                     },
                         "hotSpots": [
                                       {
-                                        "pitch": -9.45,
-                                        "yaw": -125.43,
+                                        "pitch": -7.55,
+                                        "yaw": -116.53,
                                         "type": "info",
                                         "text": "This is where the description of a point of interest would be entered."
                                       },
