@@ -158,7 +158,7 @@ uiContainer.appendChild(dragFix);
 // Display about information on right click
 var aboutMsg = document.createElement('span');
 aboutMsg.className = 'pnlm-about-msg';
-aboutMsg.innerHTML = '<a href="https://SMU-Meadows.github.io">back to Home</a>';
+aboutMsg.innerHTML = '<a href="https://MeadowsTour.com">back to Home</a>';
 uiContainer.appendChild(aboutMsg);
 dragFix.addEventListener('contextmenu', aboutMessage);
 
