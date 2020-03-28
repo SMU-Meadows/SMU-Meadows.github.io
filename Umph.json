@@ -128,7 +128,7 @@
                                       "type": "scene",
                                       "text": "Creative Studio",
                                       "sceneId": "portfolio",
-                                      "targetPitch": "same",
+                                      "targetPitch": 0,
                                       "targetYaw": "sameAzimuth"
                                       },
                                       {
@@ -169,7 +169,7 @@
                                         "type": "scene",
                                         "text": "Brand Studio",
                                         "sceneId": "collab",
-                                        "targetPitch": "same",
+                                        "targetPitch": 0,
                                         "targetYaw": "sameAzimuth"
                                       }
                                     ]
@@ -403,7 +403,7 @@
                                           "type": "scene",
                                           "text": "Control Room",
                                           "sceneId": "control",
-                                          "targetPitch": "same",
+                                          "targetPitch": 0,
                                           "targetYaw": "sameAzimuth"
                                         },
                                         {
@@ -444,7 +444,7 @@
                                           "type": "scene",
                                           "text": "Pederson Broadcast Studio",
                                           "sceneId": "studio",
-                                          "targetPitch": "same",
+                                          "targetPitch": 0,
                                           "targetYaw": "sameAzimuth"
                                         },
                                         {
