@@ -168,7 +168,7 @@
     /* Fix Safari fullscreen bug */
     -webkit-transform: translateZ(9999px);
     transform: translateZ(9999px);
-    max-width: 70%;
+    max-width: 80%;
 }
 
 .pnlm-title-box {
