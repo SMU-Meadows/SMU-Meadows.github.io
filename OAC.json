@@ -344,7 +344,7 @@
                                           "pitch": 3.17,
                                           "yaw": 137.61,
                                           "type": "scene",
-                                          "text": "Studio 1430",
+                                          "text": "Dance Studio 1430",
                                           "sceneId": "dance",
                                           "targetPitch": 0,
                                           "targetYaw": 0
@@ -689,7 +689,7 @@
                                           "pitch": 10.25,
                                           "yaw": 0.0,
                                           "type": "scene",
-                                          "text": "Studio 1430",
+                                          "text": "Dance Studio 1430",
                                           "sceneId": "dance",
                                           "targetPitch": 0,
                                           "targetYaw": 0
@@ -725,7 +725,7 @@
                           },
                           
                 "dance": {
-                          "title": "Studio 1430",
+                          "title": "Dance Studio 1430",
                           "author": "The spacious, mirrorless Studio 1430 offers an unencumbered environment where our dancers unleash their inner creativity.",
                           "northOffset": -180,
                           "multiRes": {
@@ -904,7 +904,7 @@
                                           "pitch": 5.04,
                                           "yaw": -35.98,
                                           "type": "scene",
-                                          "text": "Studio 1430",
+                                          "text": "Dance Studio 1430",
                                           "sceneId": "dance",
                                           "targetPitch": 0,
                                           "targetYaw": 0
