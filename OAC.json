@@ -889,6 +889,12 @@
                                       },
                           "hotSpots": [
                                         {
+                                          "pitch": -21.67,
+                                          "yaw": 180.85,
+                                          "type": "info",
+                                          "text": "This 261-seat theatre totes a trap door system and its own dressing rooms."
+                                        },
+                                        {
                                           "pitch": 5.04,
                                           "yaw": -35.98,
                                           "type": "scene",
