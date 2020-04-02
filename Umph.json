@@ -50,7 +50,7 @@
                                       "pitch": -9.49,
                                       "yaw": -45.28,
                                       "type": "scene",
-                                      "text": "Equipment Cage",
+                                      "text": "Film Equipment Cage",
                                       "sceneId": "cage",
                                       "targetPitch": 0,
                                       "targetYaw": 0
@@ -176,7 +176,7 @@
                           },
                           
                "cage": {
-                        "title": "Equipment Cage",
+                        "title": "Film Equipment Cage",
                         "author": "The boutique size of the Film and Media Arts Division makes checking out gear a breeze, whether you need cameras, lighting and grip gear, dolly tracks, location sound equipment and more.",
                         "northOffset": -180,
                         "multiRes": {
@@ -234,7 +234,7 @@
                                           "pitch": -2.45,
                                           "yaw": -51.53,
                                           "type": "scene",
-                                          "text": "Equipment Cage",
+                                          "text": "Film Equipment Cage",
                                           "sceneId": "cage",
                                           "targetPitch": 0,
                                           "targetYaw": 0
