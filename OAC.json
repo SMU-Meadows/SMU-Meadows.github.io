@@ -789,8 +789,8 @@
                                       },
                           "hotSpots": [
                                         {
-                                          "pitch": -16.22,
-                                          "yaw": 26.04,
+                                          "pitch": -0.36,
+                                          "yaw": 25.68,
                                           "type": "info",
                                           "text": "This is one of two 3D printers that we have by LulzBot. Our Taz 6 and Workhorse 3D printers are capable of printing with a variety of plastics."
                                         },
