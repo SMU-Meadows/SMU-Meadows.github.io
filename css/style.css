@@ -35,7 +35,8 @@ body {
 }
 
 .btn.btn-default {
-  padding: 1rem 0;
+  /*padding: 1rem 0;*/
+  height:55px;
   font-size: 1.7rem;
   background-color: #798086;
     color: #e6e6e6;
