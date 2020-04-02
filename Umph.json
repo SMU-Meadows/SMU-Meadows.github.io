@@ -5,7 +5,7 @@
               "hfov": 105.0,
               "type": "multires",
               "compass": true,
-              "hotSpotDebug": false,
+              "hotSpotDebug": true,
               "autoRotate": -1
               },
   
