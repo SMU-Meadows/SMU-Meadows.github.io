@@ -845,6 +845,12 @@
                                       },
                           "hotSpots": [
                                         {
+                                          "pitch": -11.14,
+                                          "yaw": 245.47,
+                                          "type": "info",
+                                          "text": "Students are assigned a drawer in which they can store their prints."
+                                        },
+                                        {
                                           "pitch": -1.10,
                                           "yaw": 116.97,
                                           "type": "scene",
