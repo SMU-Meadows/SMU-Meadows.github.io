@@ -951,6 +951,111 @@
                                           "targetYaw": 0
                                         }
                                       ]
+                          },
+                          
+                "smClass": {
+                          "title": "Small Classroom",
+                          "author": "",
+                          "northOffset": -90,
+                          "multiRes": {
+                                      "basePath": "img/panos/smClass",
+                                      "path": "/%l/%s%y_%x",
+                                      "fallbackPath": "/fallback/%s",
+                                      "extension": "jpg",
+                                      "tileResolution": 512,
+                                      "maxLevel": 5,
+                                      "cubeResolution": 8048
+                                      }
+                          },
+                          
+                "LClass": {
+                          "title": "Large Classroom",
+                          "author": "",
+                          "northOffset": -90,
+                          "multiRes": {
+                                      "basePath": "img/panos/LClass",
+                                      "path": "/%l/%s%y_%x",
+                                      "fallbackPath": "/fallback/%s",
+                                      "extension": "jpg",
+                                      "tileResolution": 512,
+                                      "maxLevel": 5,
+                                      "cubeResolution": 8048
+                                      }
+                          },
+                          
+                "voice": {
+                          "title": "Voice Studio",
+                          "author": "",
+                          "northOffset": 180,
+                          "multiRes": {
+                                      "basePath": "img/panos/voice",
+                                      "path": "/%l/%s%y_%x",
+                                      "fallbackPath": "/fallback/%s",
+                                      "extension": "jpg",
+                                      "tileResolution": 512,
+                                      "maxLevel": 5,
+                                      "cubeResolution": 8048
+                                      }
+                          },
+                          
+                "B450": {
+                          "title": "B450",
+                          "author": "",
+                          "northOffset": 0,
+                          "multiRes": {
+                                      "basePath": "img/panos/B450",
+                                      "path": "/%l/%s%y_%x",
+                                      "fallbackPath": "/fallback/%s",
+                                      "extension": "jpg",
+                                      "tileResolution": 512,
+                                      "maxLevel": 5,
+                                      "cubeResolution": 8048
+                                      }
+                          },
+                          
+                "B150": {
+                          "title": "B150",
+                          "author": "",
+                          "northOffset": 0,
+                          "multiRes": {
+                                      "basePath": "img/panos/B150",
+                                      "path": "/%l/%s%y_%x",
+                                      "fallbackPath": "/fallback/%s",
+                                      "extension": "jpg",
+                                      "tileResolution": 512,
+                                      "maxLevel": 5,
+                                      "cubeResolution": 8048
+                                      }
+                          },
+                          
+                "Bates": {
+                          "title": "Kathy Bates Studio",
+                          "author": "",
+                          "northOffset": 0,
+                          "multiRes": {
+                                      "basePath": "img/panos/Bates",
+                                      "path": "/%l/%s%y_%x",
+                                      "fallbackPath": "/fallback/%s",
+                                      "extension": "jpg",
+                                      "tileResolution": 512,
+                                      "maxLevel": 5,
+                                      "cubeResolution": 8048
+                                      }
+                          },
+                          
+                "piano": {
+                          "title": "Rehearsal Room",
+                          "author": "",
+                          "northOffset": 45,
+                          "multiRes": {
+                                      "basePath": "img/panos/piano",
+                                      "path": "/%l/%s%y_%x",
+                                      "fallbackPath": "/fallback/%s",
+                                      "extension": "jpg",
+                                      "tileResolution": 512,
+                                      "maxLevel": 5,
+                                      "cubeResolution": 8048
+                                      }
                           }
 
 
