@@ -1071,6 +1071,21 @@
                                       "maxLevel": 5,
                                       "cubeResolution": 8048
                                       }
+                          },
+                          
+                "DHallLights": {
+                          "title": "Dallas Hall",
+                          "author": "",
+                          "northOffset": 0,
+                          "multiRes": {
+                                      "basePath": "img/panos/DHallLights",
+                                      "path": "/%l/%s%y_%x",
+                                      "fallbackPath": "/fallback/%s",
+                                      "extension": "jpg",
+                                      "tileResolution": 512,
+                                      "maxLevel": 6,
+                                      "cubeResolution": 10312
+                                      }
                           }
 
 
