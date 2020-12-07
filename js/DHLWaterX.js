@@ -1,8 +1,8 @@
 
-    var DHall = {
+    var DHallz = {
       Image: {
     xmlns: "http://schemas.microsoft.com/deepzoom/2008",
-    Url: "//SMU-Meadows.github.io/img/panos/DHLwater/",
+    Url: "//SMU-Meadows.github.io/img/panos/DHLWater/",
     Format: "png",
     Overlap: "1",
     TileSize: "256",
@@ -17,7 +17,7 @@
     var viewer = OpenSeadragon({
       id: "seadragon-viewer",
       prefixUrl: "//openseadragon.github.io/openseadragon/images/",
-      tileSources: DHall,
+      tileSources: DHallz,
       showNavigator:  false,
       visibilityRatio: 1,
       constrainDuringPan: false,
