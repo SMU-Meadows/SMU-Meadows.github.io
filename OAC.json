@@ -1091,8 +1091,6 @@
                                           "pitch": -0.43,
                                           "yaw": 179.45,
                                           "type": "scene",
-                                          "sceneId": "",
-                                          "clickHandlerFunc": "window.location",
                                           "text": "high-res panorama view",
                                           "URL": "https://meadowstour.com/DHLights"
                                         }
