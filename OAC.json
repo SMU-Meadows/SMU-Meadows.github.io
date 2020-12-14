@@ -1088,9 +1088,10 @@
                                       },
                            "hotSpots": [
                                         {
-                                          "pitch": -0.36,
-                                          "yaw": 6.29,
+                                          "pitch": -17.93,
+                                          "yaw": -151.73,
                                           "type": "scene",
+                                          "text": "high-res panorama view",
                                           "URL": "https://meadowstour.com/DHLights"
                                         }
                                       ]
