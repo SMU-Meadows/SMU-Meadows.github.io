@@ -1085,7 +1085,15 @@
                                       "tileResolution": 512,
                                       "maxLevel": 6,
                                       "cubeResolution": 10312
-                                      }
+                                      },
+                           "hotSpots": [
+                                        {
+                                          "pitch": -0.36,
+                                          "yaw": 6.29,
+                                          "type": "scene",
+                                          "URL": "https://meadowstour.com/DHLights"
+                                        }
+                                      ]
                           }
 
 
