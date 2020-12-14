@@ -1,5 +1,5 @@
 
-    var DHalls = {
+    var DHall = {
       Image: {
     xmlns: "http://schemas.microsoft.com/deepzoom/2008",
     Url: "//SMU-Meadows.github.io/img/panos/DHLWater/",
@@ -17,7 +17,7 @@
     var viewer = OpenSeadragon({
       id: "seadragon-viewer",
       prefixUrl: "//openseadragon.github.io/openseadragon/images/",
-      tileSources: DHalls,
+      tileSources: DHall,
       showNavigator:  false,
       visibilityRatio: 1,
       constrainDuringPan: false,
