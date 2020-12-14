@@ -1089,7 +1089,7 @@
                            "hotSpots": [
                                         {
                                           "pitch": -17.93,
-                                          "yaw": -151.73,
+                                          "yaw": -151.7,
                                           "type": "scene",
                                           "clickHandlerFunc": "window.location",
                                           "text": "high-res panorama view",
