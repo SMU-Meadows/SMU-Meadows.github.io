@@ -260,6 +260,33 @@
                                         "sceneId": "sharp",
                                         "targetPitch": 0,
                                         "targetYaw": 0
+                                      },
+                                      {
+                                        "pitch": -0.31,
+                                        "yaw": -148.12,
+                                        "type": "scene",
+                                        "text": "Band Hall",
+                                        "sceneId": "band",
+                                        "targetPitch": 0,
+                                        "targetYaw": 0
+                                      },
+                                      {
+                                        "pitch": 22.59,
+                                        "yaw": -180.65,
+                                        "type": "scene",
+                                        "text": "Music Ed breakroom",
+                                        "sceneId": "break",
+                                        "targetPitch": 0,
+                                        "targetYaw": 0
+                                      },
+                                      {
+                                        "pitch": 0.24,
+                                        "yaw": -31.95,
+                                        "type": "scene",
+                                        "text": "Choir Hall",
+                                        "sceneId": "choir",
+                                        "targetPitch": 0,
+                                        "targetYaw": 0
                                       }
                                     ]
                           },
