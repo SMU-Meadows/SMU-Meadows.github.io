@@ -1208,7 +1208,18 @@
                                       "tileResolution": 512,
                                       "maxLevel": 5,
                                       "cubeResolution": 8048
-                                      }
+                                      },
+                          "hotSpots": [
+                                        {
+                                          "pitch": -1.87,
+                                          "yaw": 28.31,
+                                          "type": "scene",
+                                          "text": "Taubman Atrium",
+                                          "sceneId": "taubman",
+                                          "targetPitch": 0,
+                                          "targetYaw": 0
+                                        }
+                                      ]
                           },
                           
                 "break": {
