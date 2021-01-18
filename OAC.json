@@ -596,7 +596,7 @@
                                           "yaw": -129.03,
                                           "type": "scene",
                                           "text": "Kathy Bates",
-                                          "sceneId": "Bates",
+                                          "sceneId": "bates",
                                           "targetPitch": 0,
                                           "targetYaw": 0
                                         },
@@ -1107,7 +1107,7 @@
                                       ]
                           },
                           
-                "Bates": {
+                "bates": {
                           "title": "Kathy Bates Studio",
                           "author": "",
                           "northOffset": 0,
