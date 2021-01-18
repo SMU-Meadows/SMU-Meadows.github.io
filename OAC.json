@@ -727,6 +727,24 @@
                                           "sceneId": "B450",
                                           "targetPitch": 0,
                                           "targetYaw": 0
+                                        },
+                                        {
+                                          "pitch": -1.30,
+                                          "yaw": 130.87,
+                                          "type": "scene",
+                                          "text": "Voice Studio",
+                                          "sceneId": "voice",
+                                          "targetPitch": 0,
+                                          "targetYaw": 0
+                                        },
+                                        {
+                                          "pitch": -1.17,
+                                          "yaw": 235.51,
+                                          "type": "scene",
+                                          "text": "Voice Studio",
+                                          "sceneId": "voice",
+                                          "targetPitch": 0,
+                                          "targetYaw": 0
                                         }
                                       ]
                           },
