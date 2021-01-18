@@ -1061,7 +1061,27 @@
                                       "tileResolution": 512,
                                       "maxLevel": 5,
                                       "cubeResolution": 8048
-                                      }
+                                      },
+                          "hotSpots": [
+                                        {
+                                          "pitch": -3.65,
+                                          "yaw": -120.57,
+                                          "type": "scene",
+                                          "text": "Green Room",
+                                          "sceneId": "GRoom",
+                                          "targetPitch": 0,
+                                          "targetYaw": 0
+                                        },
+                                        {
+                                          "pitch": -3.54,
+                                          "yaw": -58.91,
+                                          "type": "scene",
+                                          "text": "Green Room",
+                                          "sceneId": "GRoom",
+                                          "targetPitch": 0,
+                                          "targetYaw": 0
+                                        }
+                                      ]
                           },
                           
                 "B450": {
