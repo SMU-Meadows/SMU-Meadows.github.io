@@ -274,7 +274,7 @@
                                         "pitch": 22.59,
                                         "yaw": -180.65,
                                         "type": "scene",
-                                        "text": "Music Ed breakroom",
+                                        "text": "Music Ed Breakroom",
                                         "sceneId": "break",
                                         "targetPitch": 0,
                                         "targetYaw": 0
@@ -1216,7 +1216,18 @@
                                       "tileResolution": 512,
                                       "maxLevel": 5,
                                       "cubeResolution": 8048
-                                      }
+                                      },
+                          "hotSpots": [
+                                        {
+                                          "pitch": -6.59,
+                                          "yaw": 141.69,
+                                          "type": "scene",
+                                          "text": "Music Ed Breakroom",
+                                          "sceneId": "break",
+                                          "targetPitch": 0,
+                                          "targetYaw": 0
+                                        }
+                                      ]
                           },
                           
                 "DHallLights": {
