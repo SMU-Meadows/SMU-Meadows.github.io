@@ -565,8 +565,8 @@
                                           "text": "All of our dance technique classes have in person accompaniment by staff pianists, percussionists, or both."
                                         },
                                         {
-                                          "pitch": 9.14,
-                                          "yaw": -122.40,
+                                          "pitch": 11.80,
+                                          "yaw": -125.31,
                                           "type": "scene",
                                           "text": "Taubman Atrium",
                                           "sceneId": "taubman",
@@ -592,8 +592,8 @@
                                           "targetYaw": 0
                                         },
                                         {
-                                          "pitch": 7.53,
-                                          "yaw": -128.50,
+                                          "pitch": 6.84,
+                                          "yaw": -129.03,
                                           "type": "scene",
                                           "text": "Kathy Bates",
                                           "sceneId": "bates",
@@ -606,6 +606,15 @@
                                           "type": "scene",
                                           "text": "Costume Shop",
                                           "sceneId": "costuming",
+                                          "targetPitch": 0,
+                                          "targetYaw": 0
+                                        },
+                                        {
+                                          "pitch": 7.46,
+                                          "yaw": -121.54,
+                                          "type": "scene",
+                                          "text": "B150",
+                                          "sceneId": "B150",
                                           "targetPitch": 0,
                                           "targetYaw": 0
                                         }
