@@ -1190,7 +1190,7 @@
                                           "pitch": 5.01,
                                           "yaw": 55.96,
                                           "type": "scene",
-                                          "text": "Piano Practice Space",
+                                          "text": "Rehearsal Room",
                                           "sceneId": "piano",
                                           "targetPitch": 0,
                                           "targetYaw": 0
@@ -1210,7 +1210,18 @@
                                       "tileResolution": 512,
                                       "maxLevel": 5,
                                       "cubeResolution": 8048
-                                      }
+                                      },
+                          "hotSpots": [
+                                        {
+                                          "pitch": -5.02,
+                                          "yaw": 54.89,
+                                          "type": "scene",
+                                          "text": "Kathy Bates",
+                                          "sceneId": "bates",
+                                          "targetPitch": 0,
+                                          "targetYaw": 0
+                                        }
+                                      ]
                           },
                           
                 "MTherapy": {
