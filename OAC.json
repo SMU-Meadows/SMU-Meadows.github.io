@@ -664,6 +664,15 @@
                                           "sceneId": "jones",
                                           "targetPitch": 0,
                                           "targetYaw": 0
+                                        },
+                                        {
+                                          "pitch": -0.61,
+                                          "yaw": -94.83,
+                                          "type": "scene",
+                                          "text": "B450",
+                                          "sceneId": "B450",
+                                          "targetPitch": 0,
+                                          "targetYaw": 0
                                         }
                                       ]
                           },
