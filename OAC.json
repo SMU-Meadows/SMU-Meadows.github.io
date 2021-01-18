@@ -1157,7 +1157,36 @@
                                       "tileResolution": 512,
                                       "maxLevel": 5,
                                       "cubeResolution": 8048
-                                      }
+                                      },
+                          "hotSpots": [
+                                        {
+                                          "pitch": -2.34,
+                                          "yaw": 93.65,
+                                          "type": "scene",
+                                          "text": "Green Room",
+                                          "sceneId": "GRoom",
+                                          "targetPitch": 0,
+                                          "targetYaw": 0
+                                        },
+                                        {
+                                          "pitch": -4.57,
+                                          "yaw": 239.28,
+                                          "type": "scene",
+                                          "text": "Sharp Studio",
+                                          "sceneId": "sharp",
+                                          "targetPitch": 0,
+                                          "targetYaw": 0
+                                        },
+                                        {
+                                          "pitch": -4.12,
+                                          "yaw": 249.54,
+                                          "type": "scene",
+                                          "text": "B150",
+                                          "sceneId": "B150",
+                                          "targetPitch": 0,
+                                          "targetYaw": 0
+                                        }
+                                      ]
                           }
                      
             }
