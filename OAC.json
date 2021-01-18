@@ -1204,7 +1204,7 @@
                                       }
                           },
                           
-                "musicTherapy": {
+                "MTherapy": {
                           "title": "Music Therapy Clinic",
                           "author": "",
                           "northOffset": 180,
@@ -1281,7 +1281,27 @@
                                       "tileResolution": 512,
                                       "maxLevel": 5,
                                       "cubeResolution": 8048
-                                      }
+                                      },
+                          "hotSpots": [
+                                        {
+                                          "pitch": -7.97,
+                                          "yaw": 197.05,
+                                          "type": "scene",
+                                          "text": "Music Therapy",
+                                          "sceneId": "MTherapy",
+                                          "targetPitch": 0,
+                                          "targetYaw": 0
+                                        },
+                                        {
+                                          "pitch": -10.29,
+                                          "yaw": 6.48,
+                                          "type": "scene",
+                                          "text": "Taubman Atrium",
+                                          "sceneId": "taubman",
+                                          "targetPitch": 0,
+                                          "targetYaw": 0
+                                        }
+                                      ]
                           },
                           
                 "choir": {
