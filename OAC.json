@@ -617,8 +617,11 @@
                                         {
                                           "pitch": -2.05,
                                           "yaw": 93.84,
-                                          "type": "info",
-                                          "text": "Costumes for dance, theatre, and opera are professionally designed, built, and fitted for our students in our costume shop."
+                                          "type": "scene",
+                                          "text": "Costume Shop",
+                                          "sceneId": "costuming",
+                                          "targetPitch": 0,
+                                          "targetYaw": 0
                                         },
                                         {
                                           "pitch": -1.25,
@@ -1144,7 +1147,7 @@
                           
                 "costuming": {
                           "title": "Costume Shop",
-                          "author": "",
+                          "author": "Costumes for dance, theatre, and opera are professionally designed, built, and fitted for our students in our costume shop.",
                           "northOffset": -90,
                           "multiRes": {
                                       "basePath": "img/panos/costuming",
