@@ -1095,9 +1095,67 @@
                                           "URL": "https://meadowstour.com/DHLights"
                                         }
                                       ]
+                          },
+                          
+                "band": {
+                          "title": "Band Hall",
+                          "author": "",
+                          "northOffset": 180,
+                          "multiRes": {
+                                      "basePath": "img/panos/band",
+                                      "path": "/%l/%s%y_%x",
+                                      "fallbackPath": "/fallback/%s",
+                                      "extension": "jpg",
+                                      "tileResolution": 512,
+                                      "maxLevel": 5,
+                                      "cubeResolution": 8048
+                                      }
+                          },
+                          
+                "break": {
+                          "title": "Music Ed breakroom",
+                          "author": "",
+                          "northOffset": -90,
+                          "multiRes": {
+                                      "basePath": "img/panos/break",
+                                      "path": "/%l/%s%y_%x",
+                                      "fallbackPath": "/fallback/%s",
+                                      "extension": "jpg",
+                                      "tileResolution": 512,
+                                      "maxLevel": 5,
+                                      "cubeResolution": 8048
+                                      }
+                          },
+                          
+                "choir": {
+                          "title": "Choir Hall",
+                          "author": "",
+                          "northOffset": 180,
+                          "multiRes": {
+                                      "basePath": "img/panos/choir",
+                                      "path": "/%l/%s%y_%x",
+                                      "fallbackPath": "/fallback/%s",
+                                      "extension": "jpg",
+                                      "tileResolution": 512,
+                                      "maxLevel": 5,
+                                      "cubeResolution": 8048
+                                      }
+                          },
+                          
+                "costuming": {
+                          "title": "Costume Shop",
+                          "author": "",
+                          "northOffset": -90,
+                          "multiRes": {
+                                      "basePath": "img/panos/costuming",
+                                      "path": "/%l/%s%y_%x",
+                                      "fallbackPath": "/fallback/%s",
+                                      "extension": "jpg",
+                                      "tileResolution": 512,
+                                      "maxLevel": 5,
+                                      "cubeResolution": 8048
+                                      }
                           }
-
-
                      
             }
             
