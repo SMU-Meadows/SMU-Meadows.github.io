@@ -1119,7 +1119,27 @@
                                       "tileResolution": 512,
                                       "maxLevel": 5,
                                       "cubeResolution": 8048
-                                      }
+                                      },
+                          "hotSpots": [
+                                        {
+                                          "pitch": -2.53,
+                                          "yaw": -34.69,
+                                          "type": "scene",
+                                          "text": "B150",
+                                          "sceneId": "B150",
+                                          "targetPitch": 0,
+                                          "targetYaw": 0
+                                        },
+                                        {
+                                          "pitch": 5.07,
+                                          "yaw": 46.51,
+                                          "type": "scene",
+                                          "text": "Sharp Studio",
+                                          "sceneId": "sharp",
+                                          "targetPitch": 0,
+                                          "targetYaw": 0
+                                        }
+                                      ]
                           },
                           
                 "piano": {
