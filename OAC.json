@@ -1075,7 +1075,36 @@
                                       "tileResolution": 512,
                                       "maxLevel": 5,
                                       "cubeResolution": 8048
-                                      }
+                                      },
+                          "hotSpots": [
+                                        {
+                                          "pitch": 5.50,
+                                          "yaw": 39.84,
+                                          "type": "scene",
+                                          "text": "Costume Shop",
+                                          "sceneId": "costuming",
+                                          "targetPitch": 0,
+                                          "targetYaw": 0
+                                        },
+                                        {
+                                          "pitch": 6.19,
+                                          "yaw": 48.49,
+                                          "type": "scene",
+                                          "text": "Sharp Studio",
+                                          "sceneId": "sharp",
+                                          "targetPitch": 0,
+                                          "targetYaw": 0
+                                        },
+                                        {
+                                          "pitch": -4.80,
+                                          "yaw": -115.61,
+                                          "type": "scene",
+                                          "text": "Kathy Bates",
+                                          "sceneId": "bates",
+                                          "targetPitch": 0,
+                                          "targetYaw": 0
+                                        }
+                                      ]
                           },
                           
                 "Bates": {
