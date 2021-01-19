@@ -1421,6 +1421,21 @@
                                           "targetYaw": 0
                                         }
                                       ]
+                          },
+                          
+                "bandOffice": {
+                          "title": "Band Office",
+                          "author": "",
+                          "northOffset": 180,
+                          "multiRes": {
+                                      "basePath": "img/panos/bandOffice",
+                                      "path": "/%l/%s%y_%x",
+                                      "fallbackPath": "/fallback/%s",
+                                      "extension": "jpg",
+                                      "tileResolution": 512,
+                                      "maxLevel": 5,
+                                      "cubeResolution": 8048
+                                      }
                           }
                      
             }
