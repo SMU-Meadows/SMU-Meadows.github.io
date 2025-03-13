@@ -896,7 +896,7 @@
       "author": "We teach both aquatint and intaglio printing techniques; both use etched copper plates to transfer ink to paper.",
       "northOffset": -180,
       "multiRes": {
-        "basePath": "img/panos/printmaking",
+        "basePath": "img/panos/printmaking2",
         "path": "/%l/%s%y_%x",
         "fallbackPath": "/fallback/%s",
         "extension": "jpg",
@@ -1502,6 +1502,48 @@
       "northOffset": 180,
       "multiRes": {
         "basePath": "img/panos/lounge",
+        "path": "/%l/%s%y_%x",
+        "fallbackPath": "/fallback/%s",
+        "extension": "jpg",
+        "tileResolution": 512,
+        "maxLevel": 5,
+        "cubeResolution": 8048
+      }
+    },
+    "moussa": {
+      "title": "Moussa Foundation Studio",
+      "author": "",
+      "northOffset": 180,
+      "multiRes": {
+        "basePath": "img/panos/moussa",
+        "path": "/%l/%s%y_%x",
+        "fallbackPath": "/fallback/%s",
+        "extension": "jpg",
+        "tileResolution": 512,
+        "maxLevel": 5,
+        "cubeResolution": 8048
+      }
+    },
+    "sextonArt3rdW": {
+      "title": "Sexton Family Art Studio",
+      "author": "",
+      "northOffset": 180,
+      "multiRes": {
+        "basePath": "img/panos/sextonArt3rdW",
+        "path": "/%l/%s%y_%x",
+        "fallbackPath": "/fallback/%s",
+        "extension": "jpg",
+        "tileResolution": 512,
+        "maxLevel": 5,
+        "cubeResolution": 8048
+      }
+    },
+    "UGStudio": {
+      "title": "Surls Undergraduate Art Studios",
+      "author": "",
+      "northOffset": 180,
+      "multiRes": {
+        "basePath": "img/panos/UGStudio",
         "path": "/%l/%s%y_%x",
         "fallbackPath": "/fallback/%s",
         "extension": "jpg",
