@@ -1415,7 +1415,7 @@
     "coxPainting3rdE": {
       "title": "Cox Painting Studio",
       "author": "",
-      "northOffset": 180,
+      "northOffset": 0,
       "multiRes": {
         "basePath": "img/panos/coxPainting3rdE",
         "path": "/%l/%s%y_%x",
@@ -1429,7 +1429,7 @@
     "crComp": {
       "title": "Sexton Family Creative Computation Suite",
       "author": "",
-      "northOffset": 180,
+      "northOffset": 90,
       "multiRes": {
         "basePath": "img/panos/crComp",
         "path": "/%l/%s%y_%x",
@@ -1457,7 +1457,7 @@
     "digimaging": {
       "title": "digital imaging lab",
       "author": "",
-      "northOffset": 180,
+      "northOffset": 0,
       "multiRes": {
         "basePath": "img/panos/digimaging",
         "path": "/%l/%s%y_%x",
@@ -1471,7 +1471,7 @@
     "drawing2nd": {
       "title": "drawing studio",
       "author": "",
-      "northOffset": 180,
+      "northOffset": 177,
       "multiRes": {
         "basePath": "img/panos/drawing2nd",
         "path": "/%l/%s%y_%x",
@@ -1485,7 +1485,7 @@
     "jordan": {
       "title": "Jordan Gallery",
       "author": "",
-      "northOffset": 180,
+      "northOffset": -90,
       "multiRes": {
         "basePath": "img/panos/jordan",
         "path": "/%l/%s%y_%x",
@@ -1499,7 +1499,7 @@
     "lounge": {
       "title": "Altabef Student Lounge",
       "author": "",
-      "northOffset": 180,
+      "northOffset": 0,
       "multiRes": {
         "basePath": "img/panos/lounge",
         "path": "/%l/%s%y_%x",
@@ -1513,7 +1513,7 @@
     "moussa": {
       "title": "Moussa Foundation Studio",
       "author": "",
-      "northOffset": 180,
+      "northOffset": 0,
       "multiRes": {
         "basePath": "img/panos/moussa",
         "path": "/%l/%s%y_%x",
@@ -1527,7 +1527,7 @@
     "sextonArt3rdW": {
       "title": "Sexton Family Art Studio",
       "author": "",
-      "northOffset": 180,
+      "northOffset": 0,
       "multiRes": {
         "basePath": "img/panos/sextonArt3rdW",
         "path": "/%l/%s%y_%x",
@@ -1541,7 +1541,7 @@
     "UGStudio": {
       "title": "Surls Undergraduate Art Studios",
       "author": "",
-      "northOffset": 180,
+      "northOffset": 0,
       "multiRes": {
         "basePath": "img/panos/UGStudio",
         "path": "/%l/%s%y_%x",
