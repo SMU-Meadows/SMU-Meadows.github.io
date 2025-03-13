@@ -1430,7 +1430,52 @@
                                       "maxLevel": 5,
                                       "cubeResolution": 8048
                                       }
-                          }
+                          },
+                          
+                "artHist": {
+                          "title": "Lemmon Classroom",
+                          "author": "",
+                          "northOffset": 180,
+                          "multiRes": {
+                                      "basePath": "img/panos/artHist",
+                                      "path": "/%l/%s%y_%x",
+                                      "fallbackPath": "/fallback/%s",
+                                      "extension": "jpg",
+                                      "tileResolution": 512,
+                                      "maxLevel": 5,
+                                      "cubeResolution": 8048
+                                      }
+                          },
+
+                "coxPainting3rdE": {
+                  "title": "Cox Painting Studio",
+                  "author": "",
+                  "northOffset": 180,
+                  "multiRes": {
+                              "basePath": "img/panos/coxPainting3rdE",
+                              "path": "/%l/%s%y_%x",
+                              "fallbackPath": "/fallback/%s",
+                              "extension": "jpg",
+                              "tileResolution": 512,
+                              "maxLevel": 5,
+                              "cubeResolution": 8048
+                              }
+                  },
+
+                  "crComp": {
+                    "title": "Sexton Family Creative Computation Suite",
+                    "author": "",
+                    "northOffset": 180,
+                    "multiRes": {
+                                "basePath": "img/panos/crComp",
+                                "path": "/%l/%s%y_%x",
+                                "fallbackPath": "/fallback/%s",
+                                "extension": "jpg",
+                                "tileResolution": 512,
+                                "maxLevel": 5,
+                                "cubeResolution": 8048
+                                }
+                    }
                      
             }
             
