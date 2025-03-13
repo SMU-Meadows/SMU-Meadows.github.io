@@ -1,1482 +1,1514 @@
 {
   "default": {
-              "sceneFadeDuration": 750,
-              "autoLoad": true,
-              "hfov": 105.0,
-              "type": "multires",
-              "compass": true,
-              "hotSpotDebug": true,
-              "autoRotate": -1
-              },
-  
+    "sceneFadeDuration": 750,
+    "autoLoad": true,
+    "hfov": 105.0,
+    "type": "multires",
+    "compass": true,
+    "hotSpotDebug": false,
+    "autoRotate": -1
+  },
   "scenes": {
-    
-            "HLobby": {
-                        "title": "Bob Hope Lobby",
-                        "author": "Not only is this space a grand entrance for the building, but several events are held here, including our Dance Brown Bag series.",
-                        "northOffset": -89.9,
-                        "multiRes": {
-                                    "basePath": "img/panos/HLobby",
-                                    "path": "/%l/%s%y_%x",
-                                    "fallbackPath": "/fallback/%s",
-                                    "extension": "jpg",
-                                    "tileResolution": 512,
-                                    "maxLevel": 5,
-                                    "cubeResolution": 8048
-                                     },
-                        "hotSpots": [
-                                     {
-                                      "type": "info",
-                                      "text": "Radio, movie, and TV star Bob Hope was not an alumnus of SMU but was a longtime friend. In the 1960s, Hope made generous donations to SMU for the development of the namesake theatre, now located inside the Owen Arts Center. Since its opening in 1968, performances on the Hope stage have prepared hundreds of theatre, dance, film, and music students for their careers.",
-                                      "pitch": -1.26,
-                                      "yaw": -0.1
-                                     },
-                                     {
-                                      "type": "info",
-                                      "text": "4K cameras in the lobby allow for live streaming performances and providing students with HD footage of their work for their reels and websites.",
-                                      "pitch": 21.02,
-                                      "yaw": -28.53
-                                     },
-                                     {
-                                      "type": "scene",
-                                      "text": "Bob Hope Theatre",
-                                      "sceneId": "HopeSMU",
-                                      "targetPitch": 0,
-                                      "targetYaw": 31,
-                                      "pitch": -1.5,
-                                      "yaw": -29
-                                      },
-                                     {
-                                      "type": "scene",
-                                      "text": "Owen Arts Center Entrance",
-                                      "sceneId": "steps",
-                                      "targetPitch": 0,
-                                      "targetYaw": "sameAzimuth",
-                                      "pitch": -1,
-                                      "yaw": 177.7
-                                      },
-                                     {
-                                      "type": "scene",
-                                      "text": "Caruth Auditorium",
-                                      "sceneId": "caruth",
-                                      "targetPitch": 0,
-                                      "targetYaw": 0,
-                                      "pitch": -0.5,
-                                      "yaw": -94.6
-                                      },
-                                     {
-                                      "type": "scene",
-                                      "text": "Taubman Atrium",
-                                      "sceneId": "taubman",
-                                      "targetPitch": 0,
-                                      "targetYaw": 0,
-                                      "pitch": -0.5,
-                                      "yaw": -54
-                                      },
-                                     {
-                                      "type": "scene",
-                                      "text": "Doolin Gallery",
-                                      "sceneId": "doolin",
-                                      "targetPitch": 0,
-                                      "targetYaw": 0,
-                                      "pitch": -2.24,
-                                      "yaw": 53.93
-                                      }
-                                    ]
-                          },
-                          
-            "HopeSMU": {
-                        "title": "Bob Hope Theatre",
-                        "author": "Used primarily for dance concerts and operas, this 392-seat venue is ideal for grand-scale productions, and features a proscenium stage, clear sightline seating and a hydraulic orchestra pit.",
-                        "northOffset": -119,
-                        "multiRes": {
-                                    "basePath": "img/panos/HopeSMU",
-                                    "path": "/%l/%s%y_%x",
-                                    "fallbackPath": "/fallback/%s",
-                                    "extension": "jpg",
-                                    "tileResolution": 512,
-                                    "maxLevel": 4,
-                                    "cubeResolution": 3904
-                                     },
-                        "hotSpots": [
-                                     {
-                                      "pitch": 12.98,
-                                      "yaw": 152.80,
-                                      "type": "info",
-                                      "text": "4K cameras in the theater allow for live streaming performances, and providing students with HD footage of their work for their reels and websites."
-                                     },
-                                     {
-                                      "pitch": 3.5,
-                                      "yaw": -129.5,
-                                      "type": "scene",
-                                      "text": "Hope Lobby",
-                                      "sceneId": "HLobby",
-                                      "targetPitch": 0,
-                                      "targetYaw": 0
-                                      },
-                                      {
-                                      "pitch": -19.95,
-                                      "yaw": 57.87,
-                                      "type": "scene",
-                                      "text": "Green Room",
-                                      "sceneId": "GRoom",
-                                      "targetPitch": 0,
-                                      "targetYaw": 0
-                                      },
-                                      {
-                                      "pitch": 7.63,
-                                      "yaw": 60.43,
-                                      "type": "scene",
-                                      "text": "Margo Jones Theatre",
-                                      "sceneId": "jones",
-                                      "targetPitch": 0,
-                                      "targetYaw": 0
-                                      }
-                                    ]
-                          },
-                          
-             "steps": {
-                        "title": "Owen Arts Center Entrance",
-                        "author": "Once the original site of the Meadows Museum, the Owen Arts Center houses the Meadows academic areas of music, theatre, dance, art, art history, creative computing, arts management, and arts entrepreneurship.",
-                        "northOffset": -266.68,
-                        "multiRes": {
-                                    "basePath": "img/panos/steps",
-                                    "path": "/%l/%s%y_%x",
-                                    "fallbackPath": "/fallback/%s",
-                                    "extension": "jpg",
-                                    "tileResolution": 512,
-                                    "maxLevel": 4,
-                                    "cubeResolution": 3904
-                                     },
-                        "hotSpots": [
-                                     {
-                                      "pitch": 2.6,
-                                      "yaw": 175.7,
-                                      "type": "scene",
-                                      "text": "Hope lobby",
-                                      "sceneId": "HLobby",
-                                      "targetPitch": 0,
-                                      "targetYaw": "sameAzimuth"
-                                      }
-                                    ]
-                          },
-                          
-            "caruth": {
-                        "title": "Caruth Auditorium",
-                        "author": "Our 490-seat concert hall is used for student and faculty recitals, symphonic concerts, and choral concerts.",
-                        "northOffset": 181.23,
-                        "multiRes": {
-                                    "basePath": "img/panos/caruth",
-                                    "path": "/%l/%s%y_%x",
-                                    "fallbackPath": "/fallback/%s",
-                                    "extension": "jpg",
-                                    "tileResolution": 512,
-                                    "maxLevel": 5,
-                                    "cubeResolution": 8048
-                                    },
-                        "hotSpots": [
-                                      {
-                                        "pitch": 4.55,
-                                        "yaw": 0.0,
-                                        "type": "info",
-                                        "text": "This magnificent C.B. Fisk Opus 101 organ features 3,681 pipes and 51 stops."
-                                      },
-                                      {
-                                        "pitch": 10,
-                                        "yaw": -90.62,
-                                        "type": "info",
-                                        "text": "The louvers on the walls of the hall can be opened or closed depending on the acoustical needs of the performance."
-                                      },
-                                      {
-                                        "pitch": 24.07,
-                                        "yaw": 182.45,
-                                        "type": "info",
-                                        "text": "4K cameras in the auditorium allow for live streaming performances and providing students with HD footage of their work for their reels and websites."
-                                      },
-                                      {
-                                        "pitch": 16.62,
-                                        "yaw": 178.77,
-                                        "type": "scene",
-                                        "text": "Hope Lobby",
-                                        "sceneId": "HLobby",
-                                        "targetPitch": 0,
-                                        "targetYaw": 0
-                                      },
-                                      {
-                                        "pitch": -5.83,
-                                        "yaw": 57.56,
-                                        "type": "scene",
-                                        "text": "Sharp Studio",
-                                        "sceneId": "sharp",
-                                        "targetPitch": 0,
-                                        "targetYaw": 0
-                                      }
-                                    ]
-                          },
-                          
-            "taubman": {
-                        "title": "Taubman Atrium",
-                        "author": "This skylight-filled room has plenty of comfortable furniture and reading areas where students can work on projects in a social and collaborative space. Casual musical performances are also held here periodically throughout the year.",
-                        "northOffset": -90.65,
-                        "multiRes": {
-                                    "basePath": "img/panos/taubman",
-                                    "path": "/%l/%s%y_%x",
-                                    "fallbackPath": "/fallback/%s",
-                                    "extension": "jpg",
-                                    "tileResolution": 512,
-                                    "maxLevel": 5,
-                                    "cubeResolution": 8048
-                                    },
-                        "hotSpots": [
-                                      {
-                                        "pitch": 1.52,
-                                        "yaw": -54.84,
-                                        "type": "info",
-                                        "text": "SMU Dining’s Provision On Demand, or P.O.D., provides students access to quick snacks, beverages, and meals between classes, rehearsals, and study sessions."
-                                      },
-                                      {
-                                        "pitch": 20.47,
-                                        "yaw": -30.99,
-                                        "type": "scene",
-                                        "text": "O'Donnell Hall",
-                                        "sceneId": "ODonnell",
-                                        "targetPitch": 0,
-                                        "targetYaw": 0
-                                      },
-                                      {
-                                        "pitch": -1.01,
-                                        "yaw": 148.88,
-                                        "type": "scene",
-                                        "text": "Bob Hope Lobby",
-                                        "sceneId": "HLobby",
-                                        "targetPitch": 0,
-                                        "targetYaw": 0
-                                      },
-                                      {
-                                        "pitch": -2.22,
-                                        "yaw": 23.39,
-                                        "type": "scene",
-                                        "text": "Sharp Studio",
-                                        "sceneId": "sharp",
-                                        "targetPitch": 0,
-                                        "targetYaw": 0
-                                      },
-                                      {
-                                        "pitch": -0.31,
-                                        "yaw": -148.12,
-                                        "type": "scene",
-                                        "text": "Band Hall",
-                                        "sceneId": "band",
-                                        "targetPitch": 0,
-                                        "targetYaw": 0
-                                      },
-                                      {
-                                        "pitch": 22.59,
-                                        "yaw": -180.65,
-                                        "type": "scene",
-                                        "text": "Music Ed Breakroom",
-                                        "sceneId": "break",
-                                        "targetPitch": 0,
-                                        "targetYaw": 0
-                                      },
-                                      {
-                                        "pitch": 0.24,
-                                        "yaw": -31.95,
-                                        "type": "scene",
-                                        "text": "Choir Hall",
-                                        "sceneId": "choir",
-                                        "targetPitch": 0,
-                                        "targetYaw": 0
-                                      }
-                                    ]
-                          },
-                          
-            "ODonnell": {
-                          "title": "O'Donnell Hall",
-                          "author": "Faculty and students employ the versatile, 168-seat O'Donnell Hall as a classroom, lecture hall, recital hall and screening room for music, art history, photography and advertising classes and seminars.",
-                          "northOffset": 90.0,
-                          "multiRes": {
-                                      "basePath": "img/panos/ODonnell",
-                                      "path": "/%l/%s%y_%x",
-                                      "fallbackPath": "/fallback/%s",
-                                      "extension": "jpg",
-                                      "tileResolution": 512,
-                                      "maxLevel": 5,
-                                      "cubeResolution": 8048
-                                      },
-                          "hotSpots": [
-                                        {
-                                          "pitch": -13.51,
-                                          "yaw": 6.0,
-                                          "type": "info",
-                                          "text": "The Fazioli 228 at the front of the hall, a 7’6 semi-concert grand, is played mainly for student chamber music and solo recitals."
-                                        },
-                                        {
-                                          "pitch": 28.22,
-                                          "yaw": 180,
-                                          "type": "info",
-                                          "text": "4K cameras in the hall allow for live streaming performances and providing students with HD footage of their work for their reels and websites."
-                                        },
-                                        {
-                                          "pitch": -11.47,
-                                          "yaw": -40.17,
-                                          "type": "scene",
-                                          "text": "Taubman Atrium",
-                                          "sceneId": "taubman",
-                                          "targetPitch": 0,
-                                          "targetYaw": 0
-                                        }
-                                      ]
-                          },
-                          
-               "doolin": {
-                          "title": "Doolin Gallery",
-                          "author": "This space is predominantly used as a critique gallery where students install their work then discuss as a class. Students can also reserve the space for finals and to put on their own exhibitions.",
-                          "northOffset": 0.1,
-                          "multiRes": {
-                                      "basePath": "img/panos/doolin2",
-                                      "path": "/%l/%s%y_%x",
-                                      "fallbackPath": "/fallback/%s",
-                                      "extension": "jpg",
-                                      "tileResolution": 512,
-                                      "maxLevel": 5,
-                                      "cubeResolution": 8048
-                                      },
-                          "hotSpots": [
-                                        {
-                                          "pitch": -0.37,
-                                          "yaw": 138.0,
-                                          "type": "scene",
-                                          "text": "Bob Hope Lobby",
-                                          "sceneId": "HLobby",
-                                          "targetPitch": 0,
-                                          "targetYaw": 0
-                                        },
-                                        {
-                                          "pitch": -7.27,
-                                          "yaw": 130.05,
-                                          "type": "scene",
-                                          "text": "Woodshop",
-                                          "sceneId": "woodshop",
-                                          "targetPitch": 0,
-                                          "targetYaw": 0
-                                        },
-                                        {
-                                          "pitch": -0.22,
-                                          "yaw": 241.1,
-                                          "type": "scene",
-                                          "text": "Dance Studio 1430",
-                                          "sceneId": "dance",
-                                          "targetPitch": 0,
-                                          "targetYaw": 0
-                                        },
-                                        {
-                                          "pitch": 4.07,
-                                          "yaw": 129.92,
-                                          "type": "scene",
-                                          "text": "Painting Studio",
-                                          "sceneId": "painting",
-                                          "targetPitch": 0,
-                                          "targetYaw": 0
-                                        }
-                                      ]
-                          },
-                          
-             "woodshop": {
-                          "title": "Woodshop",
-                          "author": "In our woodshop, students have access to electric saws, drills, and sanders. We also have a variety of hand tools such as chisels, planes, hand saws, etc.",
-                          "northOffset": 0.0,
-                          "multiRes": {
-                                      "basePath": "img/panos/woodshop",
-                                      "path": "/%l/%s%y_%x",
-                                      "fallbackPath": "/fallback/%s",
-                                      "extension": "jpg",
-                                      "tileResolution": 512,
-                                      "maxLevel": 5,
-                                      "cubeResolution": 8048
-                                      },
-                          "hotSpots": [
-                                        {
-                                          "pitch": -14.85,
-                                          "yaw": 54.56,
-                                          "type": "info",
-                                          "text": "Our SawStop table saw has a key safety feature: When the blade senses skin, it stops spinning in less than 5 milliseconds, retracts beneath the table, and removes the risk of subsequent contact."
-                                        },
-                                        {
-                                          "pitch": -4.32,
-                                          "yaw": 77.10,
-                                          "type": "info",
-                                          "text": "We have a 3-axis CNC (Computer Numeric Control) machine that uses a high-powered spindle to carve wood, foam, plexiglass, and some softer metals like brass and aluminum."
-                                        },
-                                        {
-                                          "pitch": -2.35,
-                                          "yaw": 0.04,
-                                          "type": "scene",
-                                          "text": "Foundry",
-                                          "sceneId": "foundry",
-                                          "targetPitch": 0,
-                                          "targetYaw": 0
-                                        },
-                                        {
-                                          "pitch": -2.12,
-                                          "yaw": 80.77,
-                                          "type": "scene",
-                                          "text": "Doolin Fabrication Lab",
-                                          "sceneId": "DFLab",
-                                          "targetPitch": 0,
-                                          "targetYaw": 0
-                                        },
-                                        {
-                                          "pitch": -5.34,
-                                          "yaw": -158.18,
-                                          "type": "scene",
-                                          "text": "Green Room",
-                                          "sceneId": "GRoom",
-                                          "targetPitch": 0,
-                                          "targetYaw": 0
-                                        },
-                                        {
-                                          "pitch": -6.16,
-                                          "yaw": -185.47,
-                                          "type": "scene",
-                                          "text": "Printmaking Studio",
-                                          "sceneId": "printmaking",
-                                          "targetPitch": 0,
-                                          "targetYaw": 0
-                                        },
-                                        {
-                                          "pitch": 4.32,
-                                          "yaw": 189.14,
-                                          "type": "scene",
-                                          "text": "Doolin Gallery",
-                                          "sceneId": "doolin",
-                                          "targetPitch": 0,
-                                          "targetYaw": 0
-                                        }
-                                      ]
-                          },
-                          
-              "foundry": {
-                          "title": "Foundry",
-                          "author": "This is where we cast bronze through a \"lost-wax\" process, in which wax objects are crafted and covered in a ceramic shell, then the wax is melted out of the shell. The shell is then placed in a furnace before it is filled with molten bronze or aluminum.",
-                          "northOffset": 0.0,
-                          "multiRes": {
-                                      "basePath": "img/panos/foundry",
-                                      "path": "/%l/%s%y_%x",
-                                      "fallbackPath": "/fallback/%s",
-                                      "extension": "jpg",
-                                      "tileResolution": 512,
-                                      "maxLevel": 5,
-                                      "cubeResolution": 8048
-                                      },
-                          "hotSpots": [
-                                        {
-                                          "pitch": -3.48,
-                                          "yaw": -320.04,
-                                          "type": "info",
-                                          "text": "This is the outdoor spray booth for spraying glazes onto ceramic work."
-                                        },
-                                        {
-                                          "pitch": -2.62,
-                                          "yaw": 94.58,
-                                          "type": "info",
-                                          "text": "This mixer makes clay from dry materials."
-                                        },
-                                        {
-                                          "pitch": -2.33,
-                                          "yaw": 62.04,
-                                          "type": "info",
-                                          "text": "This is one of two of our large gas kilns. It is also used for processes like raku that create a lot of smoke and cannot be done inside."
-                                        },
-                                        {
-                                          "pitch": -1.63,
-                                          "yaw": -86.50,
-                                          "type": "scene",
-                                          "text": "Woodshop",
-                                          "sceneId": "woodshop",
-                                          "targetPitch": 0,
-                                          "targetYaw": 0
-                                        },
-                                        {
-                                          "pitch": -2.84,
-                                          "yaw": -235.88,
-                                          "type": "scene",
-                                          "text": "Ceramics Studio",
-                                          "sceneId": "ceramics",
-                                          "targetPitch": "same",
-                                          "targetYaw": "sameAzimuth"
-                                        }
-                                      ]
-                          },
-                          
-              "ceramics": {
-                          "title": "Ceramics Studio",
-                          "author": "This classroom features manual and electric wheels that can be used sitting or standing to throw pots. Our students mix the clay themselves and typically make stoneware and terracotta clays.",
-                          "northOffset": -180,
-                          "multiRes": {
-                                      "basePath": "img/panos/ceramics",
-                                      "path": "/%l/%s%y_%x",
-                                      "fallbackPath": "/fallback/%s",
-                                      "extension": "jpg",
-                                      "tileResolution": 512,
-                                      "maxLevel": 5,
-                                      "cubeResolution": 8048
-                                      },
-                          "hotSpots": [
-                                        {
-                                          "pitch": -1.18,
-                                          "yaw": 273.79,
-                                          "type": "info",
-                                          "text": "This room is where a selection of premade glazes are kept; students can also create their own glazes."
-                                        },
-                                        {
-                                          "pitch": -5.23,
-                                          "yaw": -283.36,
-                                          "type": "info",
-                                          "text": "This is a small clay mixer that is solely dedicated to making porcelain clay."
-                                        },
-                                        {
-                                          "pitch": -2.84,
-                                          "yaw": 45.66,
-                                          "type": "scene",
-                                          "text": "Printmaking Studio",
-                                          "sceneId": "printmaking",
-                                          "targetPitch": 0,
-                                          "targetYaw": 0
-                                        },
-                                        {
-                                          "pitch": -1.31,
-                                          "yaw": 110.22,
-                                          "type": "scene",
-                                          "text": "Foundry",
-                                          "sceneId": "foundry",
-                                          "targetPitch": "same",
-                                          "targetYaw": "sameAzimuth"
-                                        },
-                                        {
-                                          "pitch": -0.093,
-                                          "yaw": 73.01,
-                                          "type": "scene",
-                                          "text": "Doolin Fabrication Lab",
-                                          "sceneId": "DFLab",
-                                          "targetPitch": 0,
-                                          "targetYaw": 0
-                                        }
-                                      ]
-                          },
-                          
-                "sharp": {
-                          "title": "Sharp Studio",
-                          "author": "The Charles S. Sharp Performing Arts Studio doubles as a performing space and is equipped with an adjustable black traveler, a control booth, state-of-the-art sound equipment, and a theatrical lighting system.",
-                          "northOffset": 0.0,
-                          "multiRes": {
-                                      "basePath": "img/panos/sharp",
-                                      "path": "/%l/%s%y_%x",
-                                      "fallbackPath": "/fallback/%s",
-                                      "extension": "jpg",
-                                      "tileResolution": 512,
-                                      "maxLevel": 5,
-                                      "cubeResolution": 8048
-                                      },
-                          "hotSpots": [
-                                        {
-                                          "pitch": -5.85,
-                                          "yaw": -213.73,
-                                          "type": "info",
-                                          "text": "All of our dance technique classes have in person accompaniment by staff pianists, percussionists, or both."
-                                        },
-                                        {
-                                          "pitch": 11.80,
-                                          "yaw": -125.31,
-                                          "type": "scene",
-                                          "text": "Taubman Atrium",
-                                          "sceneId": "taubman",
-                                          "targetPitch": 0,
-                                          "targetYaw": 0
-                                        },
-                                        {
-                                          "pitch": 5.71,
-                                          "yaw": 125.02,
-                                          "type": "scene",
-                                          "text": "Caruth Auditorium",
-                                          "sceneId": "caruth",
-                                          "targetPitch": 0,
-                                          "targetYaw": 0
-                                        },
-                                        {
-                                          "pitch": 4.29,
-                                          "yaw": -53.88,
-                                          "type": "scene",
-                                          "text": "Green Room",
-                                          "sceneId": "GRoom",
-                                          "targetPitch": 0,
-                                          "targetYaw": 0
-                                        },
-                                        {
-                                          "pitch": 6.84,
-                                          "yaw": -129.03,
-                                          "type": "scene",
-                                          "text": "Kathy Bates",
-                                          "sceneId": "bates",
-                                          "targetPitch": 0,
-                                          "targetYaw": 0
-                                        },
-                                        {
-                                          "pitch": 9.45,
-                                          "yaw": -68.12,
-                                          "type": "scene",
-                                          "text": "Costume Shop",
-                                          "sceneId": "costuming",
-                                          "targetPitch": 0,
-                                          "targetYaw": 0
-                                        },
-                                        {
-                                          "pitch": 7.46,
-                                          "yaw": -121.54,
-                                          "type": "scene",
-                                          "text": "B150",
-                                          "sceneId": "B150",
-                                          "targetPitch": 0,
-                                          "targetYaw": 0
-                                        }
-                                      ]
-                          },
-                          
-                 "GRoom": {
-                          "title": "Green Room",
-                          "author": "The Green Room is where our actors and dancers relax between scenes and classes.",
-                          "northOffset": 90,
-                          "multiRes": {
-                                      "basePath": "img/panos/GRoom",
-                                      "path": "/%l/%s%y_%x",
-                                      "fallbackPath": "/fallback/%s",
-                                      "extension": "jpg",
-                                      "tileResolution": 512,
-                                      "maxLevel": 5,
-                                      "cubeResolution": 8048
-                                      },
-                          "hotSpots": [
-                                        {
-                                          "pitch": 0.69,
-                                          "yaw": 4.27,
-                                          "type": "info",
-                                          "text": "Theatre Division call board: See which students are cast in on-and off-campus productions."
-                                        },
-                                        {
-                                          "pitch": -2.05,
-                                          "yaw": 93.84,
-                                          "type": "scene",
-                                          "text": "Costume Shop",
-                                          "sceneId": "costuming",
-                                          "targetPitch": 0,
-                                          "targetYaw": 0
-                                        },
-                                        {
-                                          "pitch": -1.25,
-                                          "yaw": -86.28,
-                                          "type": "info",
-                                          "text": "The spiral staircases lead to the backstage areas of the Hope Theater and the Margo Jones black box."
-                                        },
-                                        {
-                                          "pitch": -1.21,
-                                          "yaw": 75.90,
-                                          "type": "scene",
-                                          "text": "Sharp Studio",
-                                          "sceneId": "sharp",
-                                          "targetPitch": 0,
-                                          "targetYaw": 0
-                                        },
-                                        {
-                                          "pitch": -1.43,
-                                          "yaw": 294.72,
-                                          "type": "scene",
-                                          "text": "Wood Shop",
-                                          "sceneId": "woodshop",
-                                          "targetPitch": 0,
-                                          "targetYaw": 0
-                                        },
-                                        {
-                                          "pitch": 9.69,
-                                          "yaw": 82.23,
-                                          "type": "scene",
-                                          "text": "Bob Hope Theatre",
-                                          "sceneId": "HopeSMU",
-                                          "targetPitch": 0,
-                                          "targetYaw": 0
-                                        },
-                                        {
-                                          "pitch": 12.02,
-                                          "yaw": 272.38,
-                                          "type": "scene",
-                                          "text": "Margo Jones Theatre",
-                                          "sceneId": "jones",
-                                          "targetPitch": 0,
-                                          "targetYaw": 0
-                                        },
-                                        {
-                                          "pitch": -0.61,
-                                          "yaw": -94.83,
-                                          "type": "scene",
-                                          "text": "B450",
-                                          "sceneId": "B450",
-                                          "targetPitch": 0,
-                                          "targetYaw": 0
-                                        },
-                                        {
-                                          "pitch": -1.30,
-                                          "yaw": 130.87,
-                                          "type": "scene",
-                                          "text": "Voice Studio",
-                                          "sceneId": "voice",
-                                          "targetPitch": 0,
-                                          "targetYaw": 0
-                                        },
-                                        {
-                                          "pitch": -1.17,
-                                          "yaw": 235.51,
-                                          "type": "scene",
-                                          "text": "Voice Studio",
-                                          "sceneId": "voice",
-                                          "targetPitch": 0,
-                                          "targetYaw": 0
-                                        }
-                                      ]
-                          },
-                          
-                "jones": {
-                          "title": "Margo Jones Theatre",
-                          "author": "Theatre and Dance students use the Margo Jones Theatre for contemporary plays and performances, taking full advantage of the intimate, 125-seat black box venue. The flexibility of the space provides student writers and directors with a dynamic setting where they can workshop and perform new plays.",
-                          "northOffset": 0.0,
-                          "multiRes": {
-                                      "basePath": "img/panos/jones",
-                                      "path": "/%l/%s%y_%x",
-                                      "fallbackPath": "/fallback/%s",
-                                      "extension": "jpg",
-                                      "tileResolution": 512,
-                                      "maxLevel": 5,
-                                      "cubeResolution": 8048
-                                      },
-                          "hotSpots": [
-                                        {
-                                          "pitch": -0.54,
-                                          "yaw": -188.26,
-                                          "type": "info",
-                                          "text": "Our professional scene shop is where sets and props are built for theater, opera, and dance productions."
-                                        },
-                                        {
-                                          "pitch": 10.25,
-                                          "yaw": 0.0,
-                                          "type": "scene",
-                                          "text": "Dance Studio 1430",
-                                          "sceneId": "dance",
-                                          "targetPitch": 0,
-                                          "targetYaw": 0
-                                        },
-                                        {
-                                          "pitch": 0.0,
-                                          "yaw": 33.85,
-                                          "type": "scene",
-                                          "text": "Green Room",
-                                          "sceneId": "GRoom",
-                                          "targetPitch": 0,
-                                          "targetYaw": 0
-                                        },
-                                        {
-                                          "pitch": 7.74,
-                                          "yaw": -269.86,
-                                          "type": "scene",
-                                          "text": "Bob Hope Theatre",
-                                          "sceneId": "HopeSMU",
-                                          "targetPitch": 0,
-                                          "targetYaw": 0
-                                        },
-                                        {
-                                          "pitch": 4.51,
-                                          "yaw": -35.33,
-                                          "type": "scene",
-                                          "text": "Greer Garson Theatre",
-                                          "sceneId": "garson",
-                                          "targetPitch": 0,
-                                          "targetYaw": 0
-                                        }
-                                      ]
-                          },
-                          
-                "dance": {
-                          "title": "Dance Studio 1430",
-                          "author": "The spacious, mirrorless Studio 1430 offers an unencumbered environment where our dancers unleash their inner creativity.",
-                          "northOffset": -180,
-                          "multiRes": {
-                                      "basePath": "img/panos/dance",
-                                      "path": "/%l/%s%y_%x",
-                                      "fallbackPath": "/fallback/%s",
-                                      "extension": "jpg",
-                                      "tileResolution": 512,
-                                      "maxLevel": 5,
-                                      "cubeResolution": 8048
-                                      },
-                          "hotSpots": [
-                                        {
-                                          "pitch": -4.04,
-                                          "yaw": 46.00,
-                                          "type": "info",
-                                          "text": "All of our dance technique classes have in person accompaniment by staff pianists, percussionists, or both."
-                                        },
-                                        {
-                                          "pitch": -0.50,
-                                          "yaw": -0.36,
-                                          "type": "scene",
-                                          "text": "Margo Jones Theatre",
-                                          "sceneId": "jones",
-                                          "targetPitch": 0,
-                                          "targetYaw": 0
-                                        },
-                                        {
-                                          "pitch": 1.42,
-                                          "yaw": 39.99,
-                                          "type": "scene",
-                                          "text": "Greer Garson Theatre",
-                                          "sceneId": "garson",
-                                          "targetPitch": 0,
-                                          "targetYaw": 0
-                                        },
-                                        {
-                                          "pitch": 5.03,
-                                          "yaw": -127.92,
-                                          "type": "scene",
-                                          "text": "Doolin Gallery",
-                                          "sceneId": "doolin",
-                                          "targetPitch": 0,
-                                          "targetYaw": 0
-                                        }
-                                      ]
-                          },
-                          
-                "DFLab": {
-                          "title": "Doolin Fabrication Lab",
-                          "author": "This lab is dedicated to building computer generated 3D work.",
-                          "northOffset": -90,
-                          "multiRes": {
-                                      "basePath": "img/panos/DFLab",
-                                      "path": "/%l/%s%y_%x",
-                                      "fallbackPath": "/fallback/%s",
-                                      "extension": "jpg",
-                                      "tileResolution": 512,
-                                      "maxLevel": 5,
-                                      "cubeResolution": 8048
-                                      },
-                          "hotSpots": [
-                                        {
-                                          "pitch": -2.29,
-                                          "yaw": 25.77,
-                                          "type": "info",
-                                          "text": "This is one of two 3D printers that we have by LulzBot. Our Taz 6 and Workhorse 3D printers are capable of printing with a variety of plastics."
-                                        },
-                                        {
-                                          "pitch": -26.14,
-                                          "yaw": -67.69,
-                                          "type": "info",
-                                          "text": "This is a special printer that has been modified to use glaze powder instead of ink to print onto a piece of paper so that it can be transferred to a ceramic object."
-                                        },
-                                        {
-                                          "pitch": -7.78,
-                                          "yaw": 116.15,
-                                          "type": "scene",
-                                          "text": "Woodshop",
-                                          "sceneId": "woodshop",
-                                          "targetPitch": 0,
-                                          "targetYaw": 0
-                                        },
-                                        {
-                                          "pitch": -4.77,
-                                          "yaw": -51.73,
-                                          "type": "scene",
-                                          "text": "Printmaking Studio",
-                                          "sceneId": "printmaking",
-                                          "targetPitch": 0,
-                                          "targetYaw": 0
-                                        },
-                                        {
-                                          "pitch": -5.87,
-                                          "yaw": 135.92,
-                                          "type": "scene",
-                                          "text": "Ceramics Studio",
-                                          "sceneId": "ceramics",
-                                          "targetPitch": 0,
-                                          "targetYaw": 0
-                                        }
-                                      ]
-                          },
-                          
-          "printmaking": {
-                          "title": "Printmaking Studio",
-                          "author": "We teach both aquatint and intaglio printing techniques; both use etched copper plates to transfer ink to paper.",
-                          "northOffset": -180,
-                          "multiRes": {
-                                      "basePath": "img/panos/printmaking",
-                                      "path": "/%l/%s%y_%x",
-                                      "fallbackPath": "/fallback/%s",
-                                      "extension": "jpg",
-                                      "tileResolution": 512,
-                                      "maxLevel": 5,
-                                      "cubeResolution": 8048
-                                      },
-                          "hotSpots": [
-                                        {
-                                          "pitch": -9.72,
-                                          "yaw": 253.53,
-                                          "type": "info",
-                                          "text": "Students are assigned a drawer in which they can store their prints."
-                                        },
-                                        {
-                                          "pitch": -1.10,
-                                          "yaw": 116.97,
-                                          "type": "scene",
-                                          "text": "Woodshop",
-                                          "sceneId": "woodshop",
-                                          "targetPitch": 0,
-                                          "targetYaw": 0
-                                        },
-                                        {
-                                          "pitch": -3.94,
-                                          "yaw": 235.75,
-                                          "type": "scene",
-                                          "text": "Ceramics Studio",
-                                          "sceneId": "ceramics",
-                                          "targetPitch": 0,
-                                          "targetYaw": 0
-                                        },
-                                        {
-                                          "pitch": -6.36,
-                                          "yaw": 221.29,
-                                          "type": "scene",
-                                          "text": "Doolin Fabrication Lab",
-                                          "sceneId": "DFLab",
-                                          "targetPitch": 0,
-                                          "targetYaw": 0
-                                        }
-                                      ]
-                          },
-                          
-                "garson": {
-                          "title": "Greer Garson Theatre",
-                          "author": "Theatre students present classical and contemporary plays on the Greer Garson thrust stage, as well as readings of plays they have written themselves. Productions are elevated to professional level with scenic, lighting, projection, and costume designs by award-winning M.F.A. Theatre graduate students and Theatre staff.",
-                          "northOffset": -180,
-                          "multiRes": {
-                                      "basePath": "img/panos/garson",
-                                      "path": "/%l/%s%y_%x",
-                                      "fallbackPath": "/fallback/%s",
-                                      "extension": "jpg",
-                                      "tileResolution": 512,
-                                      "maxLevel": 5,
-                                      "cubeResolution": 8048
-                                      },
-                          "hotSpots": [
-                                        {
-                                          "pitch": -21.67,
-                                          "yaw": 180.85,
-                                          "type": "info",
-                                          "text": "This 261-seat theatre totes a trap door system and its own dressing rooms."
-                                        },
-                                        {
-                                          "pitch": 5.04,
-                                          "yaw": -35.98,
-                                          "type": "scene",
-                                          "text": "Dance Studio 1430",
-                                          "sceneId": "dance",
-                                          "targetPitch": 0,
-                                          "targetYaw": 0
-                                        },
-                                        {
-                                          "pitch": 5.73,
-                                          "yaw": -26.27,
-                                          "type": "scene",
-                                          "text": "Margo Jones Theatre",
-                                          "sceneId": "jones",
-                                          "targetPitch": 0,
-                                          "targetYaw": 0
-                                        }
-                                      ]
-                          },
-                          
-                "painting": {
-                          "title": "Painting Studio",
-                          "author": "While one of our painting studios is more geared toward acrylic painting and drawing, this nearly identical studio is outfitted with ventilation for oil painting and use of solvent.",
-                          "northOffset": -180,
-                          "multiRes": {
-                                      "basePath": "img/panos/painting",
-                                      "path": "/%l/%s%y_%x",
-                                      "fallbackPath": "/fallback/%s",
-                                      "extension": "jpg",
-                                      "tileResolution": 512,
-                                      "maxLevel": 5,
-                                      "cubeResolution": 8048
-                                      },
-                          "hotSpots": [
-                                        {
-                                          "pitch": -0.36,
-                                          "yaw": 6.29,
-                                          "type": "info",
-                                          "text": "This studio offers plenty of space for students to store their work as it dries."
-                                        },
-                                        {
-                                          "pitch": -3.77,
-                                          "yaw": -37.29,
-                                          "type": "scene",
-                                          "text": "Doolin Gallery",
-                                          "sceneId": "doolin",
-                                          "targetPitch": 0,
-                                          "targetYaw": 0
-                                        }
-                                      ]
-                          },
-                          
-                "smClass": {
-                          "title": "Small Classroom",
-                          "author": "",
-                          "northOffset": -90,
-                          "multiRes": {
-                                      "basePath": "img/panos/smClass",
-                                      "path": "/%l/%s%y_%x",
-                                      "fallbackPath": "/fallback/%s",
-                                      "extension": "jpg",
-                                      "tileResolution": 512,
-                                      "maxLevel": 5,
-                                      "cubeResolution": 8048
-                                      }
-                          },
-                          
-                "LClass": {
-                          "title": "Large Classroom",
-                          "author": "",
-                          "northOffset": -90,
-                          "multiRes": {
-                                      "basePath": "img/panos/LClass",
-                                      "path": "/%l/%s%y_%x",
-                                      "fallbackPath": "/fallback/%s",
-                                      "extension": "jpg",
-                                      "tileResolution": 512,
-                                      "maxLevel": 5,
-                                      "cubeResolution": 8048
-                                      }
-                          },
-                          
-                "voice": {
-                          "title": "Voice Studio",
-                          "author": "",
-                          "northOffset": 180,
-                          "multiRes": {
-                                      "basePath": "img/panos/voice",
-                                      "path": "/%l/%s%y_%x",
-                                      "fallbackPath": "/fallback/%s",
-                                      "extension": "jpg",
-                                      "tileResolution": 512,
-                                      "maxLevel": 5,
-                                      "cubeResolution": 8048
-                                      },
-                          "hotSpots": [
-                                        {
-                                          "pitch": -3.65,
-                                          "yaw": -120.57,
-                                          "type": "scene",
-                                          "text": "Green Room",
-                                          "sceneId": "GRoom",
-                                          "targetPitch": 0,
-                                          "targetYaw": 0
-                                        },
-                                        {
-                                          "pitch": -3.54,
-                                          "yaw": -58.91,
-                                          "type": "scene",
-                                          "text": "Green Room",
-                                          "sceneId": "GRoom",
-                                          "targetPitch": 0,
-                                          "targetYaw": 0
-                                        }
-                                      ]
-                          },
-                          
-                "B450": {
-                          "title": "B450",
-                          "author": "",
-                          "northOffset": 0,
-                          "multiRes": {
-                                      "basePath": "img/panos/B450",
-                                      "path": "/%l/%s%y_%x",
-                                      "fallbackPath": "/fallback/%s",
-                                      "extension": "jpg",
-                                      "tileResolution": 512,
-                                      "maxLevel": 5,
-                                      "cubeResolution": 8048
-                                      },
-                          "hotSpots": [
-                                        {
-                                          "pitch": -0.16,
-                                          "yaw": 127.97,
-                                          "type": "scene",
-                                          "text": "Green Room",
-                                          "sceneId": "GRoom",
-                                          "targetPitch": 0,
-                                          "targetYaw": 0
-                                        }
-                                      ]
-                          },
-                          
-                "B150": {
-                          "title": "B150",
-                          "author": "",
-                          "northOffset": 0,
-                          "multiRes": {
-                                      "basePath": "img/panos/B150",
-                                      "path": "/%l/%s%y_%x",
-                                      "fallbackPath": "/fallback/%s",
-                                      "extension": "jpg",
-                                      "tileResolution": 512,
-                                      "maxLevel": 5,
-                                      "cubeResolution": 8048
-                                      },
-                          "hotSpots": [
-                                        {
-                                          "pitch": 5.50,
-                                          "yaw": 39.84,
-                                          "type": "scene",
-                                          "text": "Costume Shop",
-                                          "sceneId": "costuming",
-                                          "targetPitch": 0,
-                                          "targetYaw": 0
-                                        },
-                                        {
-                                          "pitch": 6.19,
-                                          "yaw": 48.49,
-                                          "type": "scene",
-                                          "text": "Sharp Studio",
-                                          "sceneId": "sharp",
-                                          "targetPitch": 0,
-                                          "targetYaw": 0
-                                        },
-                                        {
-                                          "pitch": -4.80,
-                                          "yaw": -115.61,
-                                          "type": "scene",
-                                          "text": "Kathy Bates",
-                                          "sceneId": "bates",
-                                          "targetPitch": 0,
-                                          "targetYaw": 0
-                                        }
-                                      ]
-                          },
-                          
-                "bates": {
-                          "title": "Kathy Bates Studio",
-                          "author": "",
-                          "northOffset": 0,
-                          "multiRes": {
-                                      "basePath": "img/panos/Bates",
-                                      "path": "/%l/%s%y_%x",
-                                      "fallbackPath": "/fallback/%s",
-                                      "extension": "jpg",
-                                      "tileResolution": 512,
-                                      "maxLevel": 5,
-                                      "cubeResolution": 8048
-                                      },
-                          "hotSpots": [
-                                        {
-                                          "pitch": -2.53,
-                                          "yaw": -34.69,
-                                          "type": "scene",
-                                          "text": "B150",
-                                          "sceneId": "B150",
-                                          "targetPitch": 0,
-                                          "targetYaw": 0
-                                        },
-                                        {
-                                          "pitch": 5.07,
-                                          "yaw": 46.51,
-                                          "type": "scene",
-                                          "text": "Sharp Studio",
-                                          "sceneId": "sharp",
-                                          "targetPitch": 0,
-                                          "targetYaw": 0
-                                        },
-                                        {
-                                          "pitch": 5.30,
-                                          "yaw": 55.96,
-                                          "type": "scene",
-                                          "text": "Rehearsal Room",
-                                          "sceneId": "piano",
-                                          "targetPitch": 0,
-                                          "targetYaw": 0
-                                        }
-                                      ]
-                          },
-                          
-                "piano": {
-                          "title": "Rehearsal Room",
-                          "author": "",
-                          "northOffset": 45,
-                          "multiRes": {
-                                      "basePath": "img/panos/piano",
-                                      "path": "/%l/%s%y_%x",
-                                      "fallbackPath": "/fallback/%s",
-                                      "extension": "jpg",
-                                      "tileResolution": 512,
-                                      "maxLevel": 5,
-                                      "cubeResolution": 8048
-                                      },
-                          "hotSpots": [
-                                        {
-                                          "pitch": -5.02,
-                                          "yaw": 54.89,
-                                          "type": "scene",
-                                          "text": "Kathy Bates",
-                                          "sceneId": "bates",
-                                          "targetPitch": 0,
-                                          "targetYaw": 0
-                                        }
-                                      ]
-                          },
-                          
-                "MTherapy": {
-                          "title": "Music Therapy Clinic",
-                          "author": "",
-                          "northOffset": 180,
-                          "multiRes": {
-                                      "basePath": "img/panos/musicTherapy",
-                                      "path": "/%l/%s%y_%x",
-                                      "fallbackPath": "/fallback/%s",
-                                      "extension": "jpg",
-                                      "tileResolution": 512,
-                                      "maxLevel": 5,
-                                      "cubeResolution": 8048
-                                      },
-                          "hotSpots": [
-                                        {
-                                          "pitch": -6.59,
-                                          "yaw": 141.69,
-                                          "type": "scene",
-                                          "text": "Music Ed Breakroom",
-                                          "sceneId": "break",
-                                          "targetPitch": 0,
-                                          "targetYaw": 0
-                                        }
-                                      ]
-                          },
-                          
-                "DHallLights": {
-                          "title": "Dallas Hall",
-                          "author": "",
-                          "northOffset": 0,
-                          "multiRes": {
-                                      "basePath": "img/panos/DHallLights",
-                                      "path": "/%l/%s%y_%x",
-                                      "fallbackPath": "/fallback/%s",
-                                      "extension": "jpg",
-                                      "tileResolution": 512,
-                                      "maxLevel": 6,
-                                      "cubeResolution": 10312
-                                      },
-                           "hotSpots": [
-                                        {
-                                          "pitch": -0.431,
-                                          "yaw": 179.45,
-                                          "type": "scene",
-                                          "text": "high-res panorama view",
-                                          "URL": "https://meadowstour.com/DHLights"
-                                        }
-                                      ]
-                          },
-                          
-                "band": {
-                          "title": "Band Hall",
-                          "author": "",
-                          "northOffset": 180,
-                          "multiRes": {
-                                      "basePath": "img/panos/band",
-                                      "path": "/%l/%s%y_%x",
-                                      "fallbackPath": "/fallback/%s",
-                                      "extension": "jpg",
-                                      "tileResolution": 512,
-                                      "maxLevel": 5,
-                                      "cubeResolution": 8048
-                                      },
-                          "hotSpots": [
-                                        {
-                                          "pitch": -1.87,
-                                          "yaw": 28.31,
-                                          "type": "scene",
-                                          "text": "Taubman Atrium",
-                                          "sceneId": "taubman",
-                                          "targetPitch": 0,
-                                          "targetYaw": 0
-                                        }
-                                      ]
-                          },
-                          
-                "break": {
-                          "title": "Music Ed breakroom",
-                          "author": "",
-                          "northOffset": -90,
-                          "multiRes": {
-                                      "basePath": "img/panos/break",
-                                      "path": "/%l/%s%y_%x",
-                                      "fallbackPath": "/fallback/%s",
-                                      "extension": "jpg",
-                                      "tileResolution": 512,
-                                      "maxLevel": 5,
-                                      "cubeResolution": 8048
-                                      },
-                          "hotSpots": [
-                                        {
-                                          "pitch": -7.97,
-                                          "yaw": 197.05,
-                                          "type": "scene",
-                                          "text": "Music Therapy Clinic",
-                                          "sceneId": "MTherapy",
-                                          "targetPitch": 0,
-                                          "targetYaw": 0
-                                        },
-                                        {
-                                          "pitch": -10.29,
-                                          "yaw": 6.48,
-                                          "type": "scene",
-                                          "text": "Taubman Atrium",
-                                          "sceneId": "taubman",
-                                          "targetPitch": 0,
-                                          "targetYaw": 0
-                                        }
-                                      ]
-                          },
-                          
-                "choir": {
-                          "title": "Choir Hall",
-                          "author": "",
-                          "northOffset": 180,
-                          "multiRes": {
-                                      "basePath": "img/panos/choir",
-                                      "path": "/%l/%s%y_%x",
-                                      "fallbackPath": "/fallback/%s",
-                                      "extension": "jpg",
-                                      "tileResolution": 512,
-                                      "maxLevel": 5,
-                                      "cubeResolution": 8048
-                                      },
-                          "hotSpots": [
-                                        {
-                                          "pitch": -2.38,
-                                          "yaw": 111.07,
-                                          "type": "scene",
-                                          "text": "Taubman Atrium",
-                                          "sceneId": "taubman",
-                                          "targetPitch": 0,
-                                          "targetYaw": 0
-                                        }
-                                      ]
-                          },
-                          
-                "costuming": {
-                          "title": "Costume Shop",
-                          "author": "Costumes for dance, theatre, and opera are professionally designed, built, and fitted for our students in our costume shop.",
-                          "northOffset": -90,
-                          "multiRes": {
-                                      "basePath": "img/panos/costuming",
-                                      "path": "/%l/%s%y_%x",
-                                      "fallbackPath": "/fallback/%s",
-                                      "extension": "jpg",
-                                      "tileResolution": 512,
-                                      "maxLevel": 5,
-                                      "cubeResolution": 8048
-                                      },
-                          "hotSpots": [
-                                        {
-                                          "pitch": -2.34,
-                                          "yaw": 93.65,
-                                          "type": "scene",
-                                          "text": "Green Room",
-                                          "sceneId": "GRoom",
-                                          "targetPitch": 0,
-                                          "targetYaw": 0
-                                        },
-                                        {
-                                          "pitch": -4.57,
-                                          "yaw": 239.28,
-                                          "type": "scene",
-                                          "text": "Sharp Studio",
-                                          "sceneId": "sharp",
-                                          "targetPitch": 0,
-                                          "targetYaw": 0
-                                        },
-                                        {
-                                          "pitch": -4.12,
-                                          "yaw": 249.54,
-                                          "type": "scene",
-                                          "text": "B150",
-                                          "sceneId": "B150",
-                                          "targetPitch": 0,
-                                          "targetYaw": 0
-                                        }
-                                      ]
-                          },
-                          
-                "bandOffice": {
-                          "title": "Band Office",
-                          "author": "",
-                          "northOffset": 180,
-                          "multiRes": {
-                                      "basePath": "img/panos/bandOffice",
-                                      "path": "/%l/%s%y_%x",
-                                      "fallbackPath": "/fallback/%s",
-                                      "extension": "jpg",
-                                      "tileResolution": 512,
-                                      "maxLevel": 5,
-                                      "cubeResolution": 8048
-                                      }
-                          },
-                          
-                "artHist": {
-                          "title": "Lemmon Classroom",
-                          "author": "",
-                          "northOffset": 180,
-                          "multiRes": {
-                                      "basePath": "img/panos/artHist",
-                                      "path": "/%l/%s%y_%x",
-                                      "fallbackPath": "/fallback/%s",
-                                      "extension": "jpg",
-                                      "tileResolution": 512,
-                                      "maxLevel": 5,
-                                      "cubeResolution": 8048
-                                      }
-                          },
-
-                "coxPainting3rdE": {
-                  "title": "Cox Painting Studio",
-                  "author": "",
-                  "northOffset": 180,
-                  "multiRes": {
-                              "basePath": "img/panos/coxPainting3rdE",
-                              "path": "/%l/%s%y_%x",
-                              "fallbackPath": "/fallback/%s",
-                              "extension": "jpg",
-                              "tileResolution": 512,
-                              "maxLevel": 5,
-                              "cubeResolution": 8048
-                              }
-                  },
-
-                  "crComp": {
-                    "title": "Sexton Family Creative Computation Suite",
-                    "author": "",
-                    "northOffset": 180,
-                    "multiRes": {
-                                "basePath": "img/panos/crComp",
-                                "path": "/%l/%s%y_%x",
-                                "fallbackPath": "/fallback/%s",
-                                "extension": "jpg",
-                                "tileResolution": 512,
-                                "maxLevel": 5,
-                                "cubeResolution": 8048
-                                }
-                    }
-                     
-            }
-            
+    "HLobby": {
+      "title": "Bob Hope Lobby",
+      "author": "Not only is this space a grand entrance for the building, but several events are held here, including our Dance Brown Bag series.",
+      "northOffset": -89.9,
+      "multiRes": {
+        "basePath": "img/panos/HLobby",
+        "path": "/%l/%s%y_%x",
+        "fallbackPath": "/fallback/%s",
+        "extension": "jpg",
+        "tileResolution": 512,
+        "maxLevel": 5,
+        "cubeResolution": 8048
+      },
+      "hotSpots": [
+        {
+          "type": "info",
+          "text": "Radio, movie, and TV star Bob Hope was not an alumnus of SMU but was a longtime friend. In the 1960s, Hope made generous donations to SMU for the development of the namesake theatre, now located inside the Owen Arts Center. Since its opening in 1968, performances on the Hope stage have prepared hundreds of theatre, dance, film, and music students for their careers.",
+          "pitch": -1.26,
+          "yaw": -0.1
+        },
+        {
+          "type": "info",
+          "text": "4K cameras in the lobby allow for live streaming performances and providing students with HD footage of their work for their reels and websites.",
+          "pitch": 21.02,
+          "yaw": -28.53
+        },
+        {
+          "type": "scene",
+          "text": "Bob Hope Theatre",
+          "sceneId": "HopeSMU",
+          "targetPitch": 0,
+          "targetYaw": 31,
+          "pitch": -1.5,
+          "yaw": -29
+        },
+        {
+          "type": "scene",
+          "text": "Owen Arts Center Entrance",
+          "sceneId": "steps",
+          "targetPitch": 0,
+          "targetYaw": "sameAzimuth",
+          "pitch": -1,
+          "yaw": 177.7
+        },
+        {
+          "type": "scene",
+          "text": "Caruth Auditorium",
+          "sceneId": "caruth",
+          "targetPitch": 0,
+          "targetYaw": 0,
+          "pitch": -0.5,
+          "yaw": -94.6
+        },
+        {
+          "type": "scene",
+          "text": "Taubman Atrium",
+          "sceneId": "taubman",
+          "targetPitch": 0,
+          "targetYaw": 0,
+          "pitch": -0.5,
+          "yaw": -54
+        },
+        {
+          "type": "scene",
+          "text": "Doolin Gallery",
+          "sceneId": "doolin",
+          "targetPitch": 0,
+          "targetYaw": 0,
+          "pitch": -2.24,
+          "yaw": 53.93
+        }
+      ]
+    },
+    "HopeSMU": {
+      "title": "Bob Hope Theatre",
+      "author": "Used primarily for dance concerts and operas, this 392-seat venue is ideal for grand-scale productions, and features a proscenium stage, clear sightline seating and a hydraulic orchestra pit.",
+      "northOffset": -119,
+      "multiRes": {
+        "basePath": "img/panos/HopeSMU",
+        "path": "/%l/%s%y_%x",
+        "fallbackPath": "/fallback/%s",
+        "extension": "jpg",
+        "tileResolution": 512,
+        "maxLevel": 4,
+        "cubeResolution": 3904
+      },
+      "hotSpots": [
+        {
+          "pitch": 12.98,
+          "yaw": 152.80,
+          "type": "info",
+          "text": "4K cameras in the theater allow for live streaming performances, and providing students with HD footage of their work for their reels and websites."
+        },
+        {
+          "pitch": 3.5,
+          "yaw": -129.5,
+          "type": "scene",
+          "text": "Hope Lobby",
+          "sceneId": "HLobby",
+          "targetPitch": 0,
+          "targetYaw": 0
+        },
+        {
+          "pitch": -19.95,
+          "yaw": 57.87,
+          "type": "scene",
+          "text": "Green Room",
+          "sceneId": "GRoom",
+          "targetPitch": 0,
+          "targetYaw": 0
+        },
+        {
+          "pitch": 7.63,
+          "yaw": 60.43,
+          "type": "scene",
+          "text": "Margo Jones Theatre",
+          "sceneId": "jones",
+          "targetPitch": 0,
+          "targetYaw": 0
+        }
+      ]
+    },
+    "steps": {
+      "title": "Owen Arts Center Entrance",
+      "author": "Once the original site of the Meadows Museum, the Owen Arts Center houses the Meadows academic areas of music, theatre, dance, art, art history, creative computing, arts management, and arts entrepreneurship.",
+      "northOffset": -266.68,
+      "multiRes": {
+        "basePath": "img/panos/steps",
+        "path": "/%l/%s%y_%x",
+        "fallbackPath": "/fallback/%s",
+        "extension": "jpg",
+        "tileResolution": 512,
+        "maxLevel": 4,
+        "cubeResolution": 3904
+      },
+      "hotSpots": [
+        {
+          "pitch": 2.6,
+          "yaw": 175.7,
+          "type": "scene",
+          "text": "Hope lobby",
+          "sceneId": "HLobby",
+          "targetPitch": 0,
+          "targetYaw": "sameAzimuth"
+        }
+      ]
+    },
+    "caruth": {
+      "title": "Caruth Auditorium",
+      "author": "Our 490-seat concert hall is used for student and faculty recitals, symphonic concerts, and choral concerts.",
+      "northOffset": 181.23,
+      "multiRes": {
+        "basePath": "img/panos/caruth",
+        "path": "/%l/%s%y_%x",
+        "fallbackPath": "/fallback/%s",
+        "extension": "jpg",
+        "tileResolution": 512,
+        "maxLevel": 5,
+        "cubeResolution": 8048
+      },
+      "hotSpots": [
+        {
+          "pitch": 4.55,
+          "yaw": 0.0,
+          "type": "info",
+          "text": "This magnificent C.B. Fisk Opus 101 organ features 3,681 pipes and 51 stops."
+        },
+        {
+          "pitch": 10,
+          "yaw": -90.62,
+          "type": "info",
+          "text": "The louvers on the walls of the hall can be opened or closed depending on the acoustical needs of the performance."
+        },
+        {
+          "pitch": 24.07,
+          "yaw": 182.45,
+          "type": "info",
+          "text": "4K cameras in the auditorium allow for live streaming performances and providing students with HD footage of their work for their reels and websites."
+        },
+        {
+          "pitch": 16.62,
+          "yaw": 178.77,
+          "type": "scene",
+          "text": "Hope Lobby",
+          "sceneId": "HLobby",
+          "targetPitch": 0,
+          "targetYaw": 0
+        },
+        {
+          "pitch": -5.83,
+          "yaw": 57.56,
+          "type": "scene",
+          "text": "Sharp Studio",
+          "sceneId": "sharp",
+          "targetPitch": 0,
+          "targetYaw": 0
+        }
+      ]
+    },
+    "taubman": {
+      "title": "Taubman Atrium",
+      "author": "This skylight-filled room has plenty of comfortable furniture and reading areas where students can work on projects in a social and collaborative space. Casual musical performances are also held here periodically throughout the year.",
+      "northOffset": -90.65,
+      "multiRes": {
+        "basePath": "img/panos/taubman",
+        "path": "/%l/%s%y_%x",
+        "fallbackPath": "/fallback/%s",
+        "extension": "jpg",
+        "tileResolution": 512,
+        "maxLevel": 5,
+        "cubeResolution": 8048
+      },
+      "hotSpots": [
+        {
+          "pitch": 1.52,
+          "yaw": -54.84,
+          "type": "info",
+          "text": "SMU Dining’s Provision On Demand, or P.O.D., provides students access to quick snacks, beverages, and meals between classes, rehearsals, and study sessions."
+        },
+        {
+          "pitch": 20.47,
+          "yaw": -30.99,
+          "type": "scene",
+          "text": "O'Donnell Hall",
+          "sceneId": "ODonnell",
+          "targetPitch": 0,
+          "targetYaw": 0
+        },
+        {
+          "pitch": -1.01,
+          "yaw": 148.88,
+          "type": "scene",
+          "text": "Bob Hope Lobby",
+          "sceneId": "HLobby",
+          "targetPitch": 0,
+          "targetYaw": 0
+        },
+        {
+          "pitch": -2.22,
+          "yaw": 23.39,
+          "type": "scene",
+          "text": "Sharp Studio",
+          "sceneId": "sharp",
+          "targetPitch": 0,
+          "targetYaw": 0
+        },
+        {
+          "pitch": -0.31,
+          "yaw": -148.12,
+          "type": "scene",
+          "text": "Band Hall",
+          "sceneId": "band",
+          "targetPitch": 0,
+          "targetYaw": 0
+        },
+        {
+          "pitch": 22.59,
+          "yaw": -180.65,
+          "type": "scene",
+          "text": "Music Ed Breakroom",
+          "sceneId": "break",
+          "targetPitch": 0,
+          "targetYaw": 0
+        },
+        {
+          "pitch": 0.24,
+          "yaw": -31.95,
+          "type": "scene",
+          "text": "Choir Hall",
+          "sceneId": "choir",
+          "targetPitch": 0,
+          "targetYaw": 0
+        }
+      ]
+    },
+    "ODonnell": {
+      "title": "O'Donnell Hall",
+      "author": "Faculty and students employ the versatile, 168-seat O'Donnell Hall as a classroom, lecture hall, recital hall and screening room for music, art history, photography and advertising classes and seminars.",
+      "northOffset": 90.0,
+      "multiRes": {
+        "basePath": "img/panos/ODonnell",
+        "path": "/%l/%s%y_%x",
+        "fallbackPath": "/fallback/%s",
+        "extension": "jpg",
+        "tileResolution": 512,
+        "maxLevel": 5,
+        "cubeResolution": 8048
+      },
+      "hotSpots": [
+        {
+          "pitch": -13.51,
+          "yaw": 6.0,
+          "type": "info",
+          "text": "The Fazioli 228 at the front of the hall, a 7’6 semi-concert grand, is played mainly for student chamber music and solo recitals."
+        },
+        {
+          "pitch": 28.22,
+          "yaw": 180,
+          "type": "info",
+          "text": "4K cameras in the hall allow for live streaming performances and providing students with HD footage of their work for their reels and websites."
+        },
+        {
+          "pitch": -11.47,
+          "yaw": -40.17,
+          "type": "scene",
+          "text": "Taubman Atrium",
+          "sceneId": "taubman",
+          "targetPitch": 0,
+          "targetYaw": 0
+        }
+      ]
+    },
+    "doolin": {
+      "title": "Doolin Gallery",
+      "author": "This space is predominantly used as a critique gallery where students install their work then discuss as a class. Students can also reserve the space for finals and to put on their own exhibitions.",
+      "northOffset": 0.1,
+      "multiRes": {
+        "basePath": "img/panos/doolin2",
+        "path": "/%l/%s%y_%x",
+        "fallbackPath": "/fallback/%s",
+        "extension": "jpg",
+        "tileResolution": 512,
+        "maxLevel": 5,
+        "cubeResolution": 8048
+      },
+      "hotSpots": [
+        {
+          "pitch": -0.37,
+          "yaw": 138.0,
+          "type": "scene",
+          "text": "Bob Hope Lobby",
+          "sceneId": "HLobby",
+          "targetPitch": 0,
+          "targetYaw": 0
+        },
+        {
+          "pitch": -7.27,
+          "yaw": 130.05,
+          "type": "scene",
+          "text": "Woodshop",
+          "sceneId": "woodshop",
+          "targetPitch": 0,
+          "targetYaw": 0
+        },
+        {
+          "pitch": -0.22,
+          "yaw": 241.1,
+          "type": "scene",
+          "text": "Dance Studio 1430",
+          "sceneId": "dance",
+          "targetPitch": 0,
+          "targetYaw": 0
+        },
+        {
+          "pitch": 4.07,
+          "yaw": 129.92,
+          "type": "scene",
+          "text": "Painting Studio",
+          "sceneId": "painting",
+          "targetPitch": 0,
+          "targetYaw": 0
+        }
+      ]
+    },
+    "woodshop": {
+      "title": "Woodshop",
+      "author": "In our woodshop, students have access to electric saws, drills, and sanders. We also have a variety of hand tools such as chisels, planes, hand saws, etc.",
+      "northOffset": 0.0,
+      "multiRes": {
+        "basePath": "img/panos/woodshop",
+        "path": "/%l/%s%y_%x",
+        "fallbackPath": "/fallback/%s",
+        "extension": "jpg",
+        "tileResolution": 512,
+        "maxLevel": 5,
+        "cubeResolution": 8048
+      },
+      "hotSpots": [
+        {
+          "pitch": -14.85,
+          "yaw": 54.56,
+          "type": "info",
+          "text": "Our SawStop table saw has a key safety feature: When the blade senses skin, it stops spinning in less than 5 milliseconds, retracts beneath the table, and removes the risk of subsequent contact."
+        },
+        {
+          "pitch": -4.32,
+          "yaw": 77.10,
+          "type": "info",
+          "text": "We have a 3-axis CNC (Computer Numeric Control) machine that uses a high-powered spindle to carve wood, foam, plexiglass, and some softer metals like brass and aluminum."
+        },
+        {
+          "pitch": -2.35,
+          "yaw": 0.04,
+          "type": "scene",
+          "text": "Foundry",
+          "sceneId": "foundry",
+          "targetPitch": 0,
+          "targetYaw": 0
+        },
+        {
+          "pitch": -2.12,
+          "yaw": 80.77,
+          "type": "scene",
+          "text": "Doolin Fabrication Lab",
+          "sceneId": "DFLab",
+          "targetPitch": 0,
+          "targetYaw": 0
+        },
+        {
+          "pitch": -5.34,
+          "yaw": -158.18,
+          "type": "scene",
+          "text": "Green Room",
+          "sceneId": "GRoom",
+          "targetPitch": 0,
+          "targetYaw": 0
+        },
+        {
+          "pitch": -6.16,
+          "yaw": -185.47,
+          "type": "scene",
+          "text": "Printmaking Studio",
+          "sceneId": "printmaking",
+          "targetPitch": 0,
+          "targetYaw": 0
+        },
+        {
+          "pitch": 4.32,
+          "yaw": 189.14,
+          "type": "scene",
+          "text": "Doolin Gallery",
+          "sceneId": "doolin",
+          "targetPitch": 0,
+          "targetYaw": 0
+        }
+      ]
+    },
+    "foundry": {
+      "title": "Foundry",
+      "author": "This is where we cast bronze through a \"lost-wax\" process, in which wax objects are crafted and covered in a ceramic shell, then the wax is melted out of the shell. The shell is then placed in a furnace before it is filled with molten bronze or aluminum.",
+      "northOffset": 0.0,
+      "multiRes": {
+        "basePath": "img/panos/foundry",
+        "path": "/%l/%s%y_%x",
+        "fallbackPath": "/fallback/%s",
+        "extension": "jpg",
+        "tileResolution": 512,
+        "maxLevel": 5,
+        "cubeResolution": 8048
+      },
+      "hotSpots": [
+        {
+          "pitch": -3.48,
+          "yaw": -320.04,
+          "type": "info",
+          "text": "This is the outdoor spray booth for spraying glazes onto ceramic work."
+        },
+        {
+          "pitch": -2.62,
+          "yaw": 94.58,
+          "type": "info",
+          "text": "This mixer makes clay from dry materials."
+        },
+        {
+          "pitch": -2.33,
+          "yaw": 62.04,
+          "type": "info",
+          "text": "This is one of two of our large gas kilns. It is also used for processes like raku that create a lot of smoke and cannot be done inside."
+        },
+        {
+          "pitch": -1.63,
+          "yaw": -86.50,
+          "type": "scene",
+          "text": "Woodshop",
+          "sceneId": "woodshop",
+          "targetPitch": 0,
+          "targetYaw": 0
+        },
+        {
+          "pitch": -2.84,
+          "yaw": -235.88,
+          "type": "scene",
+          "text": "Ceramics Studio",
+          "sceneId": "ceramics",
+          "targetPitch": "same",
+          "targetYaw": "sameAzimuth"
+        }
+      ]
+    },
+    "ceramics": {
+      "title": "Ceramics Studio",
+      "author": "This classroom features manual and electric wheels that can be used sitting or standing to throw pots. Our students mix the clay themselves and typically make stoneware and terracotta clays.",
+      "northOffset": -180,
+      "multiRes": {
+        "basePath": "img/panos/ceramics",
+        "path": "/%l/%s%y_%x",
+        "fallbackPath": "/fallback/%s",
+        "extension": "jpg",
+        "tileResolution": 512,
+        "maxLevel": 5,
+        "cubeResolution": 8048
+      },
+      "hotSpots": [
+        {
+          "pitch": -1.18,
+          "yaw": 273.79,
+          "type": "info",
+          "text": "This room is where a selection of premade glazes are kept; students can also create their own glazes."
+        },
+        {
+          "pitch": -5.23,
+          "yaw": -283.36,
+          "type": "info",
+          "text": "This is a small clay mixer that is solely dedicated to making porcelain clay."
+        },
+        {
+          "pitch": -2.84,
+          "yaw": 45.66,
+          "type": "scene",
+          "text": "Printmaking Studio",
+          "sceneId": "printmaking",
+          "targetPitch": 0,
+          "targetYaw": 0
+        },
+        {
+          "pitch": -1.31,
+          "yaw": 110.22,
+          "type": "scene",
+          "text": "Foundry",
+          "sceneId": "foundry",
+          "targetPitch": "same",
+          "targetYaw": "sameAzimuth"
+        },
+        {
+          "pitch": -0.093,
+          "yaw": 73.01,
+          "type": "scene",
+          "text": "Doolin Fabrication Lab",
+          "sceneId": "DFLab",
+          "targetPitch": 0,
+          "targetYaw": 0
+        }
+      ]
+    },
+    "sharp": {
+      "title": "Sharp Studio",
+      "author": "The Charles S. Sharp Performing Arts Studio doubles as a performing space and is equipped with an adjustable black traveler, a control booth, state-of-the-art sound equipment, and a theatrical lighting system.",
+      "northOffset": 0.0,
+      "multiRes": {
+        "basePath": "img/panos/sharp",
+        "path": "/%l/%s%y_%x",
+        "fallbackPath": "/fallback/%s",
+        "extension": "jpg",
+        "tileResolution": 512,
+        "maxLevel": 5,
+        "cubeResolution": 8048
+      },
+      "hotSpots": [
+        {
+          "pitch": -5.85,
+          "yaw": -213.73,
+          "type": "info",
+          "text": "All of our dance technique classes have in person accompaniment by staff pianists, percussionists, or both."
+        },
+        {
+          "pitch": 11.80,
+          "yaw": -125.31,
+          "type": "scene",
+          "text": "Taubman Atrium",
+          "sceneId": "taubman",
+          "targetPitch": 0,
+          "targetYaw": 0
+        },
+        {
+          "pitch": 5.71,
+          "yaw": 125.02,
+          "type": "scene",
+          "text": "Caruth Auditorium",
+          "sceneId": "caruth",
+          "targetPitch": 0,
+          "targetYaw": 0
+        },
+        {
+          "pitch": 4.29,
+          "yaw": -53.88,
+          "type": "scene",
+          "text": "Green Room",
+          "sceneId": "GRoom",
+          "targetPitch": 0,
+          "targetYaw": 0
+        },
+        {
+          "pitch": 6.84,
+          "yaw": -129.03,
+          "type": "scene",
+          "text": "Kathy Bates",
+          "sceneId": "bates",
+          "targetPitch": 0,
+          "targetYaw": 0
+        },
+        {
+          "pitch": 9.45,
+          "yaw": -68.12,
+          "type": "scene",
+          "text": "Costume Shop",
+          "sceneId": "costuming",
+          "targetPitch": 0,
+          "targetYaw": 0
+        },
+        {
+          "pitch": 7.46,
+          "yaw": -121.54,
+          "type": "scene",
+          "text": "B150",
+          "sceneId": "B150",
+          "targetPitch": 0,
+          "targetYaw": 0
+        }
+      ]
+    },
+    "GRoom": {
+      "title": "Green Room",
+      "author": "The Green Room is where our actors and dancers relax between scenes and classes.",
+      "northOffset": 90,
+      "multiRes": {
+        "basePath": "img/panos/GRoom",
+        "path": "/%l/%s%y_%x",
+        "fallbackPath": "/fallback/%s",
+        "extension": "jpg",
+        "tileResolution": 512,
+        "maxLevel": 5,
+        "cubeResolution": 8048
+      },
+      "hotSpots": [
+        {
+          "pitch": 0.69,
+          "yaw": 4.27,
+          "type": "info",
+          "text": "Theatre Division call board: See which students are cast in on-and off-campus productions."
+        },
+        {
+          "pitch": -2.05,
+          "yaw": 93.84,
+          "type": "scene",
+          "text": "Costume Shop",
+          "sceneId": "costuming",
+          "targetPitch": 0,
+          "targetYaw": 0
+        },
+        {
+          "pitch": -1.25,
+          "yaw": -86.28,
+          "type": "info",
+          "text": "The spiral staircases lead to the backstage areas of the Hope Theater and the Margo Jones black box."
+        },
+        {
+          "pitch": -1.21,
+          "yaw": 75.90,
+          "type": "scene",
+          "text": "Sharp Studio",
+          "sceneId": "sharp",
+          "targetPitch": 0,
+          "targetYaw": 0
+        },
+        {
+          "pitch": -1.43,
+          "yaw": 294.72,
+          "type": "scene",
+          "text": "Wood Shop",
+          "sceneId": "woodshop",
+          "targetPitch": 0,
+          "targetYaw": 0
+        },
+        {
+          "pitch": 9.69,
+          "yaw": 82.23,
+          "type": "scene",
+          "text": "Bob Hope Theatre",
+          "sceneId": "HopeSMU",
+          "targetPitch": 0,
+          "targetYaw": 0
+        },
+        {
+          "pitch": 12.02,
+          "yaw": 272.38,
+          "type": "scene",
+          "text": "Margo Jones Theatre",
+          "sceneId": "jones",
+          "targetPitch": 0,
+          "targetYaw": 0
+        },
+        {
+          "pitch": -0.61,
+          "yaw": -94.83,
+          "type": "scene",
+          "text": "B450",
+          "sceneId": "B450",
+          "targetPitch": 0,
+          "targetYaw": 0
+        },
+        {
+          "pitch": -1.30,
+          "yaw": 130.87,
+          "type": "scene",
+          "text": "Voice Studio",
+          "sceneId": "voice",
+          "targetPitch": 0,
+          "targetYaw": 0
+        },
+        {
+          "pitch": -1.17,
+          "yaw": 235.51,
+          "type": "scene",
+          "text": "Voice Studio",
+          "sceneId": "voice",
+          "targetPitch": 0,
+          "targetYaw": 0
+        }
+      ]
+    },
+    "jones": {
+      "title": "Margo Jones Theatre",
+      "author": "Theatre and Dance students use the Margo Jones Theatre for contemporary plays and performances, taking full advantage of the intimate, 125-seat black box venue. The flexibility of the space provides student writers and directors with a dynamic setting where they can workshop and perform new plays.",
+      "northOffset": 0.0,
+      "multiRes": {
+        "basePath": "img/panos/jones",
+        "path": "/%l/%s%y_%x",
+        "fallbackPath": "/fallback/%s",
+        "extension": "jpg",
+        "tileResolution": 512,
+        "maxLevel": 5,
+        "cubeResolution": 8048
+      },
+      "hotSpots": [
+        {
+          "pitch": -0.54,
+          "yaw": -188.26,
+          "type": "info",
+          "text": "Our professional scene shop is where sets and props are built for theater, opera, and dance productions."
+        },
+        {
+          "pitch": 10.25,
+          "yaw": 0.0,
+          "type": "scene",
+          "text": "Dance Studio 1430",
+          "sceneId": "dance",
+          "targetPitch": 0,
+          "targetYaw": 0
+        },
+        {
+          "pitch": 0.0,
+          "yaw": 33.85,
+          "type": "scene",
+          "text": "Green Room",
+          "sceneId": "GRoom",
+          "targetPitch": 0,
+          "targetYaw": 0
+        },
+        {
+          "pitch": 7.74,
+          "yaw": -269.86,
+          "type": "scene",
+          "text": "Bob Hope Theatre",
+          "sceneId": "HopeSMU",
+          "targetPitch": 0,
+          "targetYaw": 0
+        },
+        {
+          "pitch": 4.51,
+          "yaw": -35.33,
+          "type": "scene",
+          "text": "Greer Garson Theatre",
+          "sceneId": "garson",
+          "targetPitch": 0,
+          "targetYaw": 0
+        }
+      ]
+    },
+    "dance": {
+      "title": "Dance Studio 1430",
+      "author": "The spacious, mirrorless Studio 1430 offers an unencumbered environment where our dancers unleash their inner creativity.",
+      "northOffset": -180,
+      "multiRes": {
+        "basePath": "img/panos/dance",
+        "path": "/%l/%s%y_%x",
+        "fallbackPath": "/fallback/%s",
+        "extension": "jpg",
+        "tileResolution": 512,
+        "maxLevel": 5,
+        "cubeResolution": 8048
+      },
+      "hotSpots": [
+        {
+          "pitch": -4.04,
+          "yaw": 46.00,
+          "type": "info",
+          "text": "All of our dance technique classes have in person accompaniment by staff pianists, percussionists, or both."
+        },
+        {
+          "pitch": -0.50,
+          "yaw": -0.36,
+          "type": "scene",
+          "text": "Margo Jones Theatre",
+          "sceneId": "jones",
+          "targetPitch": 0,
+          "targetYaw": 0
+        },
+        {
+          "pitch": 1.42,
+          "yaw": 39.99,
+          "type": "scene",
+          "text": "Greer Garson Theatre",
+          "sceneId": "garson",
+          "targetPitch": 0,
+          "targetYaw": 0
+        },
+        {
+          "pitch": 5.03,
+          "yaw": -127.92,
+          "type": "scene",
+          "text": "Doolin Gallery",
+          "sceneId": "doolin",
+          "targetPitch": 0,
+          "targetYaw": 0
+        }
+      ]
+    },
+    "DFLab": {
+      "title": "Doolin Fabrication Lab",
+      "author": "This lab is dedicated to building computer generated 3D work.",
+      "northOffset": -90,
+      "multiRes": {
+        "basePath": "img/panos/DFLab",
+        "path": "/%l/%s%y_%x",
+        "fallbackPath": "/fallback/%s",
+        "extension": "jpg",
+        "tileResolution": 512,
+        "maxLevel": 5,
+        "cubeResolution": 8048
+      },
+      "hotSpots": [
+        {
+          "pitch": -2.29,
+          "yaw": 25.77,
+          "type": "info",
+          "text": "This is one of two 3D printers that we have by LulzBot. Our Taz 6 and Workhorse 3D printers are capable of printing with a variety of plastics."
+        },
+        {
+          "pitch": -26.14,
+          "yaw": -67.69,
+          "type": "info",
+          "text": "This is a special printer that has been modified to use glaze powder instead of ink to print onto a piece of paper so that it can be transferred to a ceramic object."
+        },
+        {
+          "pitch": -7.78,
+          "yaw": 116.15,
+          "type": "scene",
+          "text": "Woodshop",
+          "sceneId": "woodshop",
+          "targetPitch": 0,
+          "targetYaw": 0
+        },
+        {
+          "pitch": -4.77,
+          "yaw": -51.73,
+          "type": "scene",
+          "text": "Printmaking Studio",
+          "sceneId": "printmaking",
+          "targetPitch": 0,
+          "targetYaw": 0
+        },
+        {
+          "pitch": -5.87,
+          "yaw": 135.92,
+          "type": "scene",
+          "text": "Ceramics Studio",
+          "sceneId": "ceramics",
+          "targetPitch": 0,
+          "targetYaw": 0
+        }
+      ]
+    },
+    "printmaking": {
+      "title": "Printmaking Studio",
+      "author": "We teach both aquatint and intaglio printing techniques; both use etched copper plates to transfer ink to paper.",
+      "northOffset": -180,
+      "multiRes": {
+        "basePath": "img/panos/printmaking",
+        "path": "/%l/%s%y_%x",
+        "fallbackPath": "/fallback/%s",
+        "extension": "jpg",
+        "tileResolution": 512,
+        "maxLevel": 5,
+        "cubeResolution": 8048
+      },
+      "hotSpots": [
+        {
+          "pitch": -9.72,
+          "yaw": 253.53,
+          "type": "info",
+          "text": "Students are assigned a drawer in which they can store their prints."
+        },
+        {
+          "pitch": -1.10,
+          "yaw": 116.97,
+          "type": "scene",
+          "text": "Woodshop",
+          "sceneId": "woodshop",
+          "targetPitch": 0,
+          "targetYaw": 0
+        },
+        {
+          "pitch": -3.94,
+          "yaw": 235.75,
+          "type": "scene",
+          "text": "Ceramics Studio",
+          "sceneId": "ceramics",
+          "targetPitch": 0,
+          "targetYaw": 0
+        },
+        {
+          "pitch": -6.36,
+          "yaw": 221.29,
+          "type": "scene",
+          "text": "Doolin Fabrication Lab",
+          "sceneId": "DFLab",
+          "targetPitch": 0,
+          "targetYaw": 0
+        }
+      ]
+    },
+    "garson": {
+      "title": "Greer Garson Theatre",
+      "author": "Theatre students present classical and contemporary plays on the Greer Garson thrust stage, as well as readings of plays they have written themselves. Productions are elevated to professional level with scenic, lighting, projection, and costume designs by award-winning M.F.A. Theatre graduate students and Theatre staff.",
+      "northOffset": -180,
+      "multiRes": {
+        "basePath": "img/panos/garson",
+        "path": "/%l/%s%y_%x",
+        "fallbackPath": "/fallback/%s",
+        "extension": "jpg",
+        "tileResolution": 512,
+        "maxLevel": 5,
+        "cubeResolution": 8048
+      },
+      "hotSpots": [
+        {
+          "pitch": -21.67,
+          "yaw": 180.85,
+          "type": "info",
+          "text": "This 261-seat theatre totes a trap door system and its own dressing rooms."
+        },
+        {
+          "pitch": 5.04,
+          "yaw": -35.98,
+          "type": "scene",
+          "text": "Dance Studio 1430",
+          "sceneId": "dance",
+          "targetPitch": 0,
+          "targetYaw": 0
+        },
+        {
+          "pitch": 5.73,
+          "yaw": -26.27,
+          "type": "scene",
+          "text": "Margo Jones Theatre",
+          "sceneId": "jones",
+          "targetPitch": 0,
+          "targetYaw": 0
+        }
+      ]
+    },
+    "painting": {
+      "title": "Painting Studio",
+      "author": "While one of our painting studios is more geared toward acrylic painting and drawing, this nearly identical studio is outfitted with ventilation for oil painting and use of solvent.",
+      "northOffset": -180,
+      "multiRes": {
+        "basePath": "img/panos/painting",
+        "path": "/%l/%s%y_%x",
+        "fallbackPath": "/fallback/%s",
+        "extension": "jpg",
+        "tileResolution": 512,
+        "maxLevel": 5,
+        "cubeResolution": 8048
+      },
+      "hotSpots": [
+        {
+          "pitch": -0.36,
+          "yaw": 6.29,
+          "type": "info",
+          "text": "This studio offers plenty of space for students to store their work as it dries."
+        },
+        {
+          "pitch": -3.77,
+          "yaw": -37.29,
+          "type": "scene",
+          "text": "Doolin Gallery",
+          "sceneId": "doolin",
+          "targetPitch": 0,
+          "targetYaw": 0
+        }
+      ]
+    },
+    "smClass": {
+      "title": "Small Classroom",
+      "author": "",
+      "northOffset": -90,
+      "multiRes": {
+        "basePath": "img/panos/smClass",
+        "path": "/%l/%s%y_%x",
+        "fallbackPath": "/fallback/%s",
+        "extension": "jpg",
+        "tileResolution": 512,
+        "maxLevel": 5,
+        "cubeResolution": 8048
+      }
+    },
+    "LClass": {
+      "title": "Large Classroom",
+      "author": "",
+      "northOffset": -90,
+      "multiRes": {
+        "basePath": "img/panos/LClass",
+        "path": "/%l/%s%y_%x",
+        "fallbackPath": "/fallback/%s",
+        "extension": "jpg",
+        "tileResolution": 512,
+        "maxLevel": 5,
+        "cubeResolution": 8048
+      }
+    },
+    "voice": {
+      "title": "Voice Studio",
+      "author": "",
+      "northOffset": 180,
+      "multiRes": {
+        "basePath": "img/panos/voice",
+        "path": "/%l/%s%y_%x",
+        "fallbackPath": "/fallback/%s",
+        "extension": "jpg",
+        "tileResolution": 512,
+        "maxLevel": 5,
+        "cubeResolution": 8048
+      },
+      "hotSpots": [
+        {
+          "pitch": -3.65,
+          "yaw": -120.57,
+          "type": "scene",
+          "text": "Green Room",
+          "sceneId": "GRoom",
+          "targetPitch": 0,
+          "targetYaw": 0
+        },
+        {
+          "pitch": -3.54,
+          "yaw": -58.91,
+          "type": "scene",
+          "text": "Green Room",
+          "sceneId": "GRoom",
+          "targetPitch": 0,
+          "targetYaw": 0
+        }
+      ]
+    },
+    "B450": {
+      "title": "B450",
+      "author": "",
+      "northOffset": 0,
+      "multiRes": {
+        "basePath": "img/panos/B450",
+        "path": "/%l/%s%y_%x",
+        "fallbackPath": "/fallback/%s",
+        "extension": "jpg",
+        "tileResolution": 512,
+        "maxLevel": 5,
+        "cubeResolution": 8048
+      },
+      "hotSpots": [
+        {
+          "pitch": -0.16,
+          "yaw": 127.97,
+          "type": "scene",
+          "text": "Green Room",
+          "sceneId": "GRoom",
+          "targetPitch": 0,
+          "targetYaw": 0
+        }
+      ]
+    },
+    "B150": {
+      "title": "B150",
+      "author": "",
+      "northOffset": 0,
+      "multiRes": {
+        "basePath": "img/panos/B150",
+        "path": "/%l/%s%y_%x",
+        "fallbackPath": "/fallback/%s",
+        "extension": "jpg",
+        "tileResolution": 512,
+        "maxLevel": 5,
+        "cubeResolution": 8048
+      },
+      "hotSpots": [
+        {
+          "pitch": 5.50,
+          "yaw": 39.84,
+          "type": "scene",
+          "text": "Costume Shop",
+          "sceneId": "costuming",
+          "targetPitch": 0,
+          "targetYaw": 0
+        },
+        {
+          "pitch": 6.19,
+          "yaw": 48.49,
+          "type": "scene",
+          "text": "Sharp Studio",
+          "sceneId": "sharp",
+          "targetPitch": 0,
+          "targetYaw": 0
+        },
+        {
+          "pitch": -4.80,
+          "yaw": -115.61,
+          "type": "scene",
+          "text": "Kathy Bates",
+          "sceneId": "bates",
+          "targetPitch": 0,
+          "targetYaw": 0
+        }
+      ]
+    },
+    "bates": {
+      "title": "Kathy Bates Studio",
+      "author": "",
+      "northOffset": 0,
+      "multiRes": {
+        "basePath": "img/panos/Bates",
+        "path": "/%l/%s%y_%x",
+        "fallbackPath": "/fallback/%s",
+        "extension": "jpg",
+        "tileResolution": 512,
+        "maxLevel": 5,
+        "cubeResolution": 8048
+      },
+      "hotSpots": [
+        {
+          "pitch": -2.53,
+          "yaw": -34.69,
+          "type": "scene",
+          "text": "B150",
+          "sceneId": "B150",
+          "targetPitch": 0,
+          "targetYaw": 0
+        },
+        {
+          "pitch": 5.07,
+          "yaw": 46.51,
+          "type": "scene",
+          "text": "Sharp Studio",
+          "sceneId": "sharp",
+          "targetPitch": 0,
+          "targetYaw": 0
+        },
+        {
+          "pitch": 5.30,
+          "yaw": 55.96,
+          "type": "scene",
+          "text": "Rehearsal Room",
+          "sceneId": "piano",
+          "targetPitch": 0,
+          "targetYaw": 0
+        }
+      ]
+    },
+    "piano": {
+      "title": "Rehearsal Room",
+      "author": "",
+      "northOffset": 45,
+      "multiRes": {
+        "basePath": "img/panos/piano",
+        "path": "/%l/%s%y_%x",
+        "fallbackPath": "/fallback/%s",
+        "extension": "jpg",
+        "tileResolution": 512,
+        "maxLevel": 5,
+        "cubeResolution": 8048
+      },
+      "hotSpots": [
+        {
+          "pitch": -5.02,
+          "yaw": 54.89,
+          "type": "scene",
+          "text": "Kathy Bates",
+          "sceneId": "bates",
+          "targetPitch": 0,
+          "targetYaw": 0
+        }
+      ]
+    },
+    "MTherapy": {
+      "title": "Music Therapy Clinic",
+      "author": "",
+      "northOffset": 180,
+      "multiRes": {
+        "basePath": "img/panos/musicTherapy",
+        "path": "/%l/%s%y_%x",
+        "fallbackPath": "/fallback/%s",
+        "extension": "jpg",
+        "tileResolution": 512,
+        "maxLevel": 5,
+        "cubeResolution": 8048
+      },
+      "hotSpots": [
+        {
+          "pitch": -6.59,
+          "yaw": 141.69,
+          "type": "scene",
+          "text": "Music Ed Breakroom",
+          "sceneId": "break",
+          "targetPitch": 0,
+          "targetYaw": 0
+        }
+      ]
+    },
+    "DHallLights": {
+      "title": "Dallas Hall",
+      "author": "",
+      "northOffset": 0,
+      "multiRes": {
+        "basePath": "img/panos/DHallLights",
+        "path": "/%l/%s%y_%x",
+        "fallbackPath": "/fallback/%s",
+        "extension": "jpg",
+        "tileResolution": 512,
+        "maxLevel": 6,
+        "cubeResolution": 10312
+      },
+      "hotSpots": [
+        {
+          "pitch": -0.431,
+          "yaw": 179.45,
+          "type": "scene",
+          "text": "high-res panorama view",
+          "URL": "https://meadowstour.com/DHLights"
+        }
+      ]
+    },
+    "band": {
+      "title": "Band Hall",
+      "author": "",
+      "northOffset": 180,
+      "multiRes": {
+        "basePath": "img/panos/band",
+        "path": "/%l/%s%y_%x",
+        "fallbackPath": "/fallback/%s",
+        "extension": "jpg",
+        "tileResolution": 512,
+        "maxLevel": 5,
+        "cubeResolution": 8048
+      },
+      "hotSpots": [
+        {
+          "pitch": -1.87,
+          "yaw": 28.31,
+          "type": "scene",
+          "text": "Taubman Atrium",
+          "sceneId": "taubman",
+          "targetPitch": 0,
+          "targetYaw": 0
+        }
+      ]
+    },
+    "break": {
+      "title": "Music Ed breakroom",
+      "author": "",
+      "northOffset": -90,
+      "multiRes": {
+        "basePath": "img/panos/break",
+        "path": "/%l/%s%y_%x",
+        "fallbackPath": "/fallback/%s",
+        "extension": "jpg",
+        "tileResolution": 512,
+        "maxLevel": 5,
+        "cubeResolution": 8048
+      },
+      "hotSpots": [
+        {
+          "pitch": -7.97,
+          "yaw": 197.05,
+          "type": "scene",
+          "text": "Music Therapy Clinic",
+          "sceneId": "MTherapy",
+          "targetPitch": 0,
+          "targetYaw": 0
+        },
+        {
+          "pitch": -10.29,
+          "yaw": 6.48,
+          "type": "scene",
+          "text": "Taubman Atrium",
+          "sceneId": "taubman",
+          "targetPitch": 0,
+          "targetYaw": 0
+        }
+      ]
+    },
+    "choir": {
+      "title": "Choir Hall",
+      "author": "",
+      "northOffset": 180,
+      "multiRes": {
+        "basePath": "img/panos/choir",
+        "path": "/%l/%s%y_%x",
+        "fallbackPath": "/fallback/%s",
+        "extension": "jpg",
+        "tileResolution": 512,
+        "maxLevel": 5,
+        "cubeResolution": 8048
+      },
+      "hotSpots": [
+        {
+          "pitch": -2.38,
+          "yaw": 111.07,
+          "type": "scene",
+          "text": "Taubman Atrium",
+          "sceneId": "taubman",
+          "targetPitch": 0,
+          "targetYaw": 0
+        }
+      ]
+    },
+    "costuming": {
+      "title": "Costume Shop",
+      "author": "Costumes for dance, theatre, and opera are professionally designed, built, and fitted for our students in our costume shop.",
+      "northOffset": -90,
+      "multiRes": {
+        "basePath": "img/panos/costuming",
+        "path": "/%l/%s%y_%x",
+        "fallbackPath": "/fallback/%s",
+        "extension": "jpg",
+        "tileResolution": 512,
+        "maxLevel": 5,
+        "cubeResolution": 8048
+      },
+      "hotSpots": [
+        {
+          "pitch": -2.34,
+          "yaw": 93.65,
+          "type": "scene",
+          "text": "Green Room",
+          "sceneId": "GRoom",
+          "targetPitch": 0,
+          "targetYaw": 0
+        },
+        {
+          "pitch": -4.57,
+          "yaw": 239.28,
+          "type": "scene",
+          "text": "Sharp Studio",
+          "sceneId": "sharp",
+          "targetPitch": 0,
+          "targetYaw": 0
+        },
+        {
+          "pitch": -4.12,
+          "yaw": 249.54,
+          "type": "scene",
+          "text": "B150",
+          "sceneId": "B150",
+          "targetPitch": 0,
+          "targetYaw": 0
+        }
+      ]
+    },
+    "bandOffice": {
+      "title": "Band Office",
+      "author": "",
+      "northOffset": 180,
+      "multiRes": {
+        "basePath": "img/panos/bandOffice",
+        "path": "/%l/%s%y_%x",
+        "fallbackPath": "/fallback/%s",
+        "extension": "jpg",
+        "tileResolution": 512,
+        "maxLevel": 5,
+        "cubeResolution": 8048
+      }
+    },
+    "lemmon": {
+      "title": "Lemmon Classroom",
+      "author": "",
+      "northOffset": 180,
+      "multiRes": {
+        "basePath": "img/panos/lemmon",
+        "path": "/%l/%s%y_%x",
+        "fallbackPath": "/fallback/%s",
+        "extension": "jpg",
+        "tileResolution": 512,
+        "maxLevel": 5,
+        "cubeResolution": 8048
+      }
+    },
+    "coxPainting3rdE": {
+      "title": "Cox Painting Studio",
+      "author": "",
+      "northOffset": 180,
+      "multiRes": {
+        "basePath": "img/panos/coxPainting3rdE",
+        "path": "/%l/%s%y_%x",
+        "fallbackPath": "/fallback/%s",
+        "extension": "jpg",
+        "tileResolution": 512,
+        "maxLevel": 5,
+        "cubeResolution": 8048
+      }
+    },
+    "crComp": {
+      "title": "Sexton Family Creative Computation Suite",
+      "author": "",
+      "northOffset": 180,
+      "multiRes": {
+        "basePath": "img/panos/crComp",
+        "path": "/%l/%s%y_%x",
+        "fallbackPath": "/fallback/%s",
+        "extension": "jpg",
+        "tileResolution": 512,
+        "maxLevel": 5,
+        "cubeResolution": 8048
+      }
+    },
+    "darkroom": {
+      "title": "darkroom",
+      "author": "",
+      "northOffset": 180,
+      "multiRes": {
+        "basePath": "img/panos/darkroom",
+        "path": "/%l/%s%y_%x",
+        "fallbackPath": "/fallback/%s",
+        "extension": "jpg",
+        "tileResolution": 512,
+        "maxLevel": 5,
+        "cubeResolution": 8048
+      }
+    },
+    "digimaging": {
+      "title": "digital imaging lab",
+      "author": "",
+      "northOffset": 180,
+      "multiRes": {
+        "basePath": "img/panos/digimaging",
+        "path": "/%l/%s%y_%x",
+        "fallbackPath": "/fallback/%s",
+        "extension": "jpg",
+        "tileResolution": 512,
+        "maxLevel": 5,
+        "cubeResolution": 8048
+      }
+    },
+    "drawing2nd": {
+      "title": "drawing studio",
+      "author": "",
+      "northOffset": 180,
+      "multiRes": {
+        "basePath": "img/panos/drawing2nd",
+        "path": "/%l/%s%y_%x",
+        "fallbackPath": "/fallback/%s",
+        "extension": "jpg",
+        "tileResolution": 512,
+        "maxLevel": 5,
+        "cubeResolution": 8048
+      }
+    },
+    "jordan": {
+      "title": "Jordan Gallery",
+      "author": "",
+      "northOffset": 180,
+      "multiRes": {
+        "basePath": "img/panos/jordan",
+        "path": "/%l/%s%y_%x",
+        "fallbackPath": "/fallback/%s",
+        "extension": "jpg",
+        "tileResolution": 512,
+        "maxLevel": 5,
+        "cubeResolution": 8048
+      }
+    },
+    "lounge": {
+      "title": "Altabef Student Lounge",
+      "author": "",
+      "northOffset": 180,
+      "multiRes": {
+        "basePath": "img/panos/lounge",
+        "path": "/%l/%s%y_%x",
+        "fallbackPath": "/fallback/%s",
+        "extension": "jpg",
+        "tileResolution": 512,
+        "maxLevel": 5,
+        "cubeResolution": 8048
+      }
+    }
+  }
 }
