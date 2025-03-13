@@ -334,7 +334,7 @@
                           "author": "This space is predominantly used as a critique gallery where students install their work then discuss as a class. Students can also reserve the space for finals and to put on their own exhibitions.",
                           "northOffset": 89.29,
                           "multiRes": {
-                                      "basePath": "img/panos/doolin",
+                                      "basePath": "img/panos/doolin2",
                                       "path": "/%l/%s%y_%x",
                                       "fallbackPath": "/fallback/%s",
                                       "extension": "jpg",
