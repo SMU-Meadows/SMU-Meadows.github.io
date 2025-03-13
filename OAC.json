@@ -344,14 +344,8 @@
                                       },
                           "hotSpots": [
                                         {
-                                          "pitch": 5.55,
-                                          "yaw": 197.25,
-                                          "type": "info",
-                                          "text": "The blackout curtains accommodate video projection or a variety of lighting options."
-                                        },
-                                        {
-                                          "pitch": -0.32,
-                                          "yaw": -318.06,
+                                          "pitch": -0.37,
+                                          "yaw": 138.0,
                                           "type": "scene",
                                           "text": "Bob Hope Lobby",
                                           "sceneId": "HLobby",
@@ -359,8 +353,8 @@
                                           "targetYaw": 0
                                         },
                                         {
-                                          "pitch": -4.91,
-                                          "yaw": 33.09,
+                                          "pitch": -7.27,
+                                          "yaw": 130.05,
                                           "type": "scene",
                                           "text": "Woodshop",
                                           "sceneId": "woodshop",
@@ -368,8 +362,8 @@
                                           "targetYaw": 0
                                         },
                                         {
-                                          "pitch": 3.17,
-                                          "yaw": 137.61,
+                                          "pitch": -0.22,
+                                          "yaw": 241.1,
                                           "type": "scene",
                                           "text": "Dance Studio 1430",
                                           "sceneId": "dance",
@@ -377,8 +371,8 @@
                                           "targetYaw": 0
                                         },
                                         {
-                                          "pitch": 5.87,
-                                          "yaw": -327.32,
+                                          "pitch": 4.07,
+                                          "yaw": 129.92,
                                           "type": "scene",
                                           "text": "Painting Studio",
                                           "sceneId": "painting",
