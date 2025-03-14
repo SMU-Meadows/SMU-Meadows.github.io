@@ -79,6 +79,15 @@
           "targetYaw": 0,
           "pitch": -2.24,
           "yaw": 53.93
+        },
+        {
+          "type": "scene",
+          "text": "Jordan Gallery",
+          "sceneId": "jordan",
+          "targetPitch": 0,
+          "targetYaw": 0,
+          "pitch": -0.31,
+          "yaw": 90
         }
       ]
     },
@@ -1492,7 +1501,7 @@
       },
       "hotSpots": [
         {
-          "pitch": -9,
+          "pitch": -9.6,
           "yaw": 30.34,
           "type": "scene",
           "text": "Doolin Gallery",
@@ -1517,7 +1526,8 @@
           "sceneId": "sextonArt3rdW",
           "targetPitch": 0,
           "targetYaw": 0
-        }]
+        }
+      ]
     },
     "jordan": {
       "title": "Jordan Gallery",
@@ -1531,7 +1541,27 @@
         "tileResolution": 512,
         "maxLevel": 5,
         "cubeResolution": 8048
-      }
+      },
+      "hotSpots": [
+        {
+          "pitch": -0.47,
+          "yaw": -62.77,
+          "type": "scene",
+          "text": "Hope Lobby",
+          "sceneId": "HLobby",
+          "targetPitch": 0,
+          "targetYaw": 0
+        },
+        {
+          "pitch": -0.33,
+          "yaw": -44.2,
+          "type": "scene",
+          "text": "Doolin Gallery",
+          "sceneId": "doolin",
+          "targetPitch": 0,
+          "targetYaw": 0
+        }
+      ]
     },
     "lounge": {
       "title": "Altabef Student Lounge",
@@ -1578,7 +1608,17 @@
           "sceneId": "drawing2nd",
           "targetPitch": 0,
           "targetYaw": 0
-        }]
+        },
+        {
+          "pitch": -0.31,
+          "yaw": 108.32,
+          "type": "scene",
+          "text": "Hope Lobby",
+          "sceneId": "HLobby",
+          "targetPitch": 0,
+          "targetYaw": 0
+        }
+      ]
     },
     "sextonArt3rdW": {
       "title": "Sexton Family Art Studio",
