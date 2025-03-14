@@ -1647,6 +1647,20 @@
         "maxLevel": 5,
         "cubeResolution": 8048
       }
+    },
+    "HLobby23": {
+      "title": "Hope Lobby",
+      "author": "",
+      "northOffset": -90,
+      "multiRes": {
+        "basePath": "img/panos/HLobby23",
+        "path": "/%l/%s%y_%x",
+        "fallbackPath": "/fallback/%s",
+        "extension": "jpg",
+        "tileResolution": 512,
+        "maxLevel": 5,
+        "cubeResolution": 8048
+      }
     }
   }
 }
