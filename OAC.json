@@ -116,7 +116,7 @@
           "yaw": -129.5,
           "type": "scene",
           "text": "Hope Lobby",
-          "sceneId": "HLobby",
+          "sceneId": "HLobby23",
           "targetPitch": 0,
           "targetYaw": 0
         },
@@ -202,7 +202,7 @@
           "yaw": 178.77,
           "type": "scene",
           "text": "Hope Lobby",
-          "sceneId": "HLobby",
+          "sceneId": "HLobby23",
           "targetPitch": 0,
           "targetYaw": 0
         },
@@ -251,7 +251,7 @@
           "yaw": 148.88,
           "type": "scene",
           "text": "Bob Hope Lobby",
-          "sceneId": "HLobby",
+          "sceneId": "HLobby23",
           "targetPitch": 0,
           "targetYaw": 0
         },
@@ -349,7 +349,7 @@
           "yaw": 138.0,
           "type": "scene",
           "text": "Bob Hope Lobby",
-          "sceneId": "HLobby",
+          "sceneId": "HLobby23",
           "targetPitch": 0,
           "targetYaw": 0
         },
@@ -1490,7 +1490,18 @@
         "tileResolution": 512,
         "maxLevel": 5,
         "cubeResolution": 8048
-      }
+      },
+      "hotSpots": [
+        {
+          "pitch": -1.56,
+          "yaw": -143.5,
+          "type": "scene",
+          "text": "Drawing Studio",
+          "sceneId": "drawing2nd",
+          "targetPitch": 0,
+          "targetYaw": 0
+        }
+      ]
     },
     "drawing2nd": {
       "title": "drawing studio",
@@ -1541,6 +1552,15 @@
           "sceneId": "printmaking",
           "targetPitch": 0,
           "targetYaw": 0
+        },
+        {
+          "pitch": -0.25,
+          "yaw": -60,
+          "type": "scene",
+          "text": "Digital Imaging Lab",
+          "sceneId": "digimaging",
+          "targetPitch": 0,
+          "targetYaw": 0
         }
       ]
     },
@@ -1563,7 +1583,7 @@
           "yaw": -62.77,
           "type": "scene",
           "text": "Hope Lobby",
-          "sceneId": "HLobby",
+          "sceneId": "HLobby23",
           "targetPitch": 0,
           "targetYaw": 0
         },
@@ -1658,7 +1678,7 @@
           "yaw": 108.32,
           "type": "scene",
           "text": "Hope Lobby",
-          "sceneId": "HLobby",
+          "sceneId": "HLobby23",
           "targetPitch": 0,
           "targetYaw": 0
         }
@@ -1764,6 +1784,15 @@
         "cubeResolution": 8048
       },
       "hotSpots": [
+        {
+          "pitch": -1.53,
+          "yaw": -51.86,
+          "type": "scene",
+          "text": "Caruth Auditorium",
+          "sceneId": "caruth",
+          "targetPitch": 0,
+          "targetYaw": 0
+        },
         {
           "pitch": 0,
           "yaw": 0,
