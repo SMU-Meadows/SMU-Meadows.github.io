@@ -445,15 +445,6 @@
           "targetYaw": 0
         },
         {
-          "pitch": -6.16,
-          "yaw": -185.47,
-          "type": "scene",
-          "text": "Printmaking Studio",
-          "sceneId": "printmaking",
-          "targetPitch": 0,
-          "targetYaw": 0
-        },
-        {
           "pitch": 4.32,
           "yaw": 189.14,
           "type": "scene",
@@ -541,15 +532,6 @@
           "yaw": -283.36,
           "type": "info",
           "text": "This is a small clay mixer that is solely dedicated to making porcelain clay."
-        },
-        {
-          "pitch": -2.84,
-          "yaw": 45.66,
-          "type": "scene",
-          "text": "Printmaking Studio",
-          "sceneId": "printmaking",
-          "targetPitch": 0,
-          "targetYaw": 0
         },
         {
           "pitch": -1.31,
@@ -886,15 +868,6 @@
           "type": "scene",
           "text": "Woodshop",
           "sceneId": "woodshop",
-          "targetPitch": 0,
-          "targetYaw": 0
-        },
-        {
-          "pitch": -4.77,
-          "yaw": -51.73,
-          "type": "scene",
-          "text": "Printmaking Studio",
-          "sceneId": "printmaking",
           "targetPitch": 0,
           "targetYaw": 0
         },
@@ -1632,7 +1605,45 @@
         "tileResolution": 512,
         "maxLevel": 5,
         "cubeResolution": 8048
-      }
+      },
+      "hotSpots": [
+        {
+          "pitch": -8,
+          "yaw": -138,
+          "type": "scene",
+          "text": "Drawing Studio",
+          "sceneId": "drawing2nd",
+          "targetPitch": 0,
+          "targetYaw": 0
+        },
+        {
+          "pitch": -0.97,
+          "yaw": -134.28,
+          "type": "scene",
+          "text": "Altabef Lounge",
+          "sceneId": "lounge",
+          "targetPitch": 0,
+          "targetYaw": 0
+        },
+        {
+          "pitch": -1.05,
+          "yaw": -229.92,
+          "type": "scene",
+          "text": "Undergrad Art Studios",
+          "sceneId": "UGStudio",
+          "targetPitch": 0,
+          "targetYaw": 0
+        },
+        {
+          "pitch": -0.75,
+          "yaw": -284.88,
+          "type": "scene",
+          "text": "Cox Painting Studio",
+          "sceneId": "coxPainting3rdE",
+          "targetPitch": 0,
+          "targetYaw": 0
+        }
+      ]
     },
     "UGStudio": {
       "title": "Surls Undergraduate Art Studios",
