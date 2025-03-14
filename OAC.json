@@ -372,8 +372,8 @@
           "targetYaw": 0
         },
         {
-          "pitch": 4.07,
-          "yaw": 129.92,
+          "pitch": -3,
+          "yaw": -230.12,
           "type": "scene",
           "text": "Moussa Studio",
           "sceneId": "moussa",
@@ -1531,7 +1531,26 @@
         "tileResolution": 512,
         "maxLevel": 5,
         "cubeResolution": 8048
-      }
+      },
+      "hotSpots": [
+        {
+          "pitch": -0.34,
+          "yaw": -115.04,
+          "type": "scene",
+          "text": "Doolin Gallery",
+          "sceneId": "doolin",
+          "targetPitch": 0,
+          "targetYaw": 0
+        },
+        {
+          "pitch": 5.9,
+          "yaw": -115.05,
+          "type": "scene",
+          "text": "Drawing Studio",
+          "sceneId": "drawing2nd",
+          "targetPitch": 0,
+          "targetYaw": 0
+        }]
     },
     "sextonArt3rdW": {
       "title": "Sexton Family Art Studio",
