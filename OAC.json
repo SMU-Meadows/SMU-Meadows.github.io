@@ -1669,7 +1669,42 @@
         "tileResolution": 512,
         "maxLevel": 5,
         "cubeResolution": 8048
-      }
+      },
+      "hotSpots": [
+        {
+          "pitch": 0,
+          "yaw": 0,
+          "type": "scene",
+          "text": "Bob Hope Theatre",
+          "sceneId": "HopeSMU",
+          "targetPitch": 0,
+          "targetYaw": 0
+        },
+        {
+          "pitch": -0.34,
+          "yaw": -26.62,
+          "type": "scene",
+          "text": "Taubman Atrium",
+          "sceneId": "taubman",
+          "targetPitch": 0,
+          "targetYaw": 0
+        },
+        {
+          "pitch": -0.53,
+          "yaw": 40.61,
+          "type": "scene",
+          "text": "Jordan Gallery",
+          "sceneId": "jordan",
+          "targetPitch": 0,
+          "targetYaw": 0
+        },
+        {
+          "type": "info",
+          "text": "Radio, movie, and TV star Bob Hope was not an alumnus of SMU but was a longtime friend. In the 1960s, Hope made generous donations to SMU for the development of the namesake theatre, now located inside the Owen Arts Center. Since its opening in 1968, performances on the Hope stage have prepared hundreds of theatre, dance, film, and music students for their careers.",
+          "pitch": 2.65,
+          "yaw": -2.4
+        }
+      ]
     }
   }
 }
