@@ -5,7 +5,7 @@
     "hfov": 105.0,
     "type": "multires",
     "compass": true,
-    "hotSpotDebug": false,
+    "hotSpotDebug": true,
     "autoRotate": -1
   },
   "scenes": {
@@ -345,7 +345,7 @@
           "targetYaw": 0
         },
         {
-          "pitch": -7.27,
+          "pitch": -12.27,
           "yaw": 130.05,
           "type": "scene",
           "text": "Woodshop",
@@ -366,8 +366,17 @@
           "pitch": 4.07,
           "yaw": 129.92,
           "type": "scene",
-          "text": "Painting Studio",
-          "sceneId": "painting",
+          "text": "Drawing Studio",
+          "sceneId": "drawing2nd",
+          "targetPitch": 0,
+          "targetYaw": 0
+        },
+        {
+          "pitch": 4.07,
+          "yaw": 129.92,
+          "type": "scene",
+          "text": "Moussa Studio",
+          "sceneId": "moussa",
           "targetPitch": 0,
           "targetYaw": 0
         }
