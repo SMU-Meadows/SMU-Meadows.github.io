@@ -1392,7 +1392,18 @@
         "tileResolution": 512,
         "maxLevel": 5,
         "cubeResolution": 8048
-      }
+      },
+      "hotSpots": [
+        {
+          "pitch": -3.75,
+          "yaw": 17.78,
+          "type": "scene",
+          "text": "Altabef Student Lounge",
+          "sceneId": "lounge",
+          "targetPitch": 0,
+          "targetYaw": 0
+        }
+      ]
     },
     "coxPainting3rdE": {
       "title": "Cox Painting Studio",
@@ -1406,7 +1417,27 @@
         "tileResolution": 512,
         "maxLevel": 5,
         "cubeResolution": 8048
-      }
+      },
+      "hotSpots": [
+        {
+          "pitch": -1.84,
+          "yaw": -55.19,
+          "type": "scene",
+          "text": "Sexton Art Studio",
+          "sceneId": "sextonArt3rdW",
+          "targetPitch": 0,
+          "targetYaw": 0
+        },
+        {
+          "pitch": -1.72,
+          "yaw": -115.04,
+          "type": "scene",
+          "text": "Undergrad Art Studios",
+          "sceneId": "UGStudio",
+          "targetPitch": 0,
+          "targetYaw": 0
+        }
+      ]
     },
     "crComp": {
       "title": "Sexton Family Creative Computation Suite",
@@ -1420,7 +1451,18 @@
         "tileResolution": 512,
         "maxLevel": 5,
         "cubeResolution": 8048
-      }
+      },
+      "hotSpots": [
+        {
+          "pitch": -0.94,
+          "yaw": 71.21,
+          "type": "scene",
+          "text": "Altabef Student Lounge",
+          "sceneId": "lounge",
+          "targetPitch": 0,
+          "targetYaw": 0
+        }
+      ]
     },
     "darkroom": {
       "title": "darkroom",
@@ -1686,7 +1728,27 @@
         "tileResolution": 512,
         "maxLevel": 5,
         "cubeResolution": 8048
-      }
+      },
+      "hotSpots": [
+        {
+          "pitch": -0.93,
+          "yaw": -16.28,
+          "type": "scene",
+          "text": "Sexton Art Studio",
+          "sceneId": "sextonArt3rdW",
+          "targetPitch": 0,
+          "targetYaw": 0
+        },
+        {
+          "pitch": -0.93,
+          "yaw": -8.37,
+          "type": "scene",
+          "text": "Cox Painting Studio",
+          "sceneId": "coxPainting3rdE",
+          "targetPitch": 0,
+          "targetYaw": 0
+        }
+      ]
     },
     "HLobby23": {
       "title": "Hope Lobby",
