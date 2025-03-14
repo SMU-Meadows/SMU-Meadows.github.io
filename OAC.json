@@ -1489,7 +1489,35 @@
         "tileResolution": 512,
         "maxLevel": 5,
         "cubeResolution": 8048
-      }
+      },
+      "hotSpots": [
+        {
+          "pitch": -9,
+          "yaw": 30.34,
+          "type": "scene",
+          "text": "Doolin Gallery",
+          "sceneId": "doolin",
+          "targetPitch": 0,
+          "targetYaw": 0
+        },
+        {
+          "pitch": -9.6,
+          "yaw": 18.75,
+          "type": "scene",
+          "text": "Moussa Studio",
+          "sceneId": "moussa",
+          "targetPitch": 0,
+          "targetYaw": 0
+        },
+        {
+          "pitch": 5.5,
+          "yaw": 30.74,
+          "type": "scene",
+          "text": "Sexton Studio",
+          "sceneId": "sextonArt3rdW",
+          "targetPitch": 0,
+          "targetYaw": 0
+        }]
     },
     "jordan": {
       "title": "Jordan Gallery",
