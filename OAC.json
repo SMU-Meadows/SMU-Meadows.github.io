@@ -1548,7 +1548,36 @@
         "tileResolution": 512,
         "maxLevel": 5,
         "cubeResolution": 8048
-      }
+      },
+      "hotSpots": [
+        {
+          "pitch": -1.48,
+          "yaw": 15.87,
+          "type": "scene",
+          "text": "Sexton Art Studio",
+          "sceneId": "sextonArt3rdW",
+          "targetPitch": 0,
+          "targetYaw": 0
+        },
+        {
+          "pitch": -2.34,
+          "yaw": -13.3,
+          "type": "scene",
+          "text": "Creative Comp Suite",
+          "sceneId": "crComp",
+          "targetPitch": 0,
+          "targetYaw": 0
+        },
+        {
+          "pitch": 0.39,
+          "yaw": -75.11,
+          "type": "scene",
+          "text": "Lemmon Classroom",
+          "sceneId": "lemmon",
+          "targetPitch": 0,
+          "targetYaw": 0
+        }
+      ]
     },
     "moussa": {
       "title": "Moussa Foundation Studio",
