@@ -930,29 +930,20 @@
           "text": "Students are assigned a drawer in which they can store their prints."
         },
         {
-          "pitch": -1.10,
-          "yaw": 116.97,
+          "pitch": -0.56,
+          "yaw": 52.56,
           "type": "scene",
-          "text": "Woodshop",
-          "sceneId": "woodshop",
+          "text": "Drawing Studio",
+          "sceneId": "drawing2nd",
           "targetPitch": 0,
           "targetYaw": 0
         },
         {
-          "pitch": -3.94,
-          "yaw": 235.75,
+          "pitch": 6.1,
+          "yaw": 52.56,
           "type": "scene",
-          "text": "Ceramics Studio",
-          "sceneId": "ceramics",
-          "targetPitch": 0,
-          "targetYaw": 0
-        },
-        {
-          "pitch": -6.36,
-          "yaw": 221.29,
-          "type": "scene",
-          "text": "Doolin Fabrication Lab",
-          "sceneId": "DFLab",
+          "text": "Cox Painting Studio",
+          "sceneId": "coxPainting3rdE",
           "targetPitch": 0,
           "targetYaw": 0
         }
@@ -1686,6 +1677,15 @@
           "type": "scene",
           "text": "Taubman Atrium",
           "sceneId": "taubman",
+          "targetPitch": 0,
+          "targetYaw": 0
+        },
+        {
+          "pitch": -0.67,
+          "yaw": 26.28,
+          "type": "scene",
+          "text": "Doolin Gallery",
+          "sceneId": "doolin",
           "targetPitch": 0,
           "targetYaw": 0
         },
