@@ -1526,6 +1526,15 @@
           "sceneId": "sextonArt3rdW",
           "targetPitch": 0,
           "targetYaw": 0
+        },
+        {
+          "pitch": -1.2,
+          "yaw": 18.75,
+          "type": "scene",
+          "text": "Printmaking Sudio",
+          "sceneId": "printmaking",
+          "targetPitch": 0,
+          "targetYaw": 0
         }
       ]
     },
